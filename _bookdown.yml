@@ -2,8 +2,9 @@ book_filename: "Course_Name"
 chapter_name: "Chapter "
 repo: https://github.com/jhudsl/OTTR_Template/
 rmd_files: ["index.Rmd",
-            "01-intro.Rmd",
-            "02-chapter_of_course.Rmd",
+            "02-lab_exercises.Rmd",
+            "02a-prelab_model_organisms.Rmd",
+            "02b-lab_lecture.Rmd",
             "About.Rmd",
             "References.Rmd"]
 new_session: yes
