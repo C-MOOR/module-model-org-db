@@ -9,14 +9,12 @@ knitr::include_graphics("assets/model_org_intro/model_organism_collage.jpeg")
 
 #### Learning Goals {-}
 
-  - 'Explain what a "model organism" is and why they are useful'
-  - 'Define **ortholog** and explain how model organisms can be used to understand human genes.'
-  - 'Name 4 commonly used model organisms'
-  - 'Compare and contrast the pros and cons of different model organisms'
+  - Explain what a "model organism" is and why they are useful
+  - Define **ortholog** and explain how model organisms can be used to understand human genes.
+  - Name 4 commonly used model organisms
+  - Compare and contrast the pros and cons of different model organisms
 
-### Introduction
-
-#### What is a model organism?
+### What is a model organism?
 
 Scientists who study biology often choose to focus their work on a few specific organisms.  These are called **model organisms**, because they are being used as a “model” for biological processes occurring in many species.  This works because many biological processes are **conserved** - they work the same way in many different organisms.
 
@@ -35,7 +33,7 @@ It’s often much **faster, cheaper, and easier** to conduct experiments in mode
 In the following video, you will hear about how researchers are using yeast and fruit flies as model organisms to study Huntington’s disease.
 ![](https://www.youtube.com/watch?v=mqsq7R1Hu4g)
 
-#### Common Model Organisms
+### What makes a good model organism?
 
 Some of the most common model organisms are:
 
@@ -54,7 +52,7 @@ The more a model organism is studied, the more useful it becomes for future rese
 - New tools and techniques are developed, so there are more options for carrying out experiments
 - As we learn more about an organism, it becomes easier to interpret new results.  It’s a lot easier to understand how a particular mutation might be causing problems if we already know a lot about the gene the mutation was found in.
 
-#### Choosing a model organism
+#### Considerations when choosing a model organism
 
 Obviously, the most accurate way to learn about humans is to study humans, but this is not always the best option.  In fact, it can often be more efficient to conduct experiments in simpler organisms - they are smaller, easier to care for, and have shorter generation times, so we can do a lot more experiments.  Then, as we come to have a better understanding of our particular question, we can investigate the nuances in more complex organisms.
 
