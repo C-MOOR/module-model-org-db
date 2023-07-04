@@ -1,4 +1,4 @@
-## "Introduction to Model Organisms"
+## Introduction to Model Organisms
 
 Scientists frequently use a few specific organisms, called "**model organisms**" for their experiments.  This tutorial will introduce you to a few of the most popular model organisms and will discuss why these organisms were chosen and what they are useful for.
 
@@ -7,9 +7,59 @@ Scientists frequently use a few specific organisms, called "**model organisms**"
 knitr::include_graphics("assets/model_org_intro/model_organism_collage.jpeg")
 ```
 
-### Learning Goals
+#### Learning Goals {-}
 
   - 'Explain what a "model organism" is and why they are useful'
   - 'Define **ortholog** and explain how model organisms can be used to understand human genes.'
   - 'Name 4 commonly used model organisms'
   - 'Compare and contrast the pros and cons of different model organisms'
+
+### Introduction
+
+#### What is a model organism?
+
+Scientists who study biology often choose to focus their work on a few specific organisms.  These are called **model organisms**, because they are being used as a “model” for biological processes occurring in many species.  This works because many biological processes are **conserved** - they work the same way in many different organisms.
+
+Coordinating our experiments in the same organisms has many advantages:
+
+- We can easily compare results and build off of each other’s work
+- Tools and techniques developed in one lab can be used by many other researchers
+- We build up a strong understanding of those organisms, which makes it easier to understand new results.
+
+Besides studying basic biology, model organisms can also be useful for learning more about humans and human diseases.  There are many questions we would like to answer for which we **can’t conduct human experiments**, either for ethical reasons, or just because it is too difficult.
+
+It’s often much **faster, cheaper, and easier** to conduct experiments in model organisms.  A common strategy is to start by doing many experiments in a simple organism (like yeast), and then follow up on the most promising results in more complex organisms.
+
+#### Models of Huntington's disease
+
+In the following video, you will hear about how researchers are using yeast and fruit flies as model organisms to study Huntington’s disease.
+![](https://www.youtube.com/watch?v=mqsq7R1Hu4g)
+
+#### Common Model Organisms
+
+Some of the most common model organisms are:
+
+- Mouse (*Mus musculus*)
+- Fruit fly (*Drosophila melanogaster*)
+- Yeast (*Saccharomyces cerevisiae*)
+- E. coli (*Escherichia coli*, a type of bacteria)
+
+These organisms were chosen for a combination of practical and historical reasons
+
+- They have useful properties that makes it easy to do experiments (for example, short generation times make genetic experiments easier)
+- Important discoveries were made with them, and scientists continued to work with them to follow up on those discoveries
+
+The more a model organism is studied, the more useful it becomes for future research.
+
+- New tools and techniques are developed, so there are more options for carrying out experiments
+- As we learn more about an organism, it becomes easier to interpret new results.  It’s a lot easier to understand how a particular mutation might be causing problems if we already know a lot about the gene the mutation was found in.
+
+#### Choosing a model organism
+
+Obviously, the most accurate way to learn about humans is to study humans, but this is not always the best option.  In fact, it can often be more efficient to conduct experiments in simpler organisms - they are smaller, easier to care for, and have shorter generation times, so we can do a lot more experiments.  Then, as we come to have a better understanding of our particular question, we can investigate the nuances in more complex organisms.
+
+Generally the more complex and more similar an organism is to a human, the more confident we can be that the results of an experiment will apply to humans as well.  But, there are other important considerations:
+
+1. **Ethical concerns**: More complex organisms require more care and consideration for their treatment.  We take care to avoid causing unnecessary distress, and evaluate whether a study can be conducted effectively with less complex organisms.
+1. **Expense**: More complex organisms are more expensive to care for and tend to reproduce more slowly and in smaller quantities.  With limited time and resources we need to think about how to efficiently obtain the information we are seeking.
+1. **Available tools and techniques**: Some organisms are easier to work with than others for particular types of experiments.  Yeast are great for genetics - it’s easy to edit their genome.  Fruit flies are similarly useful for genetics - they aren’t as easy as yeast, but they are the easiest multicellular model organism to work with for genetic experiments.  Zebrafish embryos are transparent, so they are particularly good for microscopy experiments.
