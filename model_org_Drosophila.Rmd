@@ -1,0 +1,15 @@
+## *Drosophila melanogaster* (fruit fly)
+
+```{r, echo=FALSE, fig.alt="Picture of a fruit fly", fig.cap = "Sanjay Acharya (2017) A fruit fly (*Drosophila melanogaster*) feeding off a banana. https://commons.wikimedia.org/wiki/File:Drosophila_melanogaster_Proboscis.jpg License: [CC BY 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en)"}
+
+knitr::include_graphics("assets/model_org_Drosophila/fruit_fly.jpeg")
+```
+
+#### Learning Goals {-}
+
+- Provide 3 reasons why fruit flies are useful for scientific research
+- List 3 ways in which fruit flies are similar to humans
+- Compare and contrast the fruit fly genome to the human genome
+- Briefly describe the fruit fly life cycle
+
+### Why fruit flies?
