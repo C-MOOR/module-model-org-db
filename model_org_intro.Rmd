@@ -83,7 +83,6 @@ Generally the more complex and more similar an organism is to a human, the more 
 - Usually 6-8 offspring per generation (range ~3-14)
 - How long to get 1000 offspring?  **~ 6-8 months**
 
-<br>
 
 #### Fruit fly {-}
 
@@ -103,7 +102,6 @@ Generally the more complex and more similar an organism is to a human, the more 
 - Hundreds of offspring per generation
 - How long to get 1000 offspring?  **~ 1 month**
 
-<br>
 
 #### Yeast {-}
 
@@ -123,7 +121,6 @@ Generally the more complex and more similar an organism is to a human, the more 
 - 1 offspring per reproduction ("budding")
 - How long to get 1000 offspring? **1 day**
 
-<br>
 
 #### *E. coli* {-}
 
@@ -144,7 +141,6 @@ Generally the more complex and more similar an organism is to a human, the more 
 - 1 offspring per reproduction ("binary fission")
 - How long to get 1000 offspring? **4 hours **
 
-<br>
 
 #### Other organisms {-}
 
