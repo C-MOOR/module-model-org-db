@@ -4,17 +4,3 @@ author:
 time: "15 min"
 tutorial version: 2.0
 ---
-
-
-
-
-## Summary
-
-- Model organisms allow scientists to conduct many experiments faster, cheaper, and easier than could be done in humans.
-- Model organisms allow us to conduct experiments that would be unethical or impossible in humans.
-- A common strategy is to start by doing many experiments in a simple organism (like yeast), and then follow up on the most promising results in more complex organisms, including humans.
-- Some of the most common model organisms are:
-  - Mouse (*Mus musculus*)
-  - Fruit fly (*Drosophila melanogaster*)
-  - Yeast (*Saccharomyces cerevisiae*)
-  - E. coli (*Escherichia coli*, a type of bacteria)
