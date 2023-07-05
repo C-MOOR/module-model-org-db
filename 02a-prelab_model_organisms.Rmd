@@ -4,5 +4,5 @@ Scientists frequently use a few specific organisms, called "**model organisms**"
 
 <br>
 
-1. Section 1 will give a general overview of model organisms.
-2. Section 2 will take a more in-depth look at a specific model organism - the fruit fly (*Drosophila melanogaster*).
+1. Part 1 will give a general overview of model organisms.
+2. Part 2 will take a more in-depth look at a specific model organism - the fruit fly *Drosophila melanogaster*.

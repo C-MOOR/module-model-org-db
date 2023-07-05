@@ -26,10 +26,13 @@ Besides studying basic biology, model organisms can also be useful for learning 
 
 It’s often much **faster, cheaper, and easier** to conduct experiments in model organisms.  A common strategy is to start by doing many experiments in a simple organism (like yeast), and then follow up on the most promising results in more complex organisms.
 
-#### Models of Huntington's disease
+#### Models of Huntington's disease {-}
 
 In the following video, you will hear about how researchers are using yeast and fruit flies as model organisms to study Huntington’s disease.
-![](https://www.youtube.com/watch?v=mqsq7R1Hu4g)
+
+```{r, echo=FALSE}
+knitr::include_url("https://www.youtube.com/embed/mqsq7R1Hu4g")
+```
 
 ### What makes a good model organism?
 
@@ -50,7 +53,7 @@ The more a model organism is studied, the more useful it becomes for future rese
 - New tools and techniques are developed, so there are more options for carrying out experiments
 - As we learn more about an organism, it becomes easier to interpret new results.  It’s a lot easier to understand how a particular mutation might be causing problems if we already know a lot about the gene the mutation was found in.
 
-#### Considerations when choosing a model organism
+### Choosing a model organism
 
 Obviously, the most accurate way to learn about humans is to study humans, but this is not always the best option.  In fact, it can often be more efficient to conduct experiments in simpler organisms - they are smaller, easier to care for, and have shorter generation times, so we can do a lot more experiments.  Then, as we come to have a better understanding of our particular question, we can investigate the nuances in more complex organisms.
 
