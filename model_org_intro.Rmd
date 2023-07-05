@@ -63,83 +63,83 @@ Generally the more complex and more similar an organism is to a human, the more 
 1. **Expense**: More complex organisms are more expensive to care for and tend to reproduce more slowly and in smaller quantities.  With limited time and resources we need to think about how to efficiently obtain the information we are seeking.
 1. **Available tools and techniques**: Some organisms are easier to work with than others for particular types of experiments.  Yeast are great for genetics - it’s easy to edit their genome.  Fruit flies are similarly useful for genetics - they aren’t as easy as yeast, but they are the easiest multicellular model organism to work with for genetic experiments.  Zebrafish embryos are transparent, so they are particularly good for microscopy experiments.
 
-## Common Model Organisms
+### Common Model Organisms
 
-### Mouse
+#### Mouse {-}
 
 <figure style="width: 30%; float: right;">
 ![Ilmari Karonen (2006) Common house mouse (*Mus musculus*), wild type. https://commons.wikimedia.org/wiki/File:Mouse_white_background.jpg Public Domain](assets/model_org_intro/mouse.jpg){width=100%}
 
 </figure>
 
-#### Genome
+##### Genome {-}
 - ~3 billion bases in length (similar to human)
 - ~25,000 genes
 - **> 99% of human genes have homologs in mice**
 
-#### Reproduction
+##### Reproduction {-}
 
 - Generation time: ~10 weeks
 - Usually 6-8 offspring per generation (range ~3-14)
 - How long to get 1000 offspring?  **~ 6-8 months**
 
-### Fruit fly
+#### Fruit fly {-}
 
 <figure style="width: 30%; float: right;">
 ![Sanjay Acharya (2017) A fruit fly (*Drosophila melanogaster*) feeding off a banana. https://commons.wikimedia.org/wiki/File:Drosophila_melanogaster_Proboscis.jpg License: [CC BY 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en)](assets/model_org_intro/fruit_fly.jpg){width=100%}
 
 </figure>
 
-#### Genome
+##### Genome {-}
 - ~140 million bases in length
 - ~17,000 genes
 - **~ 60% of human genes have orthologs in flies**
 
-#### Reproduction
+##### Reproduction {-}
 
 - Generation time: ~2 weeks
 - Hundreds of offspring per generation
 - How long to get 1000 offspring?  **~ 1 month**
 
 
-### Yeast
+#### Yeast {-}
 
 <figure style="width: 30%; float: right;">
 ![Rainis Venta (2011) Drop-inoculation of laboratory baker´s yeast (*Saccharomyces cerevisiae*) mutants on agar plate. https://en.wikipedia.org/wiki/Saccharomyces_cerevisiae#/media/File:Laboratoorne_pagarip%C3%A4rm_(Saccharomyces_cerevisiae)_agariplaadil..JPG License: [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)](assets/model_org_intro/yeast.jpeg){width=100%}
 
 </figure>
 
-#### Genome
+##### Genome {-}
 - ~12 million bases in length
 - ~6,000 genes
 - **~ 23 of yeast genes have homologs in humans**
 
-#### Reproduction
+##### Reproduction {-}
 
 - Generation time: ~2 hours
 - 1 offspring per reproduction ("budding")
 - How long to get 1000 offspring? **1 day**
 
-### *E. coli*
+#### *E. coli* {-}
 
 <figure style="width: 30%; float: right;">
 ![Madprime (2007) K12 *E. coli* colonies on a plate. https://commons.wikimedia.org/wiki/File:Ecoli_colonies.png License: [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/deed.en)](assets/model_org_intro/ecoli.png){width=100%}
 
 </figure>
 
-#### Genome
+##### Genome {-}
 - ~5 million bases in length
 - ~4,000 genes
 
 *E. coli* are quite different from humans (much more so than yeast - yeast are still eukaryotes like humans, but *E. coli* are bacteria).  *E. coli* aren't really used to study the functions of human proteins or their orthologs in a living organism, the way yeast are.  But they are very useful for mass-producing copies of a human protein if we want to study it in the lab (for example, measure the activity of an enzyme under different conditions, or try to figure out the structure of a particular protein).
 
-#### Reproduction
+##### Reproduction {-}
 
 - Generation time: ~20 minutes
 - 1 offspring per reproduction ("binary fission")
 - How long to get 1000 offspring? **4 hours **
 
-### Other organisms
+#### Other organisms {-}
 
 Many other organisms have been used as model organisms, though they are less common.  They may be more difficult to work with, be less well studied, or not have as many tools and techniques available, and therefore tend to be used for particular types of experiments where they are particularly well suited.  Some examples include:
 
