@@ -2,7 +2,7 @@
 
 ```{r, echo=FALSE, fig.alt="Picture of a fruit fly", fig.cap = "Sanjay Acharya (2017) A fruit fly (*Drosophila melanogaster*) feeding off a banana. https://commons.wikimedia.org/wiki/File:Drosophila_melanogaster_Proboscis.jpg License: [CC BY 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en)"}
 
-knitr::include_graphics("assets/model_org_Drosophila/fruit_fly.jpeg")
+knitr::include_graphics("assets/model_org_Drosophila/fruit_fly.jpg")
 ```
 
 #### Learning Goals {-}
