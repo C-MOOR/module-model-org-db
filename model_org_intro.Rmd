@@ -63,7 +63,7 @@ Generally the more complex and more similar an organism is to a human, the more 
 1. **Expense**: More complex organisms are more expensive to care for and tend to reproduce more slowly and in smaller quantities.  With limited time and resources we need to think about how to efficiently obtain the information we are seeking.
 1. **Available tools and techniques**: Some organisms are easier to work with than others for particular types of experiments.  Yeast are great for genetics - it’s easy to edit their genome.  Fruit flies are similarly useful for genetics - they aren’t as easy as yeast, but they are the easiest multicellular model organism to work with for genetic experiments.  Zebrafish embryos are transparent, so they are particularly good for microscopy experiments.
 
-### Common Model Organisms
+### Common model organisms
 
 #### Mouse {-}
 
@@ -83,6 +83,8 @@ Generally the more complex and more similar an organism is to a human, the more 
 - Usually 6-8 offspring per generation (range ~3-14)
 - How long to get 1000 offspring?  **~ 6-8 months**
 
+<br>
+
 #### Fruit fly {-}
 
 <figure style="width: 30%; float: right;">
@@ -101,6 +103,7 @@ Generally the more complex and more similar an organism is to a human, the more 
 - Hundreds of offspring per generation
 - How long to get 1000 offspring?  **~ 1 month**
 
+<br>
 
 #### Yeast {-}
 
@@ -120,6 +123,8 @@ Generally the more complex and more similar an organism is to a human, the more 
 - 1 offspring per reproduction ("budding")
 - How long to get 1000 offspring? **1 day**
 
+<br>
+
 #### *E. coli* {-}
 
 <figure style="width: 30%; float: right;">
@@ -138,6 +143,8 @@ Generally the more complex and more similar an organism is to a human, the more 
 - Generation time: ~20 minutes
 - 1 offspring per reproduction ("binary fission")
 - How long to get 1000 offspring? **4 hours **
+
+<br>
 
 #### Other organisms {-}
 
