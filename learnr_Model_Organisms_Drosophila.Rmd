@@ -1,0 +1,9 @@
+
+summary: |
+  The fruit fly (*Drosophila melanogaster*) is a popular model organism used to study a wide range of biological questions.  This tutorial will introduce you to some of the types of research being conducted with fruit flies, give a brief overview of *Drosophila* biology, and show you what it's like to work with *Drosophila* in the lab.
+author:
+  - "[Katherine Cox](https://c-moor.github.io/portfolio/coxkatherine/)"
+time: "20 min"
+prerequisites: "None"
+---
+

@@ -1,0 +1,6 @@
+---
+author:
+  - "[Katherine Cox](https://c-moor.github.io/portfolio/coxkatherine/)"
+time: "15 min"
+tutorial version: 2.0
+---
