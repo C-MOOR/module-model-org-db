@@ -8,6 +8,8 @@ rmd_files: ["index.Rmd",
             "model_org_intro.Rmd",
             "model_org_Drosophila.Rmd",
             "02b-lab_lecture.Rmd",
+            "02c-exercises_databases.Rmd",
+            "02d-assignment_databases.Rmd",
             "appendix.Rmd",
             "About.Rmd",
             "References.Rmd"]

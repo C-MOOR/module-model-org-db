@@ -1,0 +1,9 @@
+# Exercises: Biological Databases
+
+Scientists often use online databases to store and share their research.  This lab will introduce you to a few of these databases, showing you where to find them, what kinds of information they contain, and how to use them.
+
+<br>
+
+1. Part 1 will give a you quick look at several different biological databases.
+1. Part 2 
+1. Part 3
