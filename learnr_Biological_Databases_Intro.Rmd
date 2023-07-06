@@ -1,116 +1,13 @@
----
-title: "Introduction to Biological Databases"
-output:
-  learnr::tutorial:
-    css: css/cmoor.css
-    progressive: true
-    version: 2.0
-subtitle: |
-  ![](images/cmoor_logo_notext.png){width=60%}
-  
-  [Get Help](https://help.c-moor.org/){target="_blank"}
-runtime: shiny_prerendered
 
-# The fields below will be used to create the first page of the tutorial.  You can use markdown.
-# For summary, all new lines must be indented to the same level as the first line.
-# The image must be surrounded with quotes
 summary: |
   Biological databases make vast amounts of scientific research freely available to anyone.  This tutorial will give you a quick overview of a few important biological databases.
-image: "![Logos from several biological databases](images/database_logos.png)"
-image_caption: ""
 author:
   - "[Katherine Cox](https://c-moor.github.io/portfolio/coxkatherine/)"
 learning_goals:
-  - "Explain what a biological database is and why it’s important"
-  - "Name 3 types of information that may be available in biological databases."
+
 time: "15 min"
 prerequisites: "None"
 ---
-
-```{r setup, include=FALSE}
-library(learnr)
-knitr::opts_chunk$set(echo = FALSE)
-```
-
-
-<!---
-Don't edit the Welcome page, it will be filled in automatically using the information from the YAML header
-Edit the rest of the document as you like
-There are some suggested sections to provide a standard order across our tutorials, but they may not all be needed/appropriate for all tutorials.
-Section 1. Content 1 has example quizes and exercises
--->
-
-## Welcome {.splashpage}
-
-### `r rmarkdown::metadata$title`
-
-<div class="splashpage-container">
-  <figure class="splashpage-image">
-  `r rmarkdown::metadata$image`{width=100%}
-  <figcaption class="caption">`r rmarkdown::metadata$image_caption`</figcaption>
-  </figure>
-
-  `r rmarkdown::metadata$summary`
-  
-
-</div>
-
-
-#### Learning Goals
-
-```{r}
-# Extract learning goals from YAML and add HTML tags to make an ordered list
-learningGoals <- rmarkdown::metadata$learning_goals
-learningGoals <- paste("<li>", learningGoals, "</li>", sep="", collapse="")
-
-```
-
-<ol>
-`r learningGoals`
-</ol>
-
-#### Authors:
-
-```{r}
-# Extract authors from YAML and add HTML tags to make a list
-authorList <- rmarkdown::metadata$author
-authorList <- paste("<li>", authorList, "</li>", sep="", collapse="")
-
-```
-
-<ul>
-`r authorList`
-</ul>
-
-
-```{r}
-# Extract the tutorial version from the YAML data and store it so we can print it using inline r code below.  This can't be done directly inline because the code for extracting the YAML data uses backticks
-tv <- rmarkdown::metadata$output$`learnr::tutorial`$version
-```
-
-#### Version: `r tv`
-
-## Introduction
-
-The process of scientific discovery involves a great deal of collaboration.  Different people do different experiments and find out different small pieces of the puzzle, and as we bring the information together we start to understand the big picture.  This is true for expert scientists as well as beginners - we all need a way to find out what other people have already learned, and to share any new information we discover.
-
-An important part of collaboration is **sharing the data we collect** with each other.
-
-Recent technologies have allowed us to collect huge amounts of biological data.  What kinds of data?
-
-- Genomic DNA sequences of many organisms
-- Gene activity across different organisms, tissues, and cell types
-- Protein structures
-- Enzymatic reactions and metabolic pathways
-- Orthologs (genes that have similar sequences and functions across different organisms)
-
-**Biological databases** are a way for scientists to organize and share their data.  Most of this data is publicly available, if you know where to look.  We’ll take a quick look at some important biological databases to give you an idea of what’s out there.
-
-#### Heads up:
-
-Many biological databases have websites for accessing the data.  However, they are not always the most intuitive and user-friendly.  It can be a bit overwhelming trying to explore these databases and understand the huge wealth of information they provide, even for experienced scientists.  Don’t be afraid to ask for help!
-
-We will now take a quick tour of some important biological databases and see the types of information they have available.
 
 ## GenBank (Genomes)
 

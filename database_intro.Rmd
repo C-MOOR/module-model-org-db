@@ -1,0 +1,35 @@
+## Introduction to Biological Databases
+
+```{r, echo=FALSE, fig.alt="Logos from different biological databases, including Human Protein Atlas, Protein Data Bank, Genbank, and Online Mendelian Inheritance in Man", fig.cap = "Logos from several biological databases"}
+
+knitr::include_graphics("assets/database_intro/database_logos.png")
+```
+
+#### Learning Goals {-}
+
+- Explain what a biological database is and why it’s important
+- Name 3 types of information that may be available in biological databases.
+
+### What is a biological database?
+
+The process of scientific discovery involves a great deal of collaboration.  Different people do different experiments and find out different small pieces of the puzzle, and as we bring the information together we start to understand the big picture.  This is true for expert scientists as well as beginners - we all need a way to find out what other people have already learned, and to share any new information we discover.
+
+An important part of collaboration is **sharing the data we collect** with each other.
+
+Recent technologies have allowed us to collect huge amounts of biological data.  What kinds of data?
+
+- Genomic DNA sequences of many organisms
+- Gene activity across different organisms, tissues, and cell types
+- Protein structures
+- Enzymatic reactions and metabolic pathways
+- Orthologs (genes that have similar sequences and functions across different organisms)
+
+**Biological databases** are a way for scientists to organize and share their data.  Most of this data is publicly available, if you know where to look.  We’ll take a quick look at some important biological databases to give you an idea of what’s out there.
+
+:::{.notice}
+Many biological databases have websites for accessing the data.  However, they are not always the most intuitive and user-friendly.  It can be a bit overwhelming trying to explore these databases and understand the huge wealth of information they provide, even for experienced scientists.  Don’t be afraid to ask for help!
+:::
+
+We will now take a quick tour of some important biological databases and see the types of information they have available.
+
+### GenBank (Genomes)
