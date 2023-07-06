@@ -16,7 +16,7 @@ knitr::include_graphics("assets/model_org_Drosophila/fruit_fly.jpg")
 
 At first glance, fruit flies don’t look anything like humans.  But at a deep level, we share many anatomical structures, physiological systems, and developmental patterns.  Many *Drosophila* genes have parallels (“orthologs”) in humans that perform similar functions.
 
-Studying fruit flies can give important insights into basic biological processes that are shared across many organisms.  Discoveries made in fruit flies have made important contributions to our understanding of genetics, development, aging, immunology, and neuroscience, to name just a few.  Fruit fly research is also being used to investigate many diseases, including Huntington’s disease, epilepsy, obesity, and Alzheimers. 
+Studying fruit flies can give important insights into basic biological processes that are shared across many organisms.  Discoveries made in fruit flies have made important contributions to our understanding of genetics, development, aging, immunology, and neuroscience, to name just a few.  Fruit fly research is also being used to investigate many diseases, including Huntington’s disease, epilepsy, obesity, and Alzheimer's. 
 
 The following video highlights some of the reasons fruit flies make such great model organisms, and discusses an example of how a gene first discovered studied in fruit flies turned out to have an important role in polydactyly (having extra fingers or toes) and cancer.
 
