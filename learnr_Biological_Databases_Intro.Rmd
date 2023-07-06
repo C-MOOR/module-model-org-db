@@ -9,21 +9,6 @@ time: "15 min"
 prerequisites: "None"
 ---
 
-## GenBank (Genomes)
-
-The DNA sequence of the genomes for many important organisms can be found in the [GenBank](https://www.ncbi.nlm.nih.gov/genbank/) database.  GenBank is maintained by the National Center for Biotechnology (NCBI).
-
-Here is the entry for the [human genome](https://www.ncbi.nlm.nih.gov/genome/?term=human[organism]).
-
-![Screenshot of Human Genome page from GenBank](images/genbank_human_genome.png){width=100%}
-
-
-
-If you wanted, you could download it yourself!  It wouldn’t make much sense to look at, it’s just a long series of A, T, C, and G.  We need other computer programs and more research to help us make sense of the DNA sequence.  But it is freely available for anyone to access.
-
-GenBank has many other sequences - whole genomes, individual genes, and partial sequences from many different organisms.
-
-As you can see from the image, NCBI is maintaining a collection of resources for research on the novel coronavirus.
 
 ## OMIM (Genes)
 
