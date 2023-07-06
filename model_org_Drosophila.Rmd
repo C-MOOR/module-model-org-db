@@ -33,7 +33,7 @@ Almost every organ in humans has a match in flies, and the genes that control th
 
 ```{r, echo=FALSE, fig.alt="Diagram comparing human and fly anatomy.  Four human and four fly figures are shown, each highlighting different systems.  The diagrams are colored to show which anatomical structures correspond to each other.  The four diagrams show 1) the digestive tract, 2) the nervous system, 3) body organization, and 4) circulation, excretion, skeleton, and muscles.", fig.cap = "Prokop, Andreas; Patel, Sanjai (2018): Biology lessons for schools using the fruit fly Drosophila. figshare. Dataset. https://doi.org/10.6084/m9.figshare.1352064.v31 License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)"}
 
-knitr::include_graphics("assets/model_org_Drosophila/fly_human_organs.png")
+knitr::include_graphics("assets/model_org_Drosophila/fly_human_organs.jpg")
 ```
 
 - **Eyes** - While *Drosophila* eyes are quite different from humans (*Drosophila* have compound eyes), the same genes that control development of fly eyes are involved in eye development in many species including frogs, mice, and humans.
