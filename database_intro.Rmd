@@ -38,8 +38,10 @@ The DNA sequence of the genomes for many important organisms can be found in the
 
 Here is the entry for the [human genome](https://www.ncbi.nlm.nih.gov/genome/?term=human[organism]).
 
-![Screenshot of Human Genome page from GenBank](images/genbank_human_genome.png){width=100%}
+```{r, echo=FALSE, fig.alt="Screenshot of Human Genome page from GenBank.  The page contains an organism overview for Homo sapiens (human) and links to download genome sequences and annotations.  The top of the page has a banner with links to resources on the SARS-CoV-2 virus.", fig.cap = "Katherine Cox (2021). Screenshot of Human Genome page from GenBank https://www.ncbi.nlm.nih.gov/genome/?term=human[organism]. License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)"}
 
+knitr::include_graphics("assets/database_intro/genbank_human_genome.png")
+```
 
 If you wanted, you could download it yourself!  It wouldn’t make much sense to look at, it’s just a long series of A, T, C, and G.  We need other computer programs and more research to help us make sense of the DNA sequence.  But it is freely available for anyone to access.
 
@@ -58,8 +60,10 @@ One example of an organism-specific database is the [Online Mendelian Inheritanc
 
 Here is the entry for [CFTR](https://www.omim.org/entry/602421), from OMIM.  Mutations in CFTR lead to cystic fibrosis:
 
-![Screenshot of CFTR page from OMIM](images/omim_cftr.png){width=100%}
+```{r, echo=FALSE, fig.alt="Screenshot of the top of the CFTR page from OMIM.  The portion of the page shown contains a table of contents, a list of alternative names for the gene a table of phenotypes, and a collection of links to additional resources.", fig.cap = "Katherine Cox (2021). Screenshot of the cystic fibrosis transmembrane conductance regulator page from Online Mendelian Inheritance in Man https://www.omim.org/entry/602421. License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)"}
 
+knitr::include_graphics("assets/database_intro/omim_cftr.png")
+```
 
 The top of the page lists the gene symbol and its location in the human genome, as well as phenotypes associated with the gene (how it affects the organism, including causing cystic fibrosis).  If you scroll further down, it has much more information about what we know about the gene, what research has been done, and how studies are being carried out in other organisms to help us understand this gene.
 
@@ -68,8 +72,11 @@ The top of the page lists the gene symbol and its location in the human genome, 
 Besides just knowing gene sequences and location in the genome, scientists are interested in gathering data about where and when those genes are active (“expressed”).  Knowing when and where a gene is active can help us figure out what it does.  The [Human Protein Atlas](https://www.proteinatlas.org/) is one database that collects gene expression data for human genes.
 
 Here is the expression data for [CFTR](https://www.proteinatlas.org/ENSG00000001626-CFTR):
-![Screenshot of CFTR page from Human Protein Atlas](images/hpa_cftr.png){width=100%}
 
+```{r, echo=FALSE, fig.alt="Screenshot of CFTR page from HPA.  The portion of the page shown contains a table summarizing information about the protein such as its known functions and connections to disease, along with two diagrams displaying where the protein is expressed.  The tissue atlas shows a diagram of the whole human body, with the abdomen and chest highlighted  The abdomen highlighting is darker than the chest. The brain atlas shows a diagram of the human brain, with no highlighting.", fig.cap = "Katherine Cox (2021). Screenshot of the cystic fibrosis transmembrane conductance regulator page from Human Protein Atlas https://www.proteinatlas.org/ENSG00000001626-CFTR. License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)"}
+
+knitr::include_graphics("assets/database_intro/hpa_cftr.png")
+```
 
 This screenshot is scrolled down a bit from the top of the page so you can see the expression data summary.  As you can see, the CFTR gene is enriched in the pancreas, and is also expressed in a few other locations.  It was not detected in the brain.  If you click on either of these expression summaries you can get more detailed information.  Further down on the page there is also information about subcellular localization (where in the cell is it located).
 
@@ -78,8 +85,11 @@ This screenshot is scrolled down a bit from the top of the page so you can see t
 Studying the structure of proteins can tell us something about how they work, or about what goes wrong when they don’t work.  For example, sickle cell anemia is caused by a single mutation in a gene for a subunit of hemoglobin.  This mutation causes the hemoglobin to stick together, forming long fibers that deform red blood cells.
 
 The [Protein Data Bank (PDB)](https://www.rcsb.org/) stores information about the structure of proteins.  Here is the entry for [Hemoglobin S](https://www.rcsb.org/structure/2hbs) (the sickle-cell form of hemoglobin) from PDB:
-![Screenshot of Hemoglobin S page from Protein Data Bank](images/pdb_hemoglobin_S.png){width=100%}
 
+```{r, echo=FALSE, fig.alt="Screenshot of Hemoglobin S page from PDB with the Structure Summary tab selected.  The portion of the page shown contains a diagram of the protein's structure as well as a table that shows the method used to obtain the structure along with statistical information about the quality of the structure.", fig.cap = "Katherine Cox (2021). Screenshot of the cystic fibrosis transmembrane conductance regulator page from Protein Data Bank https://www.rcsb.org/structure/2hbs. License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)"}
+
+knitr::include_graphics("assets/database_intro/pdb_hemoglobin_S.png")
+```
 
 Here you can view the structure and see information about how it was obtained, including what experimental methods were used and some statistics about how accurate we think the structure is, as well a link to the journal article for the structure.
 
