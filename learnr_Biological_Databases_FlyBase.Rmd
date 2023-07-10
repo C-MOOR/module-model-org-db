@@ -7,14 +7,6 @@ time: "20 min"
 prerequisites: "None"
 ---
 
-## Introduction
-
-![](images/FlyBase_home.png){width=100%}
-
-FlyBase ([flybase.org](http://flybase.org)) is a website for the *Drosophila* scientific community that organizes research results about *Drosophila*.  We can use it to find out what has been discovered about genes we're interested in.
-
-There are many species of *Drosophila*.  Most research is done using *Drosophila melanogaster* (abbreviated Dmel), but FlyBase also has information about other species of flies.
-
 ## FlyBase Gene Pages
 
 ### FlyBase ID

@@ -10,3 +10,20 @@ knitr::include_graphics("assets/database_FlyBase/FlyBase_logo.png")
 - Use FlyBase to find fruit fly models of human disease
 
 ### What is FlyBase?
+
+```{r, echo=FALSE, fig.alt="Screenshot of the top of the FlyBase homepage, showing buttons linking out to various tools.  The searchbox labeled 'Jump to Gene' is circled.", fig.cap = "Katherine Cox (2021). Screenshot of the top of the FlyBase homepage https://flybase.org/. License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)"}
+
+knitr::include_graphics("assets/database_FlyBase/FlyBase_home.png")
+```
+
+FlyBase ([flybase.org](http://flybase.org)) is a website for the *Drosophila* scientific community that organizes research results about *Drosophila*.  We can use it to find out what has been discovered about genes we're interested in.
+
+There are many species of *Drosophila*.  Most research is done using *Drosophila melanogaster* (abbreviated Dmel), but FlyBase also has information about other species of flies.
+
+### FlyBase Gene Pages
+
+### Finding Orthologs
+
+### Disease models
+
+### Summary
