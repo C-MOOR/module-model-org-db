@@ -1,0 +1,12 @@
+0.1-Available-course-formats.md
+1-Pre-lab:-Model-Organisms.md
+1.1-Introduction-to-Model-Organisms.md
+1.2-Drosophila-melanogaster-(fruit-fly).md
+2-Lab-Lecture:-What-is-a-Gene?.md
+3-Exercises:-Biological-Databases.md
+3.1-Introduction-to-Biological-Databases.md
+4-Assignment:-Research-a-Gene.md
+About-this-Course.md
+Instructor-Guide.md
+About-the-Authors.md
+References.md
