@@ -7,29 +7,6 @@ time: "20 min"
 prerequisites: "None"
 ---
 
-## FlyBase Gene Pages
-
-### FlyBase ID
-
-One important role for FlyBase is keeping track of all the Drosophila genes and what we know about them.
-
-Every gene on FlyBase has a **FlyBase ID** number that looks like this: `FBgnXXXXXXX`, with the X's being different numbers.  FB stands for FlyBase and gn stands for gene.  There are ~17000 *Drosophila melanogaster* genes.  Each known *Drosophila* gene has its own FlyBase ID, and you can use the FlyBase ID to find information about the genes such as what they do and whether they are related to any human genes.
-
-### Look up a gene on FlyBase
-
-Go to FlyBase, and enter `FBgn0000024` in the search bar ("Jump to Gene").
-
-![Screenshot of the FlyBase home page](images/FlyBase_home.png){width=100%}
-
-### View FlyBase entry for the *Ace* gene
-
-This page has a ton of useful information for finding out more about this gene!  We'll highlight a few important things to start with
-
-![FlyBase entry for the *Ace* gene](images/FlyBase_Ace_summary.png){width=100%}
-
-+ The gene **Symbol** and **Name**.  Genes are usually named after what they do, and their symbol is a usually shortened version of the name.  In this case, gene `FBgn0000024` is named Acetylcholine esterase, and is abbreviated *Ace*.
-+ The **Gene Snapshot** gives a quick summary of what we know about this gene.  In this case, it's an enzyme involved in neurotransmission.
-
 ### Gene Ontology
 
 Further down the page are the **Gene Ontology** or **GO** terms.  There are 3 categories of GO terms:
