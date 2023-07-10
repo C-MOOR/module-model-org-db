@@ -1,0 +1,47 @@
+
+summary: |
+  Biological databases make vast amounts of scientific research freely available to anyone.  This tutorial will give you a quick overview of a few important biological databases.
+author:
+  - "[Katherine Cox](https://c-moor.github.io/portfolio/coxkatherine/)"
+learning_goals:
+
+time: "15 min"
+prerequisites: "None"
+---
+
+
+## Knowledge Check
+
+```{r database-quiz, echo=FALSE}
+quiz(caption="Where would you go to find...",
+  question("The sequence of the *E. coli* genome?",
+    answer("GenBank", correct = TRUE),
+    answer("OMIM"),
+    answer("Human Protein Atlas"),
+    answer("PDB"),
+    allow_retry=TRUE
+  ),
+  question("What diseases are related to the insulin gene?",
+    answer("GenBank"),
+    answer("OMIM", correct = TRUE),
+    answer("Human Protein Atlas"),
+    answer("PDB"),
+    allow_retry=TRUE
+  ),
+  question("Where in the body dopamine receptors are expressed?",
+    answer("GenBank"),
+    answer("OMIM"),
+    answer("Human Protein Atlas", correct=TRUE),
+    answer("PDB"),
+    allow_retry=TRUE
+  ),
+  question("The structure of the SARS-CoV-2 (COVID-19) spike protein",
+    answer("GenBank"),
+    answer("OMIM"),
+    answer("Human Protein Atlas"),
+    answer("PDB", correct=TRUE),
+    allow_retry=TRUE
+  )
+)
+```
+
