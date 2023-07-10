@@ -2,6 +2,8 @@ fig:unnamed-chunk-1
 fig:unnamed-chunk-3
 fig:unnamed-chunk-4
 fig:unnamed-chunk-7
+fig:unnamed-chunk-2
+fig:unnamed-chunk-5
 available-course-formats
 pre-lab-model-organisms
 introduction-to-model-organisms
@@ -18,4 +20,11 @@ drosophila-disease-models
 summary-1
 lab-lecture-what-is-a-gene
 exercises-biological-databases
+introduction-to-biological-databases
+what-is-a-biological-database
+genbank-genomes
+omim-genes
+human-protein-atlas-gene-activity
+pdb-protein-structures
+summary-2
 assignment-research-a-gene
