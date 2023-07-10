@@ -6,6 +6,10 @@ fig:unnamed-chunk-2
 fig:unnamed-chunk-5
 available-course-formats
 pre-lab-model-organisms
+lab-lecture-what-is-a-gene
+exercises-biological-databases
+assignment-research-a-gene
+model-organisms
 introduction-to-model-organisms
 what-is-a-model-organism
 what-makes-a-good-model-organism
@@ -18,8 +22,8 @@ meet-drosophila-melanogaster
 working-with-drosophila
 drosophila-disease-models
 summary-1
-lab-lecture-what-is-a-gene
-exercises-biological-databases
+wanted-additional-organisms
+biological-databases
 introduction-to-biological-databases
 what-is-a-biological-database
 genbank-genomes
@@ -27,4 +31,4 @@ omim-genes
 human-protein-atlas-gene-activity
 pdb-protein-structures
 summary-2
-assignment-research-a-gene
+wanted-additional-databases
