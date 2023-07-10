@@ -1,8 +1,12 @@
 Andreas
 autosomes
+bioinformatics
 Caenorhabditis
 cerevisiae
+CFTR
 coli
+coronavirus
+COVID
 Danio
 doi
 DOI
@@ -12,6 +16,7 @@ elegans
 Farzana
 figshare
 FlyBase
+GenBank
 hindgut
 homologs
 https
@@ -23,10 +28,13 @@ midgut
 multicellular
 musculus
 norvegicus
+OMIM
 oocytes
 ortholog
 orthologs
+PDB
 Perveen
+phenotypes
 polydactyly
 Pre
 pre
@@ -35,6 +43,8 @@ Rattus
 rerio
 Saccharomyces
 Sanjai
+subcellular
+subunit
 th
 tropicalis
 UAS

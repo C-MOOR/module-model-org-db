@@ -38,7 +38,7 @@ The DNA sequence of the genomes for many important organisms can be found in the
 
 Here is the entry for the [human genome](https://www.ncbi.nlm.nih.gov/genome/?term=human[organism]).
 
-```{r, echo=FALSE, fig.alt="Screenshot of Human Genome page from GenBank.  The page contains an organism overview for Homo sapiens (human) and links to download genome sequences and annotations.  The top of the page has a banner with links to resources on the SARS-CoV-2 virus.", fig.cap = "Katherine Cox (2021). Screenshot of Human Genome page from GenBank https://www.ncbi.nlm.nih.gov/genome/?term=human[organism]. License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)"}
+```{r, echo=FALSE, fig.alt="Screenshot of Human Genome page from GenBank.  The page contains an organism overview for Homo sapiens (human) and links to download genome sequences and annotations.  The top of the page has a banner with links to resources on the SARS-CoV-2 virus.", fig.cap = "Katherine Cox (2020). Screenshot of Human Genome page from GenBank https://www.ncbi.nlm.nih.gov/genome/?term=human[organism]. License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)"}
 
 knitr::include_graphics("assets/database_intro/genbank_human_genome.png")
 ```
