@@ -1,0 +1,12 @@
+## Biological Databases: FlyBase
+
+```{r, echo=FALSE, fig.alt="FlyBase logo", fig.cap = "FlyBase logo"}
+knitr::include_graphics("assets/database_FlyBase/FlyBase_logo.png")
+```
+
+#### Learning Goals {-}
+
+- Use FlyBase to look up information about genes by name, gene symbol, or FlyBase ID number
+- Use FlyBase to find fruit fly models of human disease
+
+### What is FlyBase?
