@@ -60,7 +60,7 @@ Further down the page are the **Gene Ontology** or **GO** terms.  There are 3 ca
 + **Biological Process**: What does this gene do for the organism?  What's the "big picture"? (Examples: involved in development, reproduction, immune system, etc.)
 + **Cellular Component**: Where in a cell is the gene found?  (Examples: the nucleus, mitochondria, cell membrane, etc.)
 
-```{r, echo=FALSE, fig.alt="Screenshot of the Gene Ontology section of the Flybase gene page for Ace." fig.cap = "Katherine Cox (2021). Screenshot of the Gene Ontology section of the FlyBase gene page for Ace https://flybase.org/reports/FBgn0000024#function. License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)"}
+```{r, echo=FALSE, fig.alt="Screenshot of the Gene Ontology section of the Flybase gene page for Ace.  The Gene Ontology table has three columns.  The first column, labeled 'CV Term' lists the Gene Ontology term.  The second column, labeled 'Evidence' gives a brief description of the evidence, for example 'inferred from mutant phenotype'.  The final column, labeled 'References' contains links to scientific papers.", fig.cap = "Katherine Cox (2021). Screenshot of the Gene Ontology section of the FlyBase gene page for Ace https://flybase.org/reports/FBgn0000024#function. License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)"}
 
 knitr::include_graphics("assets/database_FlyBase/FlyBase_Ace_GO.png")
 ```
