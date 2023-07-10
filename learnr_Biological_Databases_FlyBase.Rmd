@@ -7,24 +7,6 @@ time: "20 min"
 prerequisites: "None"
 ---
 
-### Gene Ontology
-
-Further down the page are the **Gene Ontology** or **GO** terms.  There are 3 categories of GO terms:
-
-+ **Molecular Function**: What does this gene do at a molecular level?  How does it interact with other molecules? (Examples: enzyme - catalyzes a reaction, DNA binding - binds to DNA, transporter - moves something across a membrane)
-+ **Biological Process**: What does this gene do for the organism?  What's the "big picture"? (Examples: involved in development, reproduction, immune system, etc.)
-+ **Cellular Component**: Where in a cell is the gene found?  (Examples: the nucleus, mitochondria, cell membrane, etc.)
-
-![FlyBase GO terms for the *Ace* gene](images/FlyBase_Ace_GO.png){width=100%}
-
-For the *Ace* gene, we can see its **molecular functions** include acetylcholinesterase activity (it's an enzyme).  You can click on these terms to find out more about them.  For example, if you click on "acetylcholinesterase activity" you can find out more about the reaction that is being catalyzed, and find other genes that carry out this same reaction.
-
-You can also see from this table how we know this information - it tells you what kind of evidence we have to prove it, and it links to the paper where that evidence came from.
-
-### Other information
-
-This page contains a lot of other information, including any known interactions of this gene with other genes, information about similar genes in other organisms (orthologs), and whether related genes are relevant to any human diseases (we will discuss how to explore these in the next section).  As investigate *Drosophila* data and find genes that you want to learn more about, FlyBase is a good place to start.
-
 ### Some genes are unknowns
 
 There are some genes that we still don't know anything about.  We can tell from the DNA sequence that there is a protein encoded there because we can see a long string of codons for amino acids.  But we've never discovered what that protein does.  More research is needed!
