@@ -30,17 +30,12 @@ Every gene on FlyBase has a **FlyBase ID** number that looks like this: `FBgnXXX
 
 #### Look up a gene on FlyBase {-}
 
-You can look up a gene on FlyBase using the "Jump to Gene" search box.
+You can look up a gene on FlyBase using the "Jump to Gene" search box.  Here is the page for the gene with FlyBase ID `FBgn0000024`:
 
 ```{r, echo=FALSE, fig.alt="Screenshot of the top of the FlyBase homepage, showing buttons linking out to various tools.  The searchbox labeled 'Jump to Gene' is circled.", fig.cap = "Katherine Cox (2021). Screenshot of the top of the FlyBase homepage https://flybase.org/. License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)"}
 
 knitr::include_graphics("assets/database_FlyBase/FlyBase_home.png")
 ```
-
-:::{.notice}
-### Exercise {- .unlisted}
-Go to FlyBase, and enter `FBgn0000024` in the search bar ("Jump to Gene").
-:::
 
 This page has a ton of useful information for finding out more about this gene!  We'll highlight a few important things to start with:
 
@@ -72,6 +67,26 @@ You can also see from this table how we know this information - it tells you wha
 #### Other information
 
 This page contains a lot of other information, including any known interactions of this gene with other genes, information about similar genes in other organisms (orthologs), and whether related genes are relevant to any human diseases (we will discuss how to explore these in the next section).  As you investigate *Drosophila* data and find genes that you want to learn more about, FlyBase is a good place to start.
+
+### Some genes are unknowns
+
+There are some genes that we still don't know anything about.  We can tell from the DNA sequence that there is a protein encoded there because we can see a long string of codons for amino acids.  But we've never discovered what that protein does.  More research is needed!
+
+Here's an example of an unknown gene:
+
+```{r, echo=FALSE, fig.alt="Screenshot of the top of the FlyBase page for the CG14448 gene.  Several of the boxes in the summary table are blank, and the Gene Snapshot says ''Insufficient genetic data for FlyBase to solicit a summary.'", fig.cap = "Katherine Cox (2021). Screenshot of the top of the FlyBase gene page for unknown gene CG14448 https://flybase.org/reports/FBgn0037191. License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)"}
+
+knitr::include_graphics("assets/database_FlyBase/FlyBase_unknown_gene.png")
+```
+
+As you can see, it doesn't have a name - we don't know what to name it since we don't know anything about it.  There is also no information for the gene snapshot.
+
+Unknown genes can be frustrating or disappointing, since they don't provide us with any information.  But they can also be exciting - maybe this data is a step towards finding out what they do!
+
+:::{.reflection}
+### Exercise {- .unlisted}
+
+:::
 
 ### Finding Orthologs
 

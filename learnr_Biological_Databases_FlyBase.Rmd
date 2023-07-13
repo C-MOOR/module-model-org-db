@@ -7,18 +7,6 @@ time: "20 min"
 prerequisites: "None"
 ---
 
-### Some genes are unknowns
-
-There are some genes that we still don't know anything about.  We can tell from the DNA sequence that there is a protein encoded there because we can see a long string of codons for amino acids.  But we've never discovered what that protein does.  More research is needed!
-
-Here's an example of an unknown gene:
-
-![FlyBase entry for CG14448](images/FlyBase_unknown_gene.png){width=100%}
-
-As you can see, it doesn't have a name - we don't know what to name it since we don't know anything about it.  There is also no information for the gene snapshot.
-
-Unknown genes can be frustrating or disappointing, since they don't provide us with any information.  But they can also be exciting - maybe this data is a step towards finding out what they do!
-
 ## Use FlyBase to investigate *labial*
 
 The *labial* gene (gene symbol: *lab*) gene is a gene involved in the copper region of the *Drosophila* midgut, as well as controling the identity of segments that contribute to the head and the anterior thorax.  We can use FlyBase to learn more about this gene.
