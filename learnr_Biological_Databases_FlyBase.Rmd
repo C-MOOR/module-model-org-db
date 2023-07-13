@@ -55,18 +55,6 @@ quiz(caption = "Investigate orthologs for the *lab* gene",
 
 ## Disease models
 
-Because disease models are of particular interest, there is a special section in the FlyBase gene report about relationships between that FlyBase gene and any human diseases.  Note that there are 3 types of relationships that are reported:
-
-- **Models Based on Experimental Evidence**: someone has studied flies with disruptions to this gene and has shown that the flies have similar symptoms to humans
-- **Potential Models Based on Orthology**: we think this gene could be used to study a particular disease because we think it’s an ortholog, but we don’t have proof.
-- **Modifiers Based on Experimental Evidence**: this gene doesn’t directly cause a disease, but makes a disease caused by a different gene better or worse
-
-### Disease report for the *Ace* gene
-
-The *Ace* gene has no known or predicted relationship to any human diseases, so its report is pretty boring in this section:
-
-![FlyBase disease information for the *Ace* gene.  There are zero disease associations.](images/FlyBase_Ace_disease.png){width=100%}
-
 ### Huntington’s Disease
 
 Let’s take a look at something more interesting.  Say we've heard that scientists are using fruit flies to study Huntington’s disease.  Can we use FlyBase to find out more?

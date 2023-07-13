@@ -138,4 +138,19 @@ Go back to the FlyBase page for the *lab* gene.
 
 ### Disease models
 
+Because disease models are of particular interest, there is a special section in the FlyBase gene report about relationships between that FlyBase gene and any human diseases.  Note that there are 3 types of relationships that are reported:
+
+- **Models Based on Experimental Evidence**: someone has studied flies with disruptions to this gene and has shown that the flies have similar symptoms to humans
+- **Potential Models Based on Orthology**: we think this gene could be used to study a particular disease because we think it’s an ortholog, but we don’t have proof.
+- **Modifiers Based on Experimental Evidence**: this gene doesn’t directly cause a disease, but makes a disease caused by a different gene better or worse
+
+#### Disease report for the *Ace* gene
+
+The *Ace* gene has no known or predicted relationship to any human diseases, so its report is pretty boring in this section:
+
+```{r, echo=FALSE, fig.alt="Screenshot of the Human Disease Associations section of the Flybase gene page for Ace.  There is a summary at the top that lists several categories of disease - none of them are filled in.  Below, there are sections for the differenct types of disease models, but they are all empty for this gene.", fig.cap = "Katherine Cox (2021). Screenshot of the Human Disease Associations section of the FlyBase gene page for Ace https://flybase.org/reports/FBgn0000024#hdm. License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)"}
+
+knitr::include_graphics("assets/database_FlyBase/FlyBase_Ace_disease.png")
+```
+
 ### Summary
