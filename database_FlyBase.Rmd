@@ -163,7 +163,7 @@ FlyBase has lots of information besides just reports about specific genes.  If y
 1. In the Quick Search box, select "Human Disease"
 1. Enter "Huntington's disease"
 
-```{r, echo=FALSE, fig.alt="Screenshot of the QuickSearch tool on the FlyBase homepage.  The tab labeled "Human Disease" is selected, and the text 'Huntington's disease' has been entered in the searchbox.", fig.cap = "Katherine Cox (2021). Screenshot of FlyBase QuickSearch https://flybase.org/. License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)"}
+```{r, echo=FALSE, fig.alt="Screenshot of the QuickSearch tool on the FlyBase homepage.  The tab labeled 'Human Disease' is selected, and the text 'Huntington's disease' has been entered in the searchbox.", fig.cap = "Katherine Cox (2021). Screenshot of FlyBase QuickSearch https://flybase.org/. License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)"}
 
 knitr::include_graphics("assets/database_FlyBase/FlyBase_QuickSearch.png")
 ```
