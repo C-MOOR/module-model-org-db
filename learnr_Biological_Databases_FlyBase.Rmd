@@ -7,7 +7,7 @@ time: "20 min"
 prerequisites: "None"
 ---
 
-<!-- I included these questions in a reflecton box, as short answer rather than multiple choice -->
+<!-- I included these questions in reflecton boxes, as short answer rather than multiple choice -->
 
 ```{r, flybase-lab, echo=FALSE}
 quiz(caption = "Look up the *lab* gene on FlyBase",
@@ -31,31 +31,6 @@ quiz(caption = "Look up the *lab* gene on FlyBase",
 ```
 
 ## Finding Orthologs
-
-### Introduction
-
-FlyBase also contains information about **orthologs** for each of the FlyBase genes.  Orthologs are genes that have similar sequences and functions across species.
-
-Finding orthologs can be challenging - the sequences are similar, but not identical, and it can be hard to predict whether the gene is likely to be doing the same thing in other species.  There are several different computer programs that will analyze genes (using different features, including their nucleotide and amino acid sequences, predicted structures, and genome locations) to try to identify orthologs.
-
-### DIOPT to the rescue!
-
-With so many options for finding orthologs, how do you know which one to use?  Fortunately, we don’t have to choose.
-
-DIOPT (DRSC Integrative Ortholog Prediction Tool) is a convenient tool that combines and summarizes information from several different ortholog prediction programs.  Rather than having to pick a single program, you can look at the DIOPT score and see how many of the programs think that a particular gene is an ortholog.
-
-The DIOPT score is very straightforward: out of the total number of ortholog prediction programs, how many of them predicted this gene was an ortholog?  As of writing this tutorial, there are 15 programs for predicting fly-human orthologs, so a score of 7 means 7 out of those 15 programs think that the gene is an ortholog.
-
-FlyBase uses DIOPT to report orthologs.  If you scroll down and expand the Orthologs section for a gene, you can see the list of potential orthologs and their DIOPT scores for several different species, including humans.  It also tells you which programs did or did not predict that particular ortholog.
-
-Here are the top few predicted human orthologs for the *Ace* gene:
-![FlyBase orthologs for the *Ace* gene](images/FlyBase_Ace_orthologs.png){width=100%}
-
-In the results, "Hsap" stands for *Homo sapiens*, and the letters and numbers after the slash are the gene symbol.  You can click on these gene symbols to find out more about the human genes.
-
-As you can see, the first two results (BCHE and ACHE) score quite well (10 out of 15 and 9 out of 15), so there’s a pretty good chance that they are orthologs.  It’s not uncommon for there to be multiple human genes that are orthologs of a single fly gene - humans have larger and more complex genomes, so they may have multiple specialized versions of a gene where flies only need a single version.  The rest of the results do not score very high and are much less likely to be true orthologs.
-
-Once you know the likely human orthologs, you can then research those genes in other databases and scientific literature.  We can go back and forth between flies, humans, and other species and compare what we know across all species to try to build up an understanding of what the gene does and what happens when it stops working correctly.
 
 ```{r huntingtons-lab-orthologs}
 quiz(caption = "Investigate orthologs for the *lab* gene",
