@@ -100,20 +100,3 @@ quiz(caption = "Explore the *htt* gene report",
 Yes!  Here we can see that there are actually three different variants of the *htt* gene that have been experimentally shown to cause symptoms similar to Huntington’s disease in flies.  These variants all have different types of mutations affecting the *htt* gene.
 
 It can be useful to have different versions of the gene that all mimic Huntington's disease.  Depending how these mutations were made or discovered, they can be useful for different types of experiments.  Also, if experiments turn out the same for several different disease-causing mutations, it's more likely that the result will transfer to other organisms, and isn't just a quirk of a particular mutation.
-
-## Summary
-
-FlyBase is a fantastic source of information.  You can use FlyBase to find:
-
-- Gene functions and interactions
-- Orthologs (*Drosophila* genes that are related to genes in other species, including humans)
-- *Drosophila* genes that are relevant to human diseases
-- The name, symbol or ID number for a gene, so you can research it on other databases.
-
-#### Learn More
-
-FlyBase is designed to help scientists do research, so it has *a lot* of information, and we've just looked at a few of the basic features.  Here are some resources if you'd like to learn more:
-
-+ Check out the "Help" tab on FlyBase
-+ Visit [FlyBase TV](https://www.youtube.com/c/FlyBaseTV), the FlyBase YouTube channel
-+ Look at the FlyBase "[New to Flies](https://wiki.flybase.org/wiki/FlyBase:New_to_Flies?)" wiki page

@@ -195,3 +195,19 @@ Further down the page, there is a section describing the relevant *Drosophila* g
 ![Drosophila gene information from the Human Disease Model report for Huntington's disease](images/FlyBase_Huntingtons_Drosophila_genes.png){width=100%}
 
 ### Summary
+
+FlyBase is a fantastic source of information.  You can use FlyBase to find:
+
+- Gene functions and interactions
+- Orthologs (*Drosophila* genes that are related to genes in other species, including humans)
+- *Drosophila* genes that are relevant to human diseases
+- The name, symbol or ID number for a gene, so you can research it on other databases.
+
+#### Learn More
+
+FlyBase is designed to help scientists do research, so it has *a lot* of information, and we've just looked at a few of the basic features.  Here are some resources if you'd like to learn more:
+
++ Check out the "Help" tab on FlyBase
++ Visit [FlyBase TV](https://www.youtube.com/c/FlyBaseTV), the FlyBase YouTube channel
++ Look at the FlyBase "[New to Flies](https://wiki.flybase.org/wiki/FlyBase:New_to_Flies?)" wiki page
+
