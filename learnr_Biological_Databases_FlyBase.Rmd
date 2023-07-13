@@ -55,40 +55,6 @@ quiz(caption = "Investigate orthologs for the *lab* gene",
 
 ## Disease models
 
-### Huntington’s Disease
-
-Let’s take a look at something more interesting.  Say we've heard that scientists are using fruit flies to study Huntington’s disease.  Can we use FlyBase to find out more?
-
-FlyBase has lots of information besides just reports about specific genes.  If you go to the FlyBase homepage and scroll down to the Quick Search box, you can see some of the categories of information available.  Let’s search for the Huntington’s disease model:
-
-1. Go to the FlyBase homepage
-1. In the Quick Search box, select "Human Disease"
-1. Enter "Huntington’s disease"
-
-![Screenshot of FlyBase Quick Search](images/FlyBase_QuickSearch.png){width=100%}
-
-This will give you a list of everything related to Huntington’s disease on FlyBase:
-
-![FlyBase search results for Huntington's disease](images/FlyBase_search_Huntingtons.png){width=100%}
-
-
-At the top we see:
-The **Human Disease Model** report - information about models for this disease
-The **Disease Ontology** report - information from a database about human diseases
-The **Gene Report** for the human (*Homo sapiens*) gene: Hsap/HTT
-The **Gene Report** for the *Drosophila* homolog: Dmel/htt
-
-The Human Disease Model report is a good place to start.  Clicking on this result takes us to the [full report](https://flybase.org/reports/FBhh0000003).
-
-At the top we can see some information about the disease, including a brief overview of the disease and a link to the OMIM (Online Mendelian Inheritance in Man) database entry for the disease:
-
-![FlyBase Human Disease Model report for Huntington's disease](images/FlyBase_Huntingtons.png){width=100%}
-
-
-Further down the page, there is a section describing the relevant *Drosophila* gene(s):
-
-![Drosophila gene information from the Human Disease Model report for Huntington's disease](images/FlyBase_Huntingtons_Drosophila_genes.png){width=100%}
-
 ```{r huntingtons-quiz-1}
 quiz(caption = "Explore the Huntington's disease report",
   question("What is the gene symbol for the Drosophila ortholog of the human Huntington's disease gene?",
