@@ -7,12 +7,7 @@ time: "20 min"
 prerequisites: "None"
 ---
 
-## Use FlyBase to investigate *labial*
-
-The *labial* gene (gene symbol: *lab*) gene is a gene involved in the copper region of the *Drosophila* midgut, as well as controling the identity of segments that contribute to the head and the anterior thorax.  We can use FlyBase to learn more about this gene.
-
-### Find the FlyBase ID
-In most datasets, genes will be listed by an ID number rather than their name, such as the FlyBase ID number (FBgn number).  We can use Flybase to find these IDs and match them up to data in the dataset we're investigating.  Go to FlyBase and search for "lab" in the "Jump to Gene" searchbar.
+<!-- I included these questions in a reflecton box, as short answer rather than multiple choice -->
 
 ```{r, flybase-lab, echo=FALSE}
 quiz(caption = "Look up the *lab* gene on FlyBase",

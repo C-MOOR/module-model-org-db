@@ -30,14 +30,14 @@ Every gene on FlyBase has a **FlyBase ID** number that looks like this: `FBgnXXX
 
 #### Look up a gene on FlyBase {-}
 
-You can look up a gene on FlyBase using the "Jump to Gene" search box.  Here is the page for the gene with FlyBase ID `FBgn0000024`:
+You can look up a gene on FlyBase using the "Jump to Gene" search box.
 
 ```{r, echo=FALSE, fig.alt="Screenshot of the top of the FlyBase homepage, showing buttons linking out to various tools.  The searchbox labeled 'Jump to Gene' is circled.", fig.cap = "Katherine Cox (2021). Screenshot of the top of the FlyBase homepage https://flybase.org/. License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)"}
 
 knitr::include_graphics("assets/database_FlyBase/FlyBase_home.png")
 ```
 
-This page has a ton of useful information for finding out more about this gene!  We'll highlight a few important things to start with:
+Here is the page for the gene with FlyBase ID `FBgn0000024`.  This page has a ton of useful information for finding out more about this gene!  We'll highlight a few important things to start with:
 
 ```{r, echo=FALSE, fig.alt="Screenshot of the top of the FlyBase page for the Ace gene.  The page contains a table of information about the gene, and two areas of the page are circled.  The first circle encompasses, the Symbol, which is 'Dmel\\Ace' and and the Name, which is 'Acetylcholine esterase'. The second circle encompasses the Gene Snapshot, which says 'Acetylcholine esterase (Ace) encodes an enzyme that catalyzes the hydrolysis of the neurotransmitter acetylcholine to acetate and choline, thus resetting the neurotransmission mechanism at neuromuscular junctions.'.", fig.cap = "Katherine Cox (2021). Screenshot of the top of the FlyBase gene page for Ace https://flybase.org/reports/FBgn0000024. License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)"}
 
@@ -68,7 +68,7 @@ You can also see from this table how we know this information - it tells you wha
 
 This page contains a lot of other information, including any known interactions of this gene with other genes, information about similar genes in other organisms (orthologs), and whether related genes are relevant to any human diseases (we will discuss how to explore these in the next section).  As you investigate *Drosophila* data and find genes that you want to learn more about, FlyBase is a good place to start.
 
-### Some genes are unknowns
+#### Some genes are unknowns
 
 There are some genes that we still don't know anything about.  We can tell from the DNA sequence that there is a protein encoded there because we can see a long string of codons for amino acids.  But we've never discovered what that protein does.  More research is needed!
 
@@ -83,9 +83,19 @@ As you can see, it doesn't have a name - we don't know what to name it since we 
 
 Unknown genes can be frustrating or disappointing, since they don't provide us with any information.  But they can also be exciting - maybe this data is a step towards finding out what they do!
 
+#### Use FlyBase to investigate *labial*
+
+The *labial* gene (gene symbol: *lab*) gene is a gene involved in the copper region of the *Drosophila* midgut, as well as controling the identity of segments that contribute to the head and the anterior thorax.  We can use FlyBase to learn more about this gene.
+
+In most datasets, genes will be listed by an ID number rather than their name, such as the FlyBase ID number (FBgn number).  We can use Flybase to find these IDs and match them up to data in the dataset we're investigating.  
+
 :::{.reflection}
 ### Exercise {- .unlisted}
 
+Go to FlyBase and search for "lab" in the "Jump to Gene" searchbar.
+
+1. What is the FlyBase ID number for *lab*?
+1. What biological processes is the *lab* gene involved in?
 :::
 
 ### Finding Orthologs
