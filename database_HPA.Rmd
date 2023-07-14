@@ -1,0 +1,23 @@
+## Human Protein Atlas
+
+```{r, echo=FALSE, fig.alt="Human Protein Atlas logo"}
+knitr::include_graphics("assets/database_HPA/HPA_logo.png")
+```
+
+#### Learning Goals {-}
+
+- Use the Human Protein Atlas to look up proteins by name and find out where they are localized.
+
+### What is the Human Protein Atlas?
+
+### Protein Pages
+
+### Look up a Protein
+
+### Summary
+
+The Human Protein Atlas is a useful source of information when researching human genes.  Some key features include:
+
+- A convenient summary of what is known about the gene's function
+- Information on disease associations
+- Nice graphical depictions of where the protein is active
