@@ -41,7 +41,7 @@ Every protein in the Human Protein Atlas has its own page with a large collectio
 
 #### Protein Summary {-}
 
-```{r, echo=FALSE, fig.alt="Screenshot of the Summary section of the Human Protein Atlas page for INS.", fig.cap = "Katherine Cox (2021). Screenshot of the Summary section of the Human Protein Atlas page for INS https://www.proteinatlas.org/ENSG00000254647-INS. License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)"}
+```{r, echo=FALSE, fig.alt="Screenshot of the Summary section of the Human Protein Atlas page for INS.  It contains a table of information about the protein including its name (Insulin), Gene name (INS), Tissue specificity ('Tissue enriched (pancreas)') and Extracellular location (Secreted to blood).", fig.cap = "Katherine Cox (2021). Screenshot of the Summary section of the Human Protein Atlas page for INS https://www.proteinatlas.org/ENSG00000254647-INS. License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)"}
 
 knitr::include_graphics("assets/database_HPA/HPA_insulin_summary.png")
 ```
@@ -53,7 +53,11 @@ knitr::include_graphics("assets/database_HPA/HPA_insulin_summary.png")
 - **Disease involvement** - Is it associated with any diseases?  Insulin is associated with diabetes as well as cancer.
 
 Further down the page we can see diagrams depicting where the protein is located:
-![Human Protein Atlas graphical summaries of insulin localization: Tissue Atlas (enriched in pancreas), Brain Atlas (not detected), Cell Atlas (not available), and Blood Atlas (secreted to blood)](images/HPA_insulin_localization.png){width=100%}
+
+```{r, echo=FALSE, fig.alt="Screenshot of the Protein Expression and Localization section of the Human Protein Atlas page for INS.  It contains graphical summaries of insulin localization: Tissue Atlas (enriched in pancreas), Brain Atlas (not detected), Cell Atlas (not available), and Blood Atlas (secreted to blood).", fig.cap = "Katherine Cox (2021). Screenshot of the Protein Expression and Localization section of the Human Protein Atlas page for INS https://www.proteinatlas.org/ENSG00000254647-INS. License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)"}
+
+knitr::include_graphics("assets/database_HPA/HPA_insulin_localization.png")
+```
 
 Insulin is located specifically in the pancreas.
 
@@ -61,7 +65,10 @@ Insulin is located specifically in the pancreas.
 
 If we click on the [Tissue Atlas box](https://www.proteinatlas.org/ENSG00000254647-INS/tissue), we can see more detailed information:
 
-![Human Protein Atlas Tissue Atlas report for insulin](images/HPA_insulin_tissue.png){width=100%}
+```{r, echo=FALSE, fig.alt="Screenshot of the Tissue page of the Human Protein Atlas entry for INS.  It contains graphical summaries of insulin localization. A diagram of a human body is shown, and the pancreas is colored.  Bar plots for RNA and protein expression both show high expression in the pancrease and little to no expression anywhere else.  There are also images of different tissues stained to detect insulin expression - only the pancrease tissue has dark staining.", fig.cap = "Katherine Cox (2021). Screenshot of the Protein Expression and Localization section of the Human Protein Atlas page for INS https://www.proteinatlas.org/ENSG00000254647-INS/tissue. License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)"}
+
+knitr::include_graphics("assets/database_HPA/HPA_insulin_tissue.png")
+```
 
 Insulin is very cleanly localized to the pancreas.  Both the RNA and the protein experimental data show high expression in the pancreas and very little expression anywhere else.
 
