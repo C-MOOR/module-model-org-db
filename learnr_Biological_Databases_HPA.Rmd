@@ -7,30 +7,6 @@ time: "15 min"
 prerequisites: "None"
 ---
 
-### Overview
-
-The Human Protein Atlas is a website that organizes research results about human proteins.  It contains many types of information, including what the proteins do, where they are active, and what types of diseases they are involved in.  We can use it to find out what has been discovered about genes we’re interested in.
-
-![Screenshot of the Human Protein Atlas home page](images/HPA_home.png){width=100%}
-
-You will primarily interact with the Human Protein Atlas by typing the names of genes or proteins of interest into the search bar.
-
-The boxes below the search bar ("Tissue Atlas", "Cell Atlas", etc.) provide explanations about the types of information available in the Human Protein Atlas.
-
-### Reminder: Genes and Proteins
-
-People sometimes use the names of a gene and the protein it "codes for" interchangeably, which can be a bit confusing.
-
-- A **gene** is a DNA sequence (made of **nucleotides**).  It contains the instructions for how to make a specific protein
-- A **protein** is an **amino acid** sequence.  Proteins fold up into specific shapes that let them do their jobs.  Proteins perform the majority of functions in cells, including things like:
-    - Carrying out chemical reactions
-    - Moving materials around inside the cell
-    - Transporting things in and out of a cell
-
-Mutations in a *gene* can cause the *protein* to be made incorrectly, resulting in a protein that does not do its job properly.
-
-Not all genes code for proteins; genes can have other types of information and instructions.  The Human Protein Atlas is focused specifically on proteins and the genes that code for them (“protein-coding genes”).
-
 ## Protein Pages
 
 ### Protein Summary
