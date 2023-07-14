@@ -37,7 +37,7 @@ omim-genes
 human-protein-atlas-gene-activity
 pdb-protein-structures
 summary-2
-biological-databases-flybase
+flybase
 what-is-flybase
 flybase-gene-pages
 finding-orthologs

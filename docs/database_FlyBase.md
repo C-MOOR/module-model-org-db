@@ -1,4 +1,4 @@
-## Biological Databases: FlyBase
+## FlyBase
 
 ![(\#fig:unnamed-chunk-1)FlyBase logo](assets/database_FlyBase/FlyBase_logo.png)
 
