@@ -192,7 +192,10 @@ knitr::include_graphics("assets/database_FlyBase/FlyBase_Huntingtons.png")
 
 Further down the page, there is a section describing the relevant *Drosophila* gene(s):
 
-![Drosophila gene information from the Human Disease Model report for Huntington's disease](images/FlyBase_Huntingtons_Drosophila_genes.png){width=100%}
+```{r, echo=FALSE, fig.alt="Screenshot of the Drosophila Gene Information section of the FlyBase page for the Huntington's disease Human Disease Model.  There is a table of information about the Drosophila gene, including a Gene Snapshot which says 'huntingtin (htt) encodes a scaffold protein involved in mitotic spindle orientation, chromatin regulation, and axonal transport. It is the ortholog of human HTT and has been manipulated to study Huntington's disease in flies.'.", fig.cap = "Katherine Cox (2021). Screenshot of the Drosophila Gene Information section of the FlyBase page for the Huntington's disease Human Disease Model https://flybase.org/reports/FBhh0000003#dmel_gene_info. License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)"}
+
+knitr::include_graphics("assets/database_FlyBase/FlyBase_Huntingtons_Drosophila_genes.png")
+```
 
 ### Summary
 
