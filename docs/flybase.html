@@ -1,0 +1,466 @@
+<!DOCTYPE html>
+<html lang="" xml:lang="">
+<head>
+
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <title>6.2 FlyBase | Model Organisms and Biological Databases</title>
+  <meta name="description" content="Description about Course/Book." />
+  <meta name="generator" content="bookdown 0.24 and GitBook 2.6.7" />
+
+  <meta property="og:title" content="6.2 FlyBase | Model Organisms and Biological Databases" />
+  <meta property="og:type" content="book" />
+  
+  
+  <meta property="og:description" content="Description about Course/Book." />
+  
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:title" content="6.2 FlyBase | Model Organisms and Biological Databases" />
+  
+  <meta name="twitter:description" content="Description about Course/Book." />
+  
+
+
+
+<meta name="date" content="2023-07-14" />
+
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+  
+  <link rel="shortcut icon" href="assets/dasl_favicon.ico" type="image/x-icon" />
+<link rel="prev" href="introduction-to-biological-databases.html"/>
+<link rel="next" href="wanted-additional-databases.html"/>
+<script src="libs/header-attrs-2.10/header-attrs.js"></script>
+<script src="libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/fuse.js@6.4.6/dist/fuse.min.js"></script>
+<link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-table.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-bookdown.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-highlight.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-search.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-fontsettings.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-clipboard.css" rel="stylesheet" />
+
+
+
+
+
+
+
+
+<link href="libs/anchor-sections-1.0.1/anchor-sections.css" rel="stylesheet" />
+<script src="libs/anchor-sections-1.0.1/anchor-sections.js"></script>
+
+
+
+
+<link rel="stylesheet" href="assets/style.css" type="text/css" />
+</head>
+
+<body>
+
+
+
+  <div class="book without-animation with-summary font-size-2 font-family-1" data-basepath=".">
+
+    <div class="book-summary">
+      <nav role="navigation">
+
+<ul class="summary">
+<a href="http://jhudatascience.org/"><img src="https://jhudatascience.org/images/dasl.png" style=" width: 80%; padding-left: 40px; padding-top: 8px; vertical-align: top "</a>
+
+<li class="divider"></li>
+<li class="chapter" data-level="" data-path="index.html"><a href="index.html"><i class="fa fa-check"></i>About this Course</a>
+<ul>
+<li class="chapter" data-level="0.1" data-path="available-course-formats.html"><a href="available-course-formats.html"><i class="fa fa-check"></i><b>0.1</b> Available course formats</a></li>
+</ul></li>
+<li class="chapter" data-level="" data-path="instructor-guide.html"><a href="instructor-guide.html"><i class="fa fa-check"></i>Instructor Guide</a></li>
+<li class="part"><span><b>Lab Exercises</b></span></li>
+<li class="chapter" data-level="1" data-path="pre-lab-model-organisms.html"><a href="pre-lab-model-organisms.html"><i class="fa fa-check"></i><b>1</b> Pre-lab: Model Organisms</a></li>
+<li class="chapter" data-level="2" data-path="lab-lecture-what-is-a-gene.html"><a href="lab-lecture-what-is-a-gene.html"><i class="fa fa-check"></i><b>2</b> Lab Lecture: What is a Gene?</a></li>
+<li class="chapter" data-level="3" data-path="exercises-biological-databases.html"><a href="exercises-biological-databases.html"><i class="fa fa-check"></i><b>3</b> Exercises: Biological Databases</a></li>
+<li class="chapter" data-level="4" data-path="assignment-research-a-gene.html"><a href="assignment-research-a-gene.html"><i class="fa fa-check"></i><b>4</b> Assignment: Research a Gene</a></li>
+<li class="part"><span><b>Content Collection</b></span></li>
+<li class="chapter" data-level="5" data-path="model-organisms.html"><a href="model-organisms.html"><i class="fa fa-check"></i><b>5</b> Model Organisms</a>
+<ul>
+<li class="chapter" data-level="5.1" data-path="introduction-to-model-organisms.html"><a href="introduction-to-model-organisms.html"><i class="fa fa-check"></i><b>5.1</b> Introduction to Model Organisms</a>
+<ul>
+<li class="chapter" data-level="5.1.1" data-path="introduction-to-model-organisms.html"><a href="introduction-to-model-organisms.html#what-is-a-model-organism"><i class="fa fa-check"></i><b>5.1.1</b> What is a model organism?</a></li>
+<li class="chapter" data-level="5.1.2" data-path="introduction-to-model-organisms.html"><a href="introduction-to-model-organisms.html#what-makes-a-good-model-organism"><i class="fa fa-check"></i><b>5.1.2</b> What makes a good model organism?</a></li>
+<li class="chapter" data-level="5.1.3" data-path="introduction-to-model-organisms.html"><a href="introduction-to-model-organisms.html#choosing-a-model-organism"><i class="fa fa-check"></i><b>5.1.3</b> Choosing a model organism</a></li>
+<li class="chapter" data-level="5.1.4" data-path="introduction-to-model-organisms.html"><a href="introduction-to-model-organisms.html#common-model-organisms"><i class="fa fa-check"></i><b>5.1.4</b> Common model organisms</a></li>
+<li class="chapter" data-level="5.1.5" data-path="introduction-to-model-organisms.html"><a href="introduction-to-model-organisms.html#summary"><i class="fa fa-check"></i><b>5.1.5</b> Summary</a></li>
+</ul></li>
+<li class="chapter" data-level="5.2" data-path="drosophila-melanogaster-fruit-fly.html"><a href="drosophila-melanogaster-fruit-fly.html"><i class="fa fa-check"></i><b>5.2</b> <em>Drosophila melanogaster</em> (fruit fly)</a>
+<ul>
+<li class="chapter" data-level="5.2.1" data-path="drosophila-melanogaster-fruit-fly.html"><a href="drosophila-melanogaster-fruit-fly.html#why-fruit-flies"><i class="fa fa-check"></i><b>5.2.1</b> Why fruit flies?</a></li>
+<li class="chapter" data-level="5.2.2" data-path="drosophila-melanogaster-fruit-fly.html"><a href="drosophila-melanogaster-fruit-fly.html#meet-drosophila-melanogaster"><i class="fa fa-check"></i><b>5.2.2</b> Meet <em>Drosophila melanogaster</em></a></li>
+<li class="chapter" data-level="5.2.3" data-path="drosophila-melanogaster-fruit-fly.html"><a href="drosophila-melanogaster-fruit-fly.html#working-with-drosophila"><i class="fa fa-check"></i><b>5.2.3</b> Working with <em>Drosophila</em></a></li>
+<li class="chapter" data-level="5.2.4" data-path="drosophila-melanogaster-fruit-fly.html"><a href="drosophila-melanogaster-fruit-fly.html#drosophila-disease-models"><i class="fa fa-check"></i><b>5.2.4</b> <em>Drosophila</em> disease models</a></li>
+<li class="chapter" data-level="5.2.5" data-path="drosophila-melanogaster-fruit-fly.html"><a href="drosophila-melanogaster-fruit-fly.html#summary-1"><i class="fa fa-check"></i><b>5.2.5</b> Summary</a></li>
+</ul></li>
+<li class="chapter" data-level="5.3" data-path="wanted-additional-organisms.html"><a href="wanted-additional-organisms.html"><i class="fa fa-check"></i><b>5.3</b> Wanted: Additional Organisms</a></li>
+</ul></li>
+<li class="chapter" data-level="6" data-path="biological-databases.html"><a href="biological-databases.html"><i class="fa fa-check"></i><b>6</b> Biological Databases</a>
+<ul>
+<li class="chapter" data-level="6.1" data-path="introduction-to-biological-databases.html"><a href="introduction-to-biological-databases.html"><i class="fa fa-check"></i><b>6.1</b> Introduction to Biological Databases</a>
+<ul>
+<li class="chapter" data-level="6.1.1" data-path="introduction-to-biological-databases.html"><a href="introduction-to-biological-databases.html#what-is-a-biological-database"><i class="fa fa-check"></i><b>6.1.1</b> What is a biological database?</a></li>
+<li class="chapter" data-level="6.1.2" data-path="introduction-to-biological-databases.html"><a href="introduction-to-biological-databases.html#genbank-genomes"><i class="fa fa-check"></i><b>6.1.2</b> GenBank (Genomes)</a></li>
+<li class="chapter" data-level="6.1.3" data-path="introduction-to-biological-databases.html"><a href="introduction-to-biological-databases.html#omim-genes"><i class="fa fa-check"></i><b>6.1.3</b> OMIM (Genes)</a></li>
+<li class="chapter" data-level="6.1.4" data-path="introduction-to-biological-databases.html"><a href="introduction-to-biological-databases.html#human-protein-atlas-gene-activity"><i class="fa fa-check"></i><b>6.1.4</b> Human Protein Atlas (Gene Activity)</a></li>
+<li class="chapter" data-level="6.1.5" data-path="introduction-to-biological-databases.html"><a href="introduction-to-biological-databases.html#pdb-protein-structures"><i class="fa fa-check"></i><b>6.1.5</b> PDB (Protein Structures)</a></li>
+<li class="chapter" data-level="6.1.6" data-path="introduction-to-biological-databases.html"><a href="introduction-to-biological-databases.html#summary-2"><i class="fa fa-check"></i><b>6.1.6</b> Summary</a></li>
+</ul></li>
+<li class="chapter" data-level="6.2" data-path="flybase.html"><a href="flybase.html"><i class="fa fa-check"></i><b>6.2</b> FlyBase</a>
+<ul>
+<li class="chapter" data-level="6.2.1" data-path="flybase.html"><a href="flybase.html#what-is-flybase"><i class="fa fa-check"></i><b>6.2.1</b> What is FlyBase?</a></li>
+<li class="chapter" data-level="6.2.2" data-path="flybase.html"><a href="flybase.html#flybase-gene-pages"><i class="fa fa-check"></i><b>6.2.2</b> FlyBase Gene Pages</a></li>
+<li class="chapter" data-level="6.2.3" data-path="flybase.html"><a href="flybase.html#finding-orthologs"><i class="fa fa-check"></i><b>6.2.3</b> Finding Orthologs</a></li>
+<li class="chapter" data-level="6.2.4" data-path="flybase.html"><a href="flybase.html#disease-models"><i class="fa fa-check"></i><b>6.2.4</b> Disease models</a></li>
+<li class="chapter" data-level="6.2.5" data-path="flybase.html"><a href="flybase.html#summary-3"><i class="fa fa-check"></i><b>6.2.5</b> Summary</a></li>
+</ul></li>
+<li class="chapter" data-level="6.3" data-path="wanted-additional-databases.html"><a href="wanted-additional-databases.html"><i class="fa fa-check"></i><b>6.3</b> Wanted: Additional Databases</a></li>
+</ul></li>
+<li class="appendix"><span><b>Appendix</b></span></li>
+<li class="chapter" data-level="" data-path="about-the-authors.html"><a href="about-the-authors.html"><i class="fa fa-check"></i>About the Authors</a></li>
+<li class="chapter" data-level="" data-path="references.html"><a href="references.html"><i class="fa fa-check"></i>References</a></li>
+<li class="divider"></li>
+<p style="text-align:center;"> <a href="https://github.com/jhudsl/OTTR_Template" target="blank" > This content was published with</a> <a href="https://bookdown.org/" target="blank"> bookdown by:</a> </p>
+<p style="text-align:center;"> <a href="http://jhudatascience.org/"> The Johns Hopkins Data Science Lab </a></p>
+<p style="text-align:center; font-size: 12px;"> <a href="https://github.com/rstudio4edu/rstudio4edu-book/"> Style adapted from: rstudio4edu-book </a> <a href ="https://creativecommons.org/licenses/by/2.0/"> (CC-BY 2.0) </a></p>
+
+</ul>
+
+      </nav>
+    </div>
+
+    <div class="book-body">
+      <div class="body-inner">
+        <div class="book-header" role="navigation">
+          <h1>
+            <i class="fa fa-circle-o-notch fa-spin"></i><a href="./">Model Organisms and Biological Databases</a>
+          </h1>
+        </div>
+
+        <div class="page-wrapper" tabindex="-1" role="main">
+          <div class="page-inner">
+
+            <section class="normal" id="section-">
+<head>
+  <meta name="viewport" content="width=device-width,minimum-scale=1.0,maximum-scale=1.0,initial-scale=1.0">
+  <!--script src="https://kit.fontawesome.com/6a26f47516.js"></script-->
+  <!--<script src="assets/hideOutput.js"></script>-->
+  <link href="assets/style.css" rel="stylesheet">
+</head>
+
+
+
+<div class="hero-image-container">
+  <img class= "hero-image" src= "https://github.com/jhudsl/OTTR_Template/raw/main/assets/dasl_thin_main_image.png">
+</div>
+<div id="flybase" class="section level2" number="6.2">
+<h2><span class="header-section-number">6.2</span> FlyBase</h2>
+<div class="figure"><span style="display:block;" id="fig:unnamed-chunk-1"></span>
+<img src="assets/database_FlyBase/FlyBase_logo.png" alt="FlyBase logo" width="147" />
+<p class="caption">
+Figure 5.1: FlyBase logo
+</p>
+</div>
+<div id="learning-goals-3" class="section level4 unnumbered">
+<h4>Learning Goals</h4>
+<ul>
+<li>Use FlyBase to look up information about genes by name, gene symbol, or FlyBase ID number</li>
+<li>Use FlyBase to find fruit fly models of human disease</li>
+</ul>
+</div>
+<div id="what-is-flybase" class="section level3" number="6.2.1">
+<h3><span class="header-section-number">6.2.1</span> What is FlyBase?</h3>
+<div class="figure"><span style="display:block;" id="fig:unnamed-chunk-2"></span>
+<img src="assets/database_FlyBase/FlyBase_home.png" alt="Screenshot of the top of the FlyBase homepage, showing buttons linking out to various tools.  The searchbox labeled 'Jump to Gene' is circled." width="1100" />
+<p class="caption">
+Figure 6.1: Katherine Cox (2021). Screenshot of the top of the FlyBase homepage <a href="https://flybase.org/" class="uri">https://flybase.org/</a>. License: <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>
+</p>
+</div>
+<p>FlyBase (<a href="http://flybase.org">flybase.org</a>) is a website for the <em>Drosophila</em> scientific community that organizes research results about <em>Drosophila</em>. We can use it to find out what has been discovered about genes we’re interested in.</p>
+<p>There are many species of <em>Drosophila</em>. Most research is done using <em>Drosophila melanogaster</em> (abbreviated Dmel), but FlyBase also has information about other species of flies.</p>
+</div>
+<div id="flybase-gene-pages" class="section level3" number="6.2.2">
+<h3><span class="header-section-number">6.2.2</span> FlyBase Gene Pages</h3>
+<p>One important role for FlyBase is keeping track of all the <em>Drosophila</em> genes and what we know about them. FlyBase maintains a webpage for each known <em>Drosophila</em> gene.</p>
+<div id="flybase-id" class="section level4 unnumbered">
+<h4>FlyBase ID</h4>
+<p>Every gene on FlyBase has a <strong>FlyBase ID</strong> number that looks like this: <code>FBgnXXXXXXX</code>, with the X’s being different numbers. FB stands for FlyBase and gn stands for gene. There are ~17000 <em>Drosophila melanogaster</em> genes. Each known <em>Drosophila</em> gene has its own FlyBase ID, and you can use the FlyBase ID to find information about the genes such as what they do and whether they are related to any human genes.</p>
+</div>
+<div id="look-up-a-gene-on-flybase" class="section level4 unnumbered">
+<h4>Look up a gene on FlyBase</h4>
+<p>You can look up a gene on FlyBase using the “Jump to Gene” search box.</p>
+<div class="figure"><span style="display:block;" id="fig:unnamed-chunk-3"></span>
+<img src="assets/database_FlyBase/FlyBase_home.png" alt="Screenshot of the top of the FlyBase homepage, showing buttons linking out to various tools.  The searchbox labeled 'Jump to Gene' is circled." width="1100" />
+<p class="caption">
+Figure 5.2: Katherine Cox (2021). Screenshot of the top of the FlyBase homepage <a href="https://flybase.org/" class="uri">https://flybase.org/</a>. License: <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>
+</p>
+</div>
+<p>Here is the page for the gene with FlyBase ID <code>FBgn0000024</code>. This page has a ton of useful information for finding out more about this gene! We’ll highlight a few important things to start with:</p>
+<div class="figure"><span style="display:block;" id="fig:unnamed-chunk-4"></span>
+<img src="assets/database_FlyBase/FlyBase_Ace_summary.png" alt="Screenshot of the top of the FlyBase page for the Ace gene.  The page contains a table of information about the gene, and two areas of the page are circled.  The first circle encompasses, the Symbol, which is 'Dmel\Ace' and and the Name, which is 'Acetylcholine esterase'. The second circle encompasses the Gene Snapshot, which says 'Acetylcholine esterase (Ace) encodes an enzyme that catalyzes the hydrolysis of the neurotransmitter acetylcholine to acetate and choline, thus resetting the neurotransmission mechanism at neuromuscular junctions.'." width="1111" />
+<p class="caption">
+Figure 5.3: Katherine Cox (2021). Screenshot of the top of the FlyBase gene page for Ace <a href="https://flybase.org/reports/FBgn0000024" class="uri">https://flybase.org/reports/FBgn0000024</a>. License: <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>
+</p>
+</div>
+<ul>
+<li>The gene <strong>Symbol</strong> and <strong>Name</strong>. Genes are usually named after what they do, and their symbol is a usually shortened version of the name. In this case, gene <code>FBgn0000024</code> is named Acetylcholine esterase, and is abbreviated <em>Ace</em>. (The Dmel stands for <em>Drosophila melanogaster</em>.)</li>
+<li>The <strong>Gene Snapshot</strong> gives a quick summary of what we know about this gene. In this case, it’s an enzyme involved in neurotransmission.</li>
+</ul>
+</div>
+<div id="gene-ontology" class="section level4 unnumbered">
+<h4>Gene Ontology</h4>
+<p>Further down the page are the <strong>Gene Ontology</strong> or <strong>GO</strong> terms. There are 3 categories of GO terms:</p>
+<ul>
+<li><strong>Molecular Function</strong>: What does this gene do at a molecular level? How does it interact with other molecules? (Examples: enzyme - catalyzes a reaction, DNA binding - binds to DNA, transporter - moves something across a membrane)</li>
+<li><strong>Biological Process</strong>: What does this gene do for the organism? What’s the “big picture”? (Examples: involved in development, reproduction, immune system, etc.)</li>
+<li><strong>Cellular Component</strong>: Where in a cell is the gene found? (Examples: the nucleus, mitochondria, cell membrane, etc.)</li>
+</ul>
+<div class="figure"><span style="display:block;" id="fig:unnamed-chunk-5"></span>
+<img src="assets/database_FlyBase/FlyBase_Ace_GO.png" alt="Screenshot of the Gene Ontology section of the Flybase gene page for Ace.  The Gene Ontology table has three columns.  The first column, labeled 'CV Term' lists the Gene Ontology term.  The second column, labeled 'Evidence' gives a brief description of the evidence, for example 'inferred from mutant phenotype'.  The final column, labeled 'References' contains links to scientific papers." width="1105" />
+<p class="caption">
+Figure 6.2: Katherine Cox (2021). Screenshot of the Gene Ontology section of the FlyBase gene page for Ace <a href="https://flybase.org/reports/FBgn0000024#function" class="uri">https://flybase.org/reports/FBgn0000024#function</a>. License: <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>
+</p>
+</div>
+<p>For the <em>Ace</em> gene, we can see its <strong>molecular functions</strong> include acetylcholinesterase activity (it’s an enzyme). You can click on these terms to find out more about them. For example, if you click on “acetylcholinesterase activity” you can find out more about the reaction that is being catalyzed, and find other genes that carry out this same reaction.</p>
+<p>You can also see from this table how we know this information - it tells you what kind of evidence we have to prove it, and it links to the paper where that evidence came from.</p>
+</div>
+<div id="other-information" class="section level4 unnumbered">
+<h4>Other information</h4>
+<p>This page contains a lot of other information, including any known interactions of this gene with other genes, information about similar genes in other organisms (orthologs), and whether related genes are relevant to any human diseases (we will discuss how to explore these in the next section). As you investigate <em>Drosophila</em> data and find genes that you want to learn more about, FlyBase is a good place to start.</p>
+</div>
+<div id="some-genes-are-unknowns" class="section level4 unnumbered">
+<h4>Some genes are unknowns</h4>
+<p>There are some genes that we still don’t know anything about. We can tell from the DNA sequence that there is a protein encoded there because we can see a long string of codons for amino acids. But we’ve never discovered what that protein does. More research is needed!</p>
+<p>Here’s an example of an unknown gene:</p>
+<div class="figure"><span style="display:block;" id="fig:unnamed-chunk-6"></span>
+<img src="assets/database_FlyBase/FlyBase_unknown_gene.png" alt="Screenshot of the top of the FlyBase page for the CG14448 gene.  Several of the boxes in the summary table are blank, and the Gene Snapshot says ''Insufficient genetic data for FlyBase to solicit a summary.'" width="1109" />
+<p class="caption">
+Figure 6.3: Katherine Cox (2021). Screenshot of the top of the FlyBase gene page for unknown gene CG14448 <a href="https://flybase.org/reports/FBgn0037191" class="uri">https://flybase.org/reports/FBgn0037191</a>. License: <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>
+</p>
+</div>
+<p>As you can see, it doesn’t have a name - we don’t know what to name it since we don’t know anything about it. There is also no information for the gene snapshot.</p>
+<p>Unknown genes can be frustrating or disappointing, since they don’t provide us with any information. But they can also be exciting - maybe this data is a step towards finding out what they do!</p>
+</div>
+<div id="use-flybase-to-investigate-labial" class="section level4 unnumbered">
+<h4>Use FlyBase to investigate <em>labial</em></h4>
+<p>The <em>labial</em> gene (gene symbol: <em>lab</em>) gene is a gene involved in the copper region of the <em>Drosophila</em> midgut, as well as controlling the identity of segments that contribute to the head and the anterior thorax. We can use FlyBase to learn more about this gene.</p>
+<p>In most datasets, genes will be listed by an ID number rather than their name, such as the FlyBase ID number (FBgn number). We can use FlyBase to find these IDs and match them up to data in the dataset we’re investigating.</p>
+</div>
+</div>
+<div id="exercise" class="section level3 unnumbered unlisted reflection">
+<h3>Exercise</h3>
+<p>Go to FlyBase and search for “lab” in the “Jump to Gene” searchbar.</p>
+<ol style="list-style-type: decimal">
+<li>What is the FlyBase ID number for <em>lab</em>?</li>
+<li>What biological processes is the <em>lab</em> gene involved in?</li>
+</ol>
+</div>
+<div id="finding-orthologs" class="section level3" number="6.2.3">
+<h3><span class="header-section-number">6.2.3</span> Finding Orthologs</h3>
+<p>FlyBase also contains information about <strong>orthologs</strong> for each of the FlyBase genes. Orthologs are genes that have similar sequences and functions across species.</p>
+<p>Finding orthologs can be challenging - the sequences are similar, but not identical, and it can be hard to predict whether the gene is likely to be doing the same thing in other species. There are several different computer programs that will analyze genes (using different features, including their nucleotide and amino acid sequences, predicted structures, and genome locations) to try to identify orthologs.</p>
+<div id="diopt-to-the-rescue" class="section level4 unnumbered">
+<h4>DIOPT to the rescue!</h4>
+<p>With so many options for finding orthologs, how do you know which one to use? Fortunately, we don’t have to choose.</p>
+<p>DIOPT (DRSC Integrative Ortholog Prediction Tool) is a convenient tool that combines and summarizes information from several different ortholog prediction programs. Rather than having to pick a single program, you can look at the DIOPT score and see how many of the programs think that a particular gene is an ortholog.</p>
+<p>The DIOPT score is very straightforward: out of the total number of ortholog prediction programs, how many of them predicted this gene was an ortholog? As of writing this tutorial, there are 15 programs for predicting fly-human orthologs, so a score of 7 means 7 out of those 15 programs think that the gene is an ortholog.</p>
+<p>FlyBase uses DIOPT to report orthologs. If you scroll down and expand the Orthologs section for a gene, you can see the list of potential orthologs and their DIOPT scores for several different species, including humans. It also tells you which programs did or did not predict that particular ortholog.</p>
+<p>Here are the top few predicted human orthologs for the <em>Ace</em> gene:</p>
+<div class="figure"><span style="display:block;" id="fig:unnamed-chunk-7"></span>
+<img src="assets/database_FlyBase/FlyBase_Ace_orthologs.png" alt="Screenshot of the Orthologs section of the Flybase gene page for Ace.  The Orthologs table has several columns.  The first column lists the species and gene name of the potential ortholog.  The second column has the DIOPT score (e.g. 10 of 15).  The fourth column lists out which programs indicated that the gene was an ortholog." width="1063" />
+<p class="caption">
+Figure 5.4: Katherine Cox (2021). Screenshot of the Orthologs section of the FlyBase gene page for Ace <a href="https://flybase.org/reports/FBgn0000024#orthologs" class="uri">https://flybase.org/reports/FBgn0000024#orthologs</a>. License: <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>
+</p>
+</div>
+<p>In the results, “Hsap” stands for <em>Homo sapiens</em>, and the letters and numbers after the slash are the gene symbol. You can click on these gene symbols to find out more about the human genes.</p>
+<p>As you can see, the first two results (BCHE and ACHE) score quite well (10 out of 15 and 9 out of 15), so there’s a pretty good chance that they are orthologs. It’s not uncommon for there to be multiple human genes that are orthologs of a single fly gene - humans have larger and more complex genomes, so they may have multiple specialized versions of a gene where flies only need a single version. The rest of the results do not score very high and are much less likely to be true orthologs.</p>
+<p>Once you know the likely human orthologs, you can then research those genes in other databases and scientific literature. We can go back and forth between flies, humans, and other species and compare what we know across all species to try to build up an understanding of what the gene does and what happens when it stops working correctly.</p>
+</div>
+</div>
+<div id="exercise-1" class="section level3 unnumbered unlisted reflection">
+<h3>Exercise</h3>
+<p>Go back to the FlyBase page for the <em>lab</em> gene.</p>
+<ol style="list-style-type: decimal">
+<li>What is the most likely human ortholog for the <em>lab</em> gene?</li>
+<li>How many programs think this gene is an ortholog of <em>lab</em>?</li>
+</ol>
+</div>
+<div id="disease-models" class="section level3" number="6.2.4">
+<h3><span class="header-section-number">6.2.4</span> Disease models</h3>
+<p>Because disease models are of particular interest, there is a special section in the FlyBase gene report about relationships between that FlyBase gene and any human diseases. Note that there are 3 types of relationships that are reported:</p>
+<ul>
+<li><strong>Models Based on Experimental Evidence</strong>: someone has studied flies with disruptions to this gene and has shown that the flies have similar symptoms to humans</li>
+<li><strong>Potential Models Based on Orthology</strong>: we think this gene could be used to study a particular disease because we think it’s an ortholog, but we don’t have proof.</li>
+<li><strong>Modifiers Based on Experimental Evidence</strong>: this gene doesn’t directly cause a disease, but makes a disease caused by a different gene better or worse</li>
+</ul>
+<div id="disease-report-for-the-ace-gene" class="section level4 unnumbered">
+<h4>Disease report for the <em>Ace</em> gene</h4>
+<p>The <em>Ace</em> gene has no known or predicted relationship to any human diseases, so its report is pretty boring in this section:</p>
+<div class="figure"><span style="display:block;" id="fig:unnamed-chunk-8"></span>
+<img src="assets/database_FlyBase/FlyBase_Ace_disease.png" alt="Screenshot of the Human Disease Associations section of the Flybase gene page for Ace.  There is a summary at the top that lists several categories of disease - none of them are filled in.  Below, there are sections for the differenct types of disease models, but they are all empty for this gene." width="1061" />
+<p class="caption">
+Figure 6.4: Katherine Cox (2021). Screenshot of the Human Disease Associations section of the FlyBase gene page for Ace <a href="https://flybase.org/reports/FBgn0000024#hdm" class="uri">https://flybase.org/reports/FBgn0000024#hdm</a>. License: <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>
+</p>
+</div>
+</div>
+<div id="huntingtons-disease" class="section level4 unnumbered">
+<h4>Huntington’s Disease</h4>
+<p>Let’s take a look at something more interesting. Say we’ve heard that scientists are using fruit flies to study Huntington’s disease. Can we use FlyBase to find out more?</p>
+<p>FlyBase has lots of information besides just reports about specific genes. If you go to the FlyBase homepage and scroll down to the Quick Search box, you can see some of the categories of information available. Let’s search for the Huntington’s disease model:</p>
+<ol style="list-style-type: decimal">
+<li>Go to the FlyBase homepage</li>
+<li>In the Quick Search box, select “Human Disease”</li>
+<li>Enter “Huntington’s disease”</li>
+</ol>
+<div class="figure"><span style="display:block;" id="fig:unnamed-chunk-9"></span>
+<img src="assets/database_FlyBase/FlyBase_QuickSearch.png" alt="Screenshot of the QuickSearch tool on the FlyBase homepage.  The tab labeled 'Human Disease' is selected, and the text 'Huntington's disease' has been entered in the searchbox." width="938" />
+<p class="caption">
+Figure 6.5: Katherine Cox (2021). Screenshot of FlyBase QuickSearch <a href="https://flybase.org/" class="uri">https://flybase.org/</a>. License: <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>
+</p>
+</div>
+<p>This will give you a list of everything related to Huntington’s disease on FlyBase:</p>
+<div class="figure"><span style="display:block;" id="fig:unnamed-chunk-10"></span>
+<img src="assets/database_FlyBase/FlyBase_search_Huntingtons.png" alt="Screenshot of the search results for Huntington's disease on FlyBase." width="1258" />
+<p class="caption">
+Figure 6.6: Katherine Cox (2021). search results for Huntington’s disease on FlyBase <a href="https://flybase.org/" class="uri">https://flybase.org/</a>. License: <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>
+</p>
+</div>
+<p>At the top we see:
+The <strong>Human Disease Model</strong> report - information about models for this disease
+The <strong>Disease Ontology</strong> report - information from a database about human diseases
+The <strong>Gene Report</strong> for the human (<em>Homo sapiens</em>) gene: Hsap/HTT
+The <strong>Gene Report</strong> for the <em>Drosophila</em> homolog: Dmel/htt</p>
+<p>The Human Disease Model report is a good place to start. Clicking on this result takes us to the <a href="https://flybase.org/reports/FBhh0000003">full report</a>.</p>
+<p>At the top we can see some information about the disease, including a brief overview of the disease and a link to the OMIM (Online Mendelian Inheritance in Man) database entry for the disease:</p>
+<div class="figure"><span style="display:block;" id="fig:unnamed-chunk-11"></span>
+<img src="assets/database_FlyBase/FlyBase_Huntingtons.png" alt="Screenshot of the top of the FlyBase page for the Huntington's Disease Human Disease Model.  The page contains a table of information about the disease, including links to additional resources.  The majority of the table is taken up by the 'Overview' section, which contains a description of the disease and a summary of how it is being investigated in Drosophila." width="1073" />
+<p class="caption">
+Figure 6.7: Katherine Cox (2021). Screenshot of the top of the FlyBase Human Disease Model page for Huntington’s disease <a href="https://flybase.org/reports/FBgn0000024" class="uri">https://flybase.org/reports/FBgn0000024</a>. License: <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>
+</p>
+</div>
+<p>Further down the page, there is a section describing the relevant <em>Drosophila</em> gene(s):</p>
+<div class="figure"><span style="display:block;" id="fig:unnamed-chunk-12"></span>
+<img src="assets/database_FlyBase/FlyBase_Huntingtons_Drosophila_genes.png" alt="Screenshot of the Drosophila Gene Information section of the FlyBase page for the Huntington's disease Human Disease Model.  There is a table of information about the Drosophila gene, including a Gene Snapshot which says 'huntingtin (htt) encodes a scaffold protein involved in mitotic spindle orientation, chromatin regulation, and axonal transport. It is the ortholog of human HTT and has been manipulated to study Huntington's disease in flies.'." width="1062" />
+<p class="caption">
+Figure 6.8: Katherine Cox (2021). Screenshot of the Drosophila Gene Information section of the FlyBase page for the Huntington’s disease Human Disease Model <a href="https://flybase.org/reports/FBhh0000003#dmel_gene_info" class="uri">https://flybase.org/reports/FBhh0000003#dmel_gene_info</a>. License: <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>
+</p>
+</div>
+</div>
+<div id="investigate-the-htt-gene" class="section level4 unnumbered">
+<h4>Investigate the <em>htt</em> gene</h4>
+<p>Now that we know the <em>htt</em> gene is used to model Huntington’s disease, let’s find out more about this gene.</p>
+</div>
+</div>
+<div id="exercise-2" class="section level3 unnumbered unlisted reflection">
+<h3>Exercise</h3>
+<p>Look up the Gene report for the <em>htt</em> gene. The easiest way to do this is to type “htt” in the Jump to Gene box.</p>
+<ol style="list-style-type: decimal">
+<li>What biological processes is the <em>htt</em> gene involved in?</li>
+<li>How many different <em>alleles</em> (versions of the gene) can be used as models of Huntington’s disease, <strong>based on experimental evidence</strong>?</li>
+</ol>
+</div>
+<div id="htt-alleles-variant-forms-of-the-gene" class="section level4 unnumbered">
+<h4><em>htt</em> alleles (variant forms of the gene)</h4>
+<p>Here we can see that there are actually multiple different variants of the <em>htt</em> gene that have been experimentally shown to cause symptoms similar to Huntington’s disease in flies. These variants all have different types of mutations affecting the <em>htt</em> gene.</p>
+<p>It can be useful to have different versions of the gene that all mimic Huntington’s disease. Depending how these mutations were made or discovered, they can be useful for different types of experiments. Also, if experiments turn out the same for several different disease-causing mutations, it’s more likely that the result will transfer to other organisms, and isn’t just a quirk of a particular mutation.</p>
+</div>
+<div id="summary-3" class="section level3" number="6.2.5">
+<h3><span class="header-section-number">6.2.5</span> Summary</h3>
+<p>FlyBase is a fantastic source of information. You can use FlyBase to find:</p>
+<ul>
+<li>Gene functions and interactions</li>
+<li>Orthologs (<em>Drosophila</em> genes that are related to genes in other species, including humans)</li>
+<li><em>Drosophila</em> genes that are relevant to human diseases</li>
+<li>The name, symbol or ID number for a gene, so you can research it on other databases.</li>
+</ul>
+<div id="learn-more" class="section level4" number="6.2.5.1">
+<h4><span class="header-section-number">6.2.5.1</span> Learn More</h4>
+<p>FlyBase is designed to help scientists do research, so it has <em>a lot</em> of information, and we’ve just looked at a few of the basic features. Here are some resources if you’d like to learn more:</p>
+<ul>
+<li>Check out the “Help” tab on FlyBase</li>
+<li>Visit <a href="https://www.youtube.com/c/FlyBaseTV">FlyBase TV</a>, the FlyBase YouTube channel</li>
+<li>Look at the FlyBase “<a href="https://wiki.flybase.org/wiki/FlyBase:New_to_Flies?">New to Flies</a>” wiki page</li>
+</ul>
+
+</div>
+</div>
+</div>
+<hr>
+<center> 
+  <div class="footer">
+      All illustrations <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY. </a>
+      <br>
+      All other materials <a href= "https://creativecommons.org/licenses/by/4.0/"> CC-BY </a> unless noted otherwise.
+  </div>
+</center>
+            </section>
+
+          </div>
+        </div>
+      </div>
+<a href="introduction-to-biological-databases.html" class="navigation navigation-prev " aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
+<a href="wanted-additional-databases.html" class="navigation navigation-next " aria-label="Next page"><i class="fa fa-angle-right"></i></a>
+    </div>
+  </div>
+<script src="libs/gitbook-2.6.7/js/app.min.js"></script>
+<script src="libs/gitbook-2.6.7/js/clipboard.min.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-search.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-sharing.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-fontsettings.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-bookdown.js"></script>
+<script src="libs/gitbook-2.6.7/js/jquery.highlight.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-clipboard.js"></script>
+<script>
+gitbook.require(["gitbook"], function(gitbook) {
+gitbook.start({
+"sharing": {
+"github": false,
+"facebook": true,
+"twitter": true,
+"linkedin": false,
+"weibo": false,
+"instapaper": false,
+"vk": false,
+"whatsapp": false,
+"all": ["facebook", "twitter", "linkedin", "weibo", "instapaper"]
+},
+"fontsettings": {
+"theme": "white",
+"family": "sans",
+"size": 2
+},
+"edit": {
+"link": null,
+"text": null
+},
+"history": {
+"link": null,
+"text": null
+},
+"view": {
+"link": null,
+"text": null
+},
+"download": null,
+"search": {
+"engine": "fuse",
+"options": null
+},
+"toc": {
+"collapse": "section"
+}
+});
+});
+</script>
+
+</body>
+
+</html>

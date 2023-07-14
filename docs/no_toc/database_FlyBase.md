@@ -1,4 +1,4 @@
-## Biological Databases: FlyBase
+## FlyBase
 
 <div class="figure">
 <img src="assets/database_FlyBase/FlyBase_logo.png" alt="FlyBase logo" width="147" />
