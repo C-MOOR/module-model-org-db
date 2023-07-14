@@ -1,0 +1,92 @@
+---
+summary: |
+  This tutorial will introduce you to FlyBase ([flybase.org](http://flybase.org)).  FlyBase (short for fly database) is a website for the *Drosophila* scientific community that organizes research results about *Drosophila*.
+author:
+  - "[Katherine Cox](https://c-moor.github.io/portfolio/coxkatherine/)"
+time: "20 min"
+prerequisites: "None"
+---
+
+<!-- I included these questions in reflecton boxes, as short answer rather than multiple choice -->
+
+```{r, flybase-lab, echo=FALSE}
+quiz(caption = "Look up the *lab* gene on FlyBase",
+  question("What is the FlyBase ID number for *lab*?",
+    answer("FBgn0002522", correct=TRUE),
+    answer("FBgn0000024"),  
+    answer("FBgn0000003"),
+    answer("FBgn0001264"),
+    allow_retry = TRUE,
+    random_answer_order = TRUE
+  ),
+  question("What biological processes is the *lab* gene involved in? HINT: Choose more than one answer.",
+    answer("brain development", correct=TRUE),
+    answer("midgut development", correct=TRUE),
+    answer("immune system"),
+    answer("cell cycle"),
+    allow_retry = TRUE,
+    random_answer_order = TRUE
+  )
+)
+```
+
+## Finding Orthologs
+
+```{r huntingtons-lab-orthologs}
+quiz(caption = "Investigate orthologs for the *lab* gene",
+  question("What is the most likely human ortholog for the *lab* gene?",
+    answer("HTT"),
+    answer("HOXA", correct = TRUE),
+    answer("HSAP"),
+    answer("LAT"),
+    allow_retry = TRUE,
+    random_answer_order = TRUE
+  ),
+  question("How many programs think this gene is an ortholog of *lab*?",
+    answer("1"),
+    answer("4"),
+    answer("7", correct = TRUE),
+    answer("11"),
+    answer("15"),
+    allow_retry = TRUE
+  )
+)
+```
+
+## Disease models
+
+```{r huntingtons-quiz-1}
+quiz(caption = "Explore the Huntington's disease report",
+  question("What is the gene symbol for the Drosophila ortholog of the human Huntington's disease gene?",
+    answer("hunt"),
+    answer("HD"),
+    answer("htt", correct = TRUE),
+    answer("Dmel"),
+    allow_retry = TRUE,
+    random_answer_order = TRUE
+  )
+)
+```
+
+```{r huntingtons-quiz-2}
+quiz(caption = "Explore the *htt* gene report",
+  question("What biological processes is the *htt* gene involved in? HINT: Choose more than one answer.",
+    answer("brain development"),
+    answer("choline catabolic process"),
+    answer("establishment of mitotic spindle orientation", correct = TRUE),
+    answer("synaptic vesicle transport", correct = TRUE),
+    answer("cell cycle"),
+    answer("axo-dendritic transport", correct = TRUE),
+    allow_retry = TRUE,
+    random_answer_order = TRUE
+  ),
+  question("How many different *alleles* (versions of the gene) can be used as models of Huntington's disease, **based on experimental evidence**?",
+    answer("0"),
+    answer("1"),
+    answer("2"),
+    answer("3", correct = TRUE),
+    answer("4"),
+    allow_retry = TRUE
+  )
+)
+```
