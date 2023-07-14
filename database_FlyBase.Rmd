@@ -210,7 +210,7 @@ Look up the Gene report for the *htt* gene.  The easiest way to do this is to ty
 1. How many different *alleles* (versions of the gene) can be used as models of Huntington's disease, **based on experimental evidence**?
 :::
 
-### *htt* alleles (variant forms of the gene) {-}
+#### *htt* alleles (variant forms of the gene) {-}
 
 Here we can see that there are actually multiple different variants of the *htt* gene that have been experimentally shown to cause symptoms similar to Huntington’s disease in flies.  These variants all have different types of mutations affecting the *htt* gene.
 
