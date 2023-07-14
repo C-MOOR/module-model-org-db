@@ -68,10 +68,6 @@ quiz(caption = "Explore the Huntington's disease report",
 )
 ```
 
-### Investigate the *htt* gene
-
-Now that we know the *htt* gene is used to model Huntington’s disease, let’s find out more about this gene.  Look up the Gene report for this gene.  The easiest way to do this is to type "htt" in the Jump to Gene box.
-
 ```{r huntingtons-quiz-2}
 quiz(caption = "Explore the *htt* gene report",
   question("What biological processes is the *htt* gene involved in? HINT: Choose more than one answer.",
@@ -94,9 +90,3 @@ quiz(caption = "Explore the *htt* gene report",
   )
 )
 ```
-
-### *htt* alleles (variant forms of the gene)
-
-Yes!  Here we can see that there are actually three different variants of the *htt* gene that have been experimentally shown to cause symptoms similar to Huntington’s disease in flies.  These variants all have different types of mutations affecting the *htt* gene.
-
-It can be useful to have different versions of the gene that all mimic Huntington's disease.  Depending how these mutations were made or discovered, they can be useful for different types of experiments.  Also, if experiments turn out the same for several different disease-causing mutations, it's more likely that the result will transfer to other organisms, and isn't just a quirk of a particular mutation.

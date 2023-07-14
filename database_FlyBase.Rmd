@@ -197,6 +197,25 @@ Further down the page, there is a section describing the relevant *Drosophila* g
 knitr::include_graphics("assets/database_FlyBase/FlyBase_Huntingtons_Drosophila_genes.png")
 ```
 
+#### Investigate the *htt* gene {-}
+
+Now that we know the *htt* gene is used to model Huntington’s disease, let’s find out more about this gene.
+
+:::{.reflection}
+### Exercise {- .unlisted}
+
+Look up the Gene report for the *htt* gene.  The easiest way to do this is to type "htt" in the Jump to Gene box.
+
+1. What biological processes is the *htt* gene involved in?
+1. How many different *alleles* (versions of the gene) can be used as models of Huntington's disease, **based on experimental evidence**?
+:::
+
+### *htt* alleles (variant forms of the gene) {-}
+
+Here we can see that there are actually multiple different variants of the *htt* gene that have been experimentally shown to cause symptoms similar to Huntington’s disease in flies.  These variants all have different types of mutations affecting the *htt* gene.
+
+It can be useful to have different versions of the gene that all mimic Huntington's disease.  Depending how these mutations were made or discovered, they can be useful for different types of experiments.  Also, if experiments turn out the same for several different disease-causing mutations, it's more likely that the result will transfer to other organisms, and isn't just a quirk of a particular mutation.
+
 ### Summary
 
 FlyBase is a fantastic source of information.  You can use FlyBase to find:
