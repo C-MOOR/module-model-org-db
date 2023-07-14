@@ -4,6 +4,12 @@ fig:unnamed-chunk-4
 fig:unnamed-chunk-7
 fig:unnamed-chunk-2
 fig:unnamed-chunk-5
+fig:unnamed-chunk-6
+fig:unnamed-chunk-8
+fig:unnamed-chunk-9
+fig:unnamed-chunk-10
+fig:unnamed-chunk-11
+fig:unnamed-chunk-12
 available-course-formats
 pre-lab-model-organisms
 lab-lecture-what-is-a-gene
@@ -31,4 +37,11 @@ omim-genes
 human-protein-atlas-gene-activity
 pdb-protein-structures
 summary-2
+biological-databases-flybase
+what-is-flybase
+flybase-gene-pages
+finding-orthologs
+disease-models
+summary-3
+learn-more
 wanted-additional-databases

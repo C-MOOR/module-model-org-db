@@ -7,4 +7,4 @@ For databases, we are particularly interested in:
 - MGD
 - ZFIN
 - PDB
-- Pubmed
+- PubMed
