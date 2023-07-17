@@ -72,7 +72,21 @@ knitr::include_graphics("assets/database_HPA/HPA_insulin_tissue.png")
 
 Insulin is very cleanly localized to the pancreas.  Both the RNA and the protein experimental data show high expression in the pancreas and very little expression anywhere else.
 
-### Look up a Protein
+#### Look up a Protein {-}
+
+Phenylketonuria (PKU) is a severe disease where individuals are unable to metabolize the amino acid phenylalanine.  If untreated, children with PKU develop seizures and irreversible intellectual disabilities.  It can be controlled by maintaining a strict diet, and individuals can go on to live a normal life.  Babies are routinely screened for PKU shortly after birth, so that they can begin treatment immediately.
+
+PKU is caused by deficiency in **phenylalanine hydroxylase** - the protein that processes phenylalanine.
+
+:::{.reflection}
+### Exercise {- .unlisted}
+
+Go to the Human Protein Atlas and enter "Phenylalanine hydroxylase" in the search bar to find out more about this protein.
+
+1. What is the name of the gene that encodes this protein?
+1. What tissues is this gene expressed in?
+1. Where in the cell is it localized?
+:::
 
 ### Summary
 

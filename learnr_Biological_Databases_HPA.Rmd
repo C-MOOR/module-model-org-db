@@ -9,11 +9,7 @@ prerequisites: "None"
 
 ## Look up a Protein
 
-Phenylketonuria (PKU) is a severe disease where individuals are unable to metabolize the amino acid phenylalanine.  If untreated, children with PKU develop seizures and irreversible intellectual disabilities.  It can be controlled by maintaining a strict diet, and individuals can go on to live a normal life.  Babies are routinely screened for PKU shortly after birth, so that they can begin treatment immediately.
-
-PKU is caused by deficiency in **phenylalanine hydroxylase** - the protein that processes phenylalanine.
-
-Go to the Human Protein Atlas and enter "Phenylalanine hydroxylase" in the search bar to find out more about this protein.
+<!-- I included these questions in reflecton boxes, as short answer rather than multiple choice -->
 
 ```{r pku-quiz}
 quiz(caption = "Investigate phenylalanine hydroxylase",
