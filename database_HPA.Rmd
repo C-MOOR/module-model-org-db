@@ -46,7 +46,7 @@ Every protein in the Human Protein Atlas has its own page with a large collectio
 knitr::include_graphics("assets/database_HPA/HPA_insulin_summary.png")
 ```
 
-- **Gene name** - The name of the gene that codes for the protein.  If multiple names have been used for this gene, they will be listed in parentheses.  The gene for insulin is named “INS”.
+- **Gene name** - The name of the gene that codes for the protein.  If multiple names have been used for this gene, they will be listed in parentheses.  The gene for insulin is named "INS".
 - **Gene summary** (at the bottom) - A summary of what we know about this gene.  For insulin, it contains a description of how it is processed, and then an explanation of how it binds to the insulin receptor and stimulates glucose uptake.
 - **Where is it located?** (Tissue specificity, Extracellular location, Brain specificity, Blood specificity, Predicted location) - The Human Protein Atlas has several types of information about the protein’s location.  More information is available further down on the page.
 - **What does it do?** (Protein function, Molecular function, Biological process) - What molecular, chemical, and biological processes does it carry out?  Insulin is a hormone involved in carbohydrate metabolism.
@@ -80,7 +80,7 @@ Insulin is secreted rather than remaining in the cell, so it doesn't have a subc
 
 ```{r, echo=FALSE, fig.alt="Screenshot of the Subcell tab of the Human Protein Atlas entry for INSR.  It contains a table summarizing the subcellular localization of INSR.  It also contains a graphical summary of insulin receptor localization. A diagram of a cell has the plasma membrane and vesicles colored.", fig.cap = "Katherine Cox (2023). Screenshot of the Summary section of the Subcell page for INSR from the Human Protein Atlas https://www.proteinatlas.org/ENSG00000254647-INS/tissue. License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)"}
 
-knitr::include_graphics("assets/database_HPA/HPA_insulin_subcell_annotated.png")
+knitr::include_graphics("assets/database_HPA/HPA_insulinreceptor_subcell_annotated.png")
 ```
 
 The insulin receptor is located mainly on the *plasma membrane*.  This makes sense - it sits on the outside of the cell so that it can detect insulin.  It can also be found in *vesicles*, which transport materials to and from the plasma membrane.
