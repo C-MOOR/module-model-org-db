@@ -72,6 +72,19 @@ knitr::include_graphics("assets/database_HPA/HPA_insulin_tissue_annotated.png")
 
 Insulin is very cleanly localized to the pancreas.  Both the RNA and the protein experimental data show high expression in the pancreas and very little expression anywhere else.
 
+#### Subcellular Localization  {-}
+
+If we click on the **Subcell** tab, we can see more detailed information about where in a cell the protein can be found.
+
+Insulin is secreted rather than remaining in the cell, so it doesn't have a subcellular localization.  Instead, let's look at the subcellular localization of the **insulin receptor** [INSR](https://www.proteinatlas.org/ENSG00000171105-INSR/subcellular), which is the protein that detects the presence of insulin so that cells can respond to it.
+
+```{r, echo=FALSE, fig.alt="Screenshot of the Subcell tab of the Human Protein Atlas entry for INSR.  It contains a table summarizing the subcellular localization of INSR.  It also contains a graphical summary of insulin receptor localization. A diagram of a cell has the plasma membrane and vesicles colored.", fig.cap = "Katherine Cox (2023). Screenshot of the Summary section of the Subcell page for INSR from the Human Protein Atlas https://www.proteinatlas.org/ENSG00000254647-INS/tissue. License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)"}
+
+knitr::include_graphics("assets/database_HPA/HPA_insulin_subcell_annotated.png")
+```
+
+The insulin receptor is located mainly on the *plasma membrane*.  This makes sense - it sits on the outside of the cell so that it can detect insulin.  It can also be found in *vesicles*, which transport materials to and from the plasma membrane.
+
 #### Look up a Protein {-}
 
 Phenylketonuria (PKU) is a severe disease where individuals are unable to metabolize the amino acid phenylalanine.  If untreated, children with PKU develop seizures and irreversible intellectual disabilities.  It can be controlled by maintaining a strict diet, and individuals can go on to live a normal life.  Babies are routinely screened for PKU shortly after birth, so that they can begin treatment immediately.
