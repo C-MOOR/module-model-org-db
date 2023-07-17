@@ -47,18 +47,17 @@ knitr::include_graphics("assets/database_HPA/HPA_insulin_summary.png")
 ```
 
 - **Gene name** - The name of the gene that codes for the protein.  If multiple names have been used for this gene, they will be listed in parentheses.  The gene for insulin is named "INS".
-- **Where is it located?** (Tissue specificity, Extracellular location, Brain specificity, Blood specificity, Predicted location) - The Human Protein Atlas has several types of information about the protein’s location.  More information is available further down on the page.
 - **Protein class** - The Human Protein Atlas designates different "classes" for proteins, which are a bit like tags in a blog - they group proteins into collections based on some common property.  These classes are based on where the protein is located, what the protein does, and what diseases the protein is involved in.  Insulin is in multiple disease classes, because it is involved in both diabetes and cancer.  It is also in the plasma proteins class because it is found in plasma.
+- **Protein Expression and Localization** - Where is the protein located? The Human Protein Atlas has several types of information about the protein’s location, such as the tissues, brain regions, and subcellular compartments where the protein has been observed.  More detailed information is available by clicking on the tabs along the top of the page.
 
 
-Further down the page we can see more information about the protein:
+Further down the page we can see more information about what the protein does:
 
-```{r, echo=FALSE, fig.alt="Screenshot of the Protein Expression and Localization and Tissue RNA Expression sections of the Human Protein Atlas page for INS.  It contains tables summarizing insulin localization.  The Tissue profile is 'Highly selective cytoplasmic expression in pancreatic islets'.", fig.cap = "Katherine Cox (2023). Screenshot of the Protein Expression and Localization and Tissue RNA Expression sections of the Human Protein Atlas page for INS https://www.proteinatlas.org/ENSG00000254647-INS. License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)"}
+```{r, echo=FALSE, fig.alt="Screenshot of the Protein Function section of the Human Protein Atlas page for INS.  It contains a tables summarizing what we know about insulin function, sourced from the UniProt and Entrez databases.  For Protein function, it says	'Insulin decreases blood glucose concentration. It increases cell permeability to monosaccharides, amino acids and fatty acids. It accelerates glycolysis, the pentose phosphate cycle, and glycogen synthesis in liver.'  The Molecular function is 'Hormone', and the Biological processes are	'Carbohydrate metabolism, Glucose metabolism'.", fig.cap = "Katherine Cox (2023). Screenshot of the Protein Function section of the Human Protein Atlas page for INS https://www.proteinatlas.org/ENSG00000254647-INS. License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)"}
 
-knitr::include_graphics("assets/database_HPA/HPA_insulin_localization.png")
+knitr::include_graphics("assets/database_HPA/HPA_insulin_function.png")
 ```
 
-Insulin is located specifically in the pancreas.
 
 #### Tissue Atlas {-}
 
