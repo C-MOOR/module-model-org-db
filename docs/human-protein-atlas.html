@@ -1,0 +1,353 @@
+<!DOCTYPE html>
+<html lang="" xml:lang="">
+<head>
+
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <title>6.3 Human Protein Atlas | Model Organisms and Biological Databases</title>
+  <meta name="description" content="Description about Course/Book." />
+  <meta name="generator" content="bookdown 0.24 and GitBook 2.6.7" />
+
+  <meta property="og:title" content="6.3 Human Protein Atlas | Model Organisms and Biological Databases" />
+  <meta property="og:type" content="book" />
+  
+  
+  <meta property="og:description" content="Description about Course/Book." />
+  
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:title" content="6.3 Human Protein Atlas | Model Organisms and Biological Databases" />
+  
+  <meta name="twitter:description" content="Description about Course/Book." />
+  
+
+
+
+<meta name="date" content="2023-07-17" />
+
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+  
+  <link rel="shortcut icon" href="assets/dasl_favicon.ico" type="image/x-icon" />
+<link rel="prev" href="flybase.html"/>
+<link rel="next" href="wanted-additional-databases.html"/>
+<script src="libs/header-attrs-2.10/header-attrs.js"></script>
+<script src="libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/fuse.js@6.4.6/dist/fuse.min.js"></script>
+<link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-table.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-bookdown.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-highlight.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-search.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-fontsettings.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-clipboard.css" rel="stylesheet" />
+
+
+
+
+
+
+
+
+<link href="libs/anchor-sections-1.0.1/anchor-sections.css" rel="stylesheet" />
+<script src="libs/anchor-sections-1.0.1/anchor-sections.js"></script>
+
+
+
+
+<link rel="stylesheet" href="assets/style.css" type="text/css" />
+</head>
+
+<body>
+
+
+
+  <div class="book without-animation with-summary font-size-2 font-family-1" data-basepath=".">
+
+    <div class="book-summary">
+      <nav role="navigation">
+
+<ul class="summary">
+<a href="http://jhudatascience.org/"><img src="https://jhudatascience.org/images/dasl.png" style=" width: 80%; padding-left: 40px; padding-top: 8px; vertical-align: top "</a>
+
+<li class="divider"></li>
+<li class="chapter" data-level="" data-path="index.html"><a href="index.html"><i class="fa fa-check"></i>About this Course</a>
+<ul>
+<li class="chapter" data-level="0.1" data-path="available-course-formats.html"><a href="available-course-formats.html"><i class="fa fa-check"></i><b>0.1</b> Available course formats</a></li>
+</ul></li>
+<li class="chapter" data-level="" data-path="instructor-guide.html"><a href="instructor-guide.html"><i class="fa fa-check"></i>Instructor Guide</a></li>
+<li class="part"><span><b>Lab Exercises</b></span></li>
+<li class="chapter" data-level="1" data-path="pre-lab-model-organisms.html"><a href="pre-lab-model-organisms.html"><i class="fa fa-check"></i><b>1</b> Pre-lab: Model Organisms</a></li>
+<li class="chapter" data-level="2" data-path="lab-lecture-what-is-a-gene.html"><a href="lab-lecture-what-is-a-gene.html"><i class="fa fa-check"></i><b>2</b> Lab Lecture: What is a Gene?</a></li>
+<li class="chapter" data-level="3" data-path="exercises-biological-databases.html"><a href="exercises-biological-databases.html"><i class="fa fa-check"></i><b>3</b> Exercises: Biological Databases</a></li>
+<li class="chapter" data-level="4" data-path="assignment-research-a-gene.html"><a href="assignment-research-a-gene.html"><i class="fa fa-check"></i><b>4</b> Assignment: Research a Gene</a></li>
+<li class="part"><span><b>Content Collection</b></span></li>
+<li class="chapter" data-level="5" data-path="model-organisms.html"><a href="model-organisms.html"><i class="fa fa-check"></i><b>5</b> Model Organisms</a>
+<ul>
+<li class="chapter" data-level="5.1" data-path="introduction-to-model-organisms.html"><a href="introduction-to-model-organisms.html"><i class="fa fa-check"></i><b>5.1</b> Introduction to Model Organisms</a>
+<ul>
+<li class="chapter" data-level="5.1.1" data-path="introduction-to-model-organisms.html"><a href="introduction-to-model-organisms.html#what-is-a-model-organism"><i class="fa fa-check"></i><b>5.1.1</b> What is a model organism?</a></li>
+<li class="chapter" data-level="5.1.2" data-path="introduction-to-model-organisms.html"><a href="introduction-to-model-organisms.html#what-makes-a-good-model-organism"><i class="fa fa-check"></i><b>5.1.2</b> What makes a good model organism?</a></li>
+<li class="chapter" data-level="5.1.3" data-path="introduction-to-model-organisms.html"><a href="introduction-to-model-organisms.html#choosing-a-model-organism"><i class="fa fa-check"></i><b>5.1.3</b> Choosing a model organism</a></li>
+<li class="chapter" data-level="5.1.4" data-path="introduction-to-model-organisms.html"><a href="introduction-to-model-organisms.html#common-model-organisms"><i class="fa fa-check"></i><b>5.1.4</b> Common model organisms</a></li>
+<li class="chapter" data-level="5.1.5" data-path="introduction-to-model-organisms.html"><a href="introduction-to-model-organisms.html#summary"><i class="fa fa-check"></i><b>5.1.5</b> Summary</a></li>
+</ul></li>
+<li class="chapter" data-level="5.2" data-path="drosophila-melanogaster-fruit-fly.html"><a href="drosophila-melanogaster-fruit-fly.html"><i class="fa fa-check"></i><b>5.2</b> <em>Drosophila melanogaster</em> (fruit fly)</a>
+<ul>
+<li class="chapter" data-level="5.2.1" data-path="drosophila-melanogaster-fruit-fly.html"><a href="drosophila-melanogaster-fruit-fly.html#why-fruit-flies"><i class="fa fa-check"></i><b>5.2.1</b> Why fruit flies?</a></li>
+<li class="chapter" data-level="5.2.2" data-path="drosophila-melanogaster-fruit-fly.html"><a href="drosophila-melanogaster-fruit-fly.html#meet-drosophila-melanogaster"><i class="fa fa-check"></i><b>5.2.2</b> Meet <em>Drosophila melanogaster</em></a></li>
+<li class="chapter" data-level="5.2.3" data-path="drosophila-melanogaster-fruit-fly.html"><a href="drosophila-melanogaster-fruit-fly.html#working-with-drosophila"><i class="fa fa-check"></i><b>5.2.3</b> Working with <em>Drosophila</em></a></li>
+<li class="chapter" data-level="5.2.4" data-path="drosophila-melanogaster-fruit-fly.html"><a href="drosophila-melanogaster-fruit-fly.html#drosophila-disease-models"><i class="fa fa-check"></i><b>5.2.4</b> <em>Drosophila</em> disease models</a></li>
+<li class="chapter" data-level="5.2.5" data-path="drosophila-melanogaster-fruit-fly.html"><a href="drosophila-melanogaster-fruit-fly.html#summary-1"><i class="fa fa-check"></i><b>5.2.5</b> Summary</a></li>
+</ul></li>
+<li class="chapter" data-level="5.3" data-path="wanted-additional-organisms.html"><a href="wanted-additional-organisms.html"><i class="fa fa-check"></i><b>5.3</b> Wanted: Additional Organisms</a></li>
+</ul></li>
+<li class="chapter" data-level="6" data-path="biological-databases.html"><a href="biological-databases.html"><i class="fa fa-check"></i><b>6</b> Biological Databases</a>
+<ul>
+<li class="chapter" data-level="6.1" data-path="introduction-to-biological-databases.html"><a href="introduction-to-biological-databases.html"><i class="fa fa-check"></i><b>6.1</b> Introduction to Biological Databases</a>
+<ul>
+<li class="chapter" data-level="6.1.1" data-path="introduction-to-biological-databases.html"><a href="introduction-to-biological-databases.html#what-is-a-biological-database"><i class="fa fa-check"></i><b>6.1.1</b> What is a biological database?</a></li>
+<li class="chapter" data-level="6.1.2" data-path="introduction-to-biological-databases.html"><a href="introduction-to-biological-databases.html#genbank-genomes"><i class="fa fa-check"></i><b>6.1.2</b> GenBank (Genomes)</a></li>
+<li class="chapter" data-level="6.1.3" data-path="introduction-to-biological-databases.html"><a href="introduction-to-biological-databases.html#omim-genes"><i class="fa fa-check"></i><b>6.1.3</b> OMIM (Genes)</a></li>
+<li class="chapter" data-level="6.1.4" data-path="introduction-to-biological-databases.html"><a href="introduction-to-biological-databases.html#human-protein-atlas-gene-activity"><i class="fa fa-check"></i><b>6.1.4</b> Human Protein Atlas (Gene Activity)</a></li>
+<li class="chapter" data-level="6.1.5" data-path="introduction-to-biological-databases.html"><a href="introduction-to-biological-databases.html#pdb-protein-structures"><i class="fa fa-check"></i><b>6.1.5</b> PDB (Protein Structures)</a></li>
+<li class="chapter" data-level="6.1.6" data-path="introduction-to-biological-databases.html"><a href="introduction-to-biological-databases.html#summary-2"><i class="fa fa-check"></i><b>6.1.6</b> Summary</a></li>
+</ul></li>
+<li class="chapter" data-level="6.2" data-path="flybase.html"><a href="flybase.html"><i class="fa fa-check"></i><b>6.2</b> FlyBase</a>
+<ul>
+<li class="chapter" data-level="6.2.1" data-path="flybase.html"><a href="flybase.html#what-is-flybase"><i class="fa fa-check"></i><b>6.2.1</b> What is FlyBase?</a></li>
+<li class="chapter" data-level="6.2.2" data-path="flybase.html"><a href="flybase.html#flybase-gene-pages"><i class="fa fa-check"></i><b>6.2.2</b> FlyBase Gene Pages</a></li>
+<li class="chapter" data-level="6.2.3" data-path="flybase.html"><a href="flybase.html#finding-orthologs"><i class="fa fa-check"></i><b>6.2.3</b> Finding Orthologs</a></li>
+<li class="chapter" data-level="6.2.4" data-path="flybase.html"><a href="flybase.html#disease-models"><i class="fa fa-check"></i><b>6.2.4</b> Disease models</a></li>
+<li class="chapter" data-level="6.2.5" data-path="flybase.html"><a href="flybase.html#summary-3"><i class="fa fa-check"></i><b>6.2.5</b> Summary</a></li>
+</ul></li>
+<li class="chapter" data-level="6.3" data-path="human-protein-atlas.html"><a href="human-protein-atlas.html"><i class="fa fa-check"></i><b>6.3</b> Human Protein Atlas</a>
+<ul>
+<li class="chapter" data-level="6.3.1" data-path="human-protein-atlas.html"><a href="human-protein-atlas.html#what-is-the-human-protein-atlas"><i class="fa fa-check"></i><b>6.3.1</b> What is the Human Protein Atlas?</a></li>
+<li class="chapter" data-level="6.3.2" data-path="human-protein-atlas.html"><a href="human-protein-atlas.html#protein-pages"><i class="fa fa-check"></i><b>6.3.2</b> Protein Pages</a></li>
+<li class="chapter" data-level="6.3.3" data-path="human-protein-atlas.html"><a href="human-protein-atlas.html#summary-4"><i class="fa fa-check"></i><b>6.3.3</b> Summary</a></li>
+</ul></li>
+<li class="chapter" data-level="6.4" data-path="wanted-additional-databases.html"><a href="wanted-additional-databases.html"><i class="fa fa-check"></i><b>6.4</b> Wanted: Additional Databases</a></li>
+</ul></li>
+<li class="appendix"><span><b>Appendix</b></span></li>
+<li class="chapter" data-level="" data-path="about-the-authors.html"><a href="about-the-authors.html"><i class="fa fa-check"></i>About the Authors</a></li>
+<li class="chapter" data-level="" data-path="references.html"><a href="references.html"><i class="fa fa-check"></i>References</a></li>
+<li class="divider"></li>
+<p style="text-align:center;"> <a href="https://github.com/jhudsl/OTTR_Template" target="blank" > This content was published with</a> <a href="https://bookdown.org/" target="blank"> bookdown by:</a> </p>
+<p style="text-align:center;"> <a href="http://jhudatascience.org/"> The Johns Hopkins Data Science Lab </a></p>
+<p style="text-align:center; font-size: 12px;"> <a href="https://github.com/rstudio4edu/rstudio4edu-book/"> Style adapted from: rstudio4edu-book </a> <a href ="https://creativecommons.org/licenses/by/2.0/"> (CC-BY 2.0) </a></p>
+
+</ul>
+
+      </nav>
+    </div>
+
+    <div class="book-body">
+      <div class="body-inner">
+        <div class="book-header" role="navigation">
+          <h1>
+            <i class="fa fa-circle-o-notch fa-spin"></i><a href="./">Model Organisms and Biological Databases</a>
+          </h1>
+        </div>
+
+        <div class="page-wrapper" tabindex="-1" role="main">
+          <div class="page-inner">
+
+            <section class="normal" id="section-">
+<head>
+  <meta name="viewport" content="width=device-width,minimum-scale=1.0,maximum-scale=1.0,initial-scale=1.0">
+  <!--script src="https://kit.fontawesome.com/6a26f47516.js"></script-->
+  <!--<script src="assets/hideOutput.js"></script>-->
+  <link href="assets/style.css" rel="stylesheet">
+</head>
+
+
+
+<div class="hero-image-container">
+  <img class= "hero-image" src= "https://github.com/jhudsl/OTTR_Template/raw/main/assets/dasl_thin_main_image.png">
+</div>
+<div id="human-protein-atlas" class="section level2" number="6.3">
+<h2><span class="header-section-number">6.3</span> Human Protein Atlas</h2>
+<p><img src="assets/database_HPA/HPA_logo.png" title="Human Protein Atlas logo" alt="Human Protein Atlas logo" width="271" /></p>
+<div id="learning-goals-4" class="section level4 unnumbered">
+<h4>Learning Goals</h4>
+<ul>
+<li>Use the Human Protein Atlas to look up proteins by name and find out where they are localized.</li>
+</ul>
+</div>
+<div id="what-is-the-human-protein-atlas" class="section level3" number="6.3.1">
+<h3><span class="header-section-number">6.3.1</span> What is the Human Protein Atlas?</h3>
+<p>The Human Protein Atlas is a website that organizes research results about human proteins. It contains many types of information, including what the proteins do, where they are active, and what types of diseases they are involved in. We can use it to find out what has been discovered about genes we’re interested in.</p>
+<div class="figure"><span style="display:block;" id="fig:unnamed-chunk-2"></span>
+<img src="assets/database_HPA/HPA_home.png" alt="Screenshot of the Human Protein Atlas homepage, showing a search box as well as buttons linking out to various tools." width="804" />
+<p class="caption">
+Figure 6.1: Katherine Cox (2021). Screenshot of the Human Protein Atlas homepage <a href="https://www.proteinatlas.org/" class="uri">https://www.proteinatlas.org/</a>. License: <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>
+</p>
+</div>
+<p>You will primarily interact with the Human Protein Atlas by typing the names of genes or proteins of interest into the search bar.</p>
+<p>The boxes below the search bar (“Tissue Atlas”, “Cell Atlas”, etc.) provide explanations about the types of information available in the Human Protein Atlas.</p>
+<div id="reminder-genes-and-proteins" class="section level4 unnumbered">
+<h4>Reminder: Genes and Proteins</h4>
+<p>People sometimes use the names of a gene and the protein it “codes for” interchangeably, which can be a bit confusing.</p>
+<ul>
+<li>A <strong>gene</strong> is a DNA sequence (made of <strong>nucleotides</strong>). It contains the instructions for how to make a specific protein.</li>
+<li>A <strong>protein</strong> is an <strong>amino acid</strong> sequence. Proteins fold up into specific shapes that let them do their jobs. Proteins perform the majority of functions in cells, including things like:
+<ul>
+<li>Carrying out chemical reactions</li>
+<li>Moving materials around inside the cell</li>
+<li>Transporting things in and out of a cell</li>
+</ul></li>
+</ul>
+<p>Mutations in a <em>gene</em> can cause the <em>protein</em> to be made incorrectly, resulting in a protein that does not do its job properly.</p>
+<p>Not all genes code for proteins; genes can have other types of information and instructions. The Human Protein Atlas is focused specifically on proteins and the genes that code for them (“protein-coding genes”).</p>
+</div>
+</div>
+<div id="protein-pages" class="section level3" number="6.3.2">
+<h3><span class="header-section-number">6.3.2</span> Protein Pages</h3>
+<p>Every protein in the Human Protein Atlas has its own page with a large collection of information about the protein. To see what kinds of information is available, we will look at the entry for <a href="https://www.proteinatlas.org/ENSG00000254647-INS"><strong>insulin</strong></a>.</p>
+<div id="protein-summary" class="section level4 unnumbered">
+<h4>Protein Summary</h4>
+<div class="figure"><span style="display:block;" id="fig:unnamed-chunk-3"></span>
+<img src="assets/database_HPA/HPA_insulin_summary.png" alt="Screenshot of the top of the Human Protein Atlas page for INS, showing two tables.  The Information table contains basic information about the protein including its name (Insulin), Gene name (INS), and Protein class (Cancer-related genes, Candidate cardiovascular disease genes, Disease related genes, Human disease related genes, Plasma proteins, RAS pathway related proteins).  The Protein Expression and Localization table summarizes insulin localization, including Tissue profile (Highly selective cytoplasmic expression in pancreatic islets), Subcellular location (Not available), and Extracellular location (Secreted to blood)." width="1157" />
+<p class="caption">
+Figure 5.2: Katherine Cox (2023). Screenshot of the top of the Human Protein Atlas page for INS <a href="https://www.proteinatlas.org/ENSG00000254647-INS" class="uri">https://www.proteinatlas.org/ENSG00000254647-INS</a>. License: <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>
+</p>
+</div>
+<ul>
+<li><strong>Gene name</strong> - The name of the gene that codes for the protein. If multiple names have been used for this gene, they will be listed in parentheses. The gene for insulin is named “INS”.</li>
+<li><strong>Protein class</strong> - The Human Protein Atlas designates different “classes” for proteins, which are a bit like tags in a blog - they group proteins into collections based on some common property. These classes are based on where the protein is located, what the protein does, and what diseases the protein is involved in. Insulin is in multiple disease classes, because it is involved in both diabetes and cancer. It is also in the plasma proteins class because it is found in plasma.</li>
+<li><strong>Protein Expression and Localization</strong> - Where is the protein located? The Human Protein Atlas has several types of information about the protein’s location, such as the tissues, brain regions, and subcellular compartments where the protein has been observed. More detailed information is available by clicking on the tabs along the top of the page.</li>
+</ul>
+<p>Further down the page we can see more information about what the protein does:</p>
+<div class="figure"><span style="display:block;" id="fig:unnamed-chunk-4"></span>
+<img src="assets/database_HPA/HPA_insulin_function.png" alt="Screenshot of the Protein Function section of the Human Protein Atlas page for INS.  It contains a tables summarizing what we know about insulin function, sourced from the UniProt and Entrez databases.  For Protein function, it says   'Insulin decreases blood glucose concentration. It increases cell permeability to monosaccharides, amino acids and fatty acids. It accelerates glycolysis, the pentose phosphate cycle, and glycogen synthesis in liver.'  The Molecular function is 'Hormone', and the Biological processes are    'Carbohydrate metabolism, Glucose metabolism'." width="925" />
+<p class="caption">
+Figure 5.3: Katherine Cox (2023). Screenshot of the Protein Function section of the Human Protein Atlas page for INS <a href="https://www.proteinatlas.org/ENSG00000254647-INS" class="uri">https://www.proteinatlas.org/ENSG00000254647-INS</a>. License: <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>
+</p>
+</div>
+<ul>
+<li><strong>What does it do?</strong> (Protein function, Molecular function, Biological process) - What molecular, chemical, and biological processes does it carry out? Insulin is a hormone involved in carbohydrate metabolism.</li>
+<li><strong>Gene summary</strong> (at the bottom) - A summary of what we know about this gene. For insulin, it contains a description of how it is processed, and then an explanation of how it binds to the insulin receptor and stimulates glucose uptake.</li>
+</ul>
+</div>
+<div id="tissue-atlas" class="section level4 unnumbered">
+<h4>Tissue Atlas</h4>
+<p>If we click on the <a href="https://www.proteinatlas.org/ENSG00000254647-INS/tissue">Tissue tab</a>, we can see more detailed information. Partway down the page you can see diagrams of where the protein is located.</p>
+<div class="figure"><span style="display:block;" id="fig:unnamed-chunk-5"></span>
+<img src="assets/database_HPA/HPA_insulin_tissue_annotated.png" alt="Screenshot of the Tissue tab of the Human Protein Atlas entry for INS.  It contains graphical summaries of insulin localization. A diagram of a human body has several areas colored lightly, and the pancreas colored darkly.  Bar plots for RNA and protein expression both show high expression in the pancrease and little to no expression anywhere else.  There are also images of different tissues stained to detect insulin expression - only the pancrease tissue has dark staining." width="1277" />
+<p class="caption">
+Figure 6.2: Katherine Cox (2023). Screenshot of the RNA and Protein Expression Summary section of the Tissue page for INS from the Human Protein Atlas <a href="https://www.proteinatlas.org/ENSG00000254647-INS/tissue" class="uri">https://www.proteinatlas.org/ENSG00000254647-INS/tissue</a>. License: <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>
+</p>
+</div>
+<p>Insulin is very cleanly localized to the pancreas. Both the RNA and the protein experimental data show high expression in the pancreas and very little expression anywhere else.</p>
+</div>
+<div id="subcellular-localization" class="section level4 unnumbered">
+<h4>Subcellular Localization</h4>
+<p>If we click on the <strong>Subcell</strong> tab, we can see more detailed information about where in a cell the protein can be found.</p>
+<p>Insulin is secreted rather than remaining in the cell, so it doesn’t have a subcellular localization. Instead, let’s look at the subcellular localization of the <strong>insulin receptor</strong> <a href="https://www.proteinatlas.org/ENSG00000171105-INSR/subcellular">INSR</a>, which is the protein that detects the presence of insulin so that cells can respond to it.</p>
+<div class="figure"><span style="display:block;" id="fig:unnamed-chunk-6"></span>
+<img src="assets/database_HPA/HPA_insulinreceptor_subcell_annotated.png" alt="Screenshot of the Subcell tab of the Human Protein Atlas entry for INSR.  It contains a table summarizing the subcellular localization of INSR.  It also contains a graphical summary of insulin receptor localization. A diagram of a cell has the plasma membrane and vesicles colored." width="1280" />
+<p class="caption">
+Figure 6.3: Katherine Cox (2023). Screenshot of the Summary section of the Subcell page for INSR from the Human Protein Atlas <a href="https://www.proteinatlas.org/ENSG00000254647-INS/tissue" class="uri">https://www.proteinatlas.org/ENSG00000254647-INS/tissue</a>. License: <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>
+</p>
+</div>
+<p>The insulin receptor is located mainly on the <em>plasma membrane</em>. This makes sense - it sits on the outside of the cell so that it can detect insulin. It can also be found in <em>vesicles</em>, which transport materials to and from the plasma membrane.</p>
+</div>
+<div id="look-up-a-protein" class="section level4 unnumbered">
+<h4>Look up a Protein</h4>
+<p>Phenylketonuria (PKU) is a severe disease where individuals are unable to metabolize the amino acid phenylalanine. If untreated, children with PKU develop seizures and irreversible intellectual disabilities. It can be controlled by maintaining a strict diet, and individuals can go on to live a normal life. Babies are routinely screened for PKU shortly after birth, so that they can begin treatment immediately.</p>
+<p>PKU is caused by deficiency in <strong>phenylalanine hydroxylase</strong> - the protein that processes phenylalanine.</p>
+</div>
+</div>
+<div id="exercise-3" class="section level3 unnumbered unlisted reflection">
+<h3>Exercise</h3>
+<p>Go to the Human Protein Atlas and enter “Phenylalanine hydroxylase” in the search bar to find out more about this protein.</p>
+<ol style="list-style-type: decimal">
+<li>What is the name of the gene that encodes this protein?</li>
+<li>What tissues is this gene expressed in?</li>
+<li>Where in the cell is it localized?</li>
+</ol>
+</div>
+<div id="summary-4" class="section level3" number="6.3.3">
+<h3><span class="header-section-number">6.3.3</span> Summary</h3>
+<p>The Human Protein Atlas is a useful source of information when researching human genes. Some key features include:</p>
+<ul>
+<li>A convenient summary of what is known about the gene’s function</li>
+<li>Information on disease associations</li>
+<li>Nice graphical depictions of where the protein is active</li>
+</ul>
+
+</div>
+</div>
+<hr>
+<center> 
+  <div class="footer">
+      All illustrations <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY. </a>
+      <br>
+      All other materials <a href= "https://creativecommons.org/licenses/by/4.0/"> CC-BY </a> unless noted otherwise.
+  </div>
+</center>
+            </section>
+
+          </div>
+        </div>
+      </div>
+<a href="flybase.html" class="navigation navigation-prev " aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
+<a href="wanted-additional-databases.html" class="navigation navigation-next " aria-label="Next page"><i class="fa fa-angle-right"></i></a>
+    </div>
+  </div>
+<script src="libs/gitbook-2.6.7/js/app.min.js"></script>
+<script src="libs/gitbook-2.6.7/js/clipboard.min.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-search.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-sharing.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-fontsettings.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-bookdown.js"></script>
+<script src="libs/gitbook-2.6.7/js/jquery.highlight.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-clipboard.js"></script>
+<script>
+gitbook.require(["gitbook"], function(gitbook) {
+gitbook.start({
+"sharing": {
+"github": false,
+"facebook": true,
+"twitter": true,
+"linkedin": false,
+"weibo": false,
+"instapaper": false,
+"vk": false,
+"whatsapp": false,
+"all": ["facebook", "twitter", "linkedin", "weibo", "instapaper"]
+},
+"fontsettings": {
+"theme": "white",
+"family": "sans",
+"size": 2
+},
+"edit": {
+"link": null,
+"text": null
+},
+"history": {
+"link": null,
+"text": null
+},
+"view": {
+"link": null,
+"text": null
+},
+"download": null,
+"search": {
+"engine": "fuse",
+"options": null
+},
+"toc": {
+"collapse": "section"
+}
+});
+});
+</script>
+
+</body>
+
+</html>
