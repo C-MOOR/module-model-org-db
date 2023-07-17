@@ -1,9 +1,6 @@
 ## FlyBase
 
-<div class="figure">
-<img src="assets/database_FlyBase/FlyBase_logo.png" alt="FlyBase logo" width="147" />
-<p class="caption">(\#fig:unnamed-chunk-1)FlyBase logo</p>
-</div>
+<img src="assets/database_FlyBase/FlyBase_logo.png" title="FlyBase logo" alt="FlyBase logo" width="147" />
 
 #### Learning Goals {-}
 

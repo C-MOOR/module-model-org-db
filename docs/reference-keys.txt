@@ -44,4 +44,8 @@ finding-orthologs
 disease-models
 summary-3
 learn-more
+human-protein-atlas
+what-is-the-human-protein-atlas
+protein-pages
+summary-4
 wanted-additional-databases
