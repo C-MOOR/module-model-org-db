@@ -41,18 +41,17 @@ Every protein in the Human Protein Atlas has its own page with a large collectio
 
 #### Protein Summary {-}
 
-```{r, echo=FALSE, fig.alt="Screenshot of the Summary section of the Human Protein Atlas page for INS.  It contains a table of information about the protein including its name (Insulin), Gene name (INS), Tissue specificity ('Tissue enriched (pancreas)') and Extracellular location (Secreted to blood).", fig.cap = "Katherine Cox (2021). Screenshot of the Summary section of the Human Protein Atlas page for INS https://www.proteinatlas.org/ENSG00000254647-INS. License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)"}
+```{r, echo=FALSE, fig.alt="Screenshot of the top of the Human Protein Atlas page for INS, showing two tables.  The Information table contains basic information about the protein including its name (Insulin), Gene name (INS), and Protein class (Cancer-related genes, Candidate cardiovascular disease genes, Disease related genes, Human disease related genes, Plasma proteins, RAS pathway related proteins).  The Protein Expression and Localization table summarizes insulin localization, including Tissue profile (Highly selective cytoplasmic expression in pancreatic islets), Subcellular location (Not available), and Extracellular location (Secreted to blood).", fig.cap = "Katherine Cox (2023). Screenshot of the top of the Human Protein Atlas page for INS https://www.proteinatlas.org/ENSG00000254647-INS. License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)"}
 
 knitr::include_graphics("assets/database_HPA/HPA_insulin_summary.png")
 ```
 
 - **Gene name** - The name of the gene that codes for the protein.  If multiple names have been used for this gene, they will be listed in parentheses.  The gene for insulin is named "INS".
-- **Gene summary** (at the bottom) - A summary of what we know about this gene.  For insulin, it contains a description of how it is processed, and then an explanation of how it binds to the insulin receptor and stimulates glucose uptake.
 - **Where is it located?** (Tissue specificity, Extracellular location, Brain specificity, Blood specificity, Predicted location) - The Human Protein Atlas has several types of information about the protein’s location.  More information is available further down on the page.
-- **What does it do?** (Protein function, Molecular function, Biological process) - What molecular, chemical, and biological processes does it carry out?  Insulin is a hormone involved in carbohydrate metabolism.
-- **Disease involvement** - Is it associated with any diseases?  Insulin is associated with diabetes as well as cancer.
+- **Protein class** - The Human Protein Atlas designates different "classes" for proteins, which are a bit like tags in a blog - they group proteins into collections based on some common property.  These classes are based on where the protein is located, what the protein does, and what diseases the protein is involved in.  Insulin is in multiple disease classes, because it is involved in both diabetes and cancer.  It is also in the plasma proteins class because it is found in plasma.
 
-Further down the page we can see more information about where the protein is located:
+
+Further down the page we can see more information about the protein:
 
 ```{r, echo=FALSE, fig.alt="Screenshot of the Protein Expression and Localization and Tissue RNA Expression sections of the Human Protein Atlas page for INS.  It contains tables summarizing insulin localization.  The Tissue profile is 'Highly selective cytoplasmic expression in pancreatic islets'.", fig.cap = "Katherine Cox (2023). Screenshot of the Protein Expression and Localization and Tissue RNA Expression sections of the Human Protein Atlas page for INS https://www.proteinatlas.org/ENSG00000254647-INS. License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)"}
 
@@ -63,7 +62,7 @@ Insulin is located specifically in the pancreas.
 
 #### Tissue Atlas {-}
 
-If we click on the [Tissue Atlas tab](https://www.proteinatlas.org/ENSG00000254647-INS/tissue), we can see more detailed information.  Partway down the page you can see diagrams of where the protein is located.
+If we click on the [Tissue tab](https://www.proteinatlas.org/ENSG00000254647-INS/tissue), we can see more detailed information.  Partway down the page you can see diagrams of where the protein is located.
 
 ```{r, echo=FALSE, fig.alt="Screenshot of the Tissue tab of the Human Protein Atlas entry for INS.  It contains graphical summaries of insulin localization. A diagram of a human body has several areas colored lightly, and the pancreas colored darkly.  Bar plots for RNA and protein expression both show high expression in the pancrease and little to no expression anywhere else.  There are also images of different tissues stained to detect insulin expression - only the pancrease tissue has dark staining.", fig.cap = "Katherine Cox (2023). Screenshot of the RNA and Protein Expression Summary section of the Tissue page for INS from the Human Protein Atlas https://www.proteinatlas.org/ENSG00000254647-INS/tissue. License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)"}
 
