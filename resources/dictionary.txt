@@ -35,6 +35,8 @@ Hsap
 htt
 HTT
 https
+hydroxylase
+INSR
 intechopen
 IntechOpen
 laevis
@@ -45,6 +47,7 @@ multicellular
 musculus
 neurotransmission
 norvegicus
+nucleotides
 OMIM
 oocytes
 ortholog
@@ -53,6 +56,10 @@ Orthology
 PDB
 Perveen
 phenotypes
+phenylalanine
+Phenylalanine
+Phenylketonuria
+PKU
 polydactyly
 Pre
 pre
@@ -63,6 +70,7 @@ rerio
 Saccharomyces
 Sanjai
 searchbar
+Subcell
 subcellular
 subunit
 th

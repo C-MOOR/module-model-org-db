@@ -1,6 +1,6 @@
 ## FlyBase
 
-```{r, echo=FALSE, fig.alt="FlyBase logo", fig.cap = "FlyBase logo"}
+```{r, echo=FALSE, fig.alt="FlyBase logo"}
 knitr::include_graphics("assets/database_FlyBase/FlyBase_logo.png")
 ```
 

@@ -1,0 +1,45 @@
+---
+summary: |
+  This tutorial will introduce you to the [Human Protein Atlas](https://www.proteinatlas.org/). The Human Protein Atlas is a website that organizes research results about human proteins.
+author:
+  - "[Katherine Cox](https://c-moor.github.io/portfolio/coxkatherine/)"
+time: "15 min"
+prerequisites: "None"
+---
+
+## Look up a Protein
+
+<!-- I included these questions in reflecton boxes, as short answer rather than multiple choice -->
+
+```{r pku-quiz}
+quiz(caption = "Investigate phenylalanine hydroxylase",
+  question("What is the name of this gene?",
+    answer("PKU"),
+    answer("PAH", correct = TRUE),
+    answer("PHE"),
+    answer("Phenylalanine"),
+    allow_retry = TRUE,
+    random_answer_order = TRUE
+  ),
+  question("What tissues is this gene expressed in?  HINT: Choose 3",
+    answer("Stomach"),
+    answer("Liver", correct = TRUE),
+    answer("Spleen"),
+    answer("Gallbladder", correct = TRUE),
+    answer("Kidney", correct = TRUE),
+    answer("Small intestine"),
+    allow_retry = TRUE,
+    random_answer_order = TRUE
+  ),
+  question("Where in the cell is it localized?  HINT: Choose 2",
+    answer("Nucleus"),
+    answer("Cytoplasm"),
+    answer("Extracellular matrix"),
+    answer("Endoplasmic reticulum", correct = TRUE),
+    answer("Mitochondria"),
+    answer("Vesicles", correct = TRUE),
+    allow_retry = TRUE,
+    random_answer_order = TRUE
+  )
+)
+```
