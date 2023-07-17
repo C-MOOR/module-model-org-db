@@ -58,6 +58,9 @@ Further down the page we can see more information about what the protein does:
 knitr::include_graphics("assets/database_HPA/HPA_insulin_function.png")
 ```
 
+- **What does it do?** (Protein function, Molecular function, Biological process) - What molecular, chemical, and biological processes does it carry out?  Insulin is a hormone involved in carbohydrate metabolism.
+- **Gene summary** (at the bottom) - A summary of what we know about this gene.  For insulin, it contains a description of how it is processed, and then an explanation of how it binds to the insulin receptor and stimulates glucose uptake.
+
 
 #### Tissue Atlas {-}
 
