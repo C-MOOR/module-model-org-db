@@ -1,6 +1,6 @@
 ---
 title: "Model Organisms and Biological Databases"
-date: "July 19, 2023"
+date: "July 20, 2023"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib]
@@ -11,6 +11,8 @@ favicon: assets/dasl_favicon.ico
 output:
     bookdown::word_document2:
       toc: true
+    bookdown::gitbook:
+      split_by: section
 ---
 
 # About this Course {-}
