@@ -11,6 +11,8 @@ favicon: assets/dasl_favicon.ico
 output:
     bookdown::word_document2:
       toc: true
+    bookdown::gitbook:
+      split_by: section
 ---
 
 # About this Course {-}
