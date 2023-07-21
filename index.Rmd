@@ -19,7 +19,7 @@ output:
 
 ```{r, out.width=c('60%', '40%'), fig.show='hold'}
 
-knitr::include_graphics("assets/model_org_intro/model_organism_collage.jpeg, assets/database_intro/database_logos.png")
+knitr::include_graphics("assets/model_org_intro/model_organism_collage.jpeg", "assets/database_intro/database_logos.png")
 
 ```
 
