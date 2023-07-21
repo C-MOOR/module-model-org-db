@@ -15,12 +15,16 @@ output:
       split_by: section
 ---
 
-# About this Course {-}
+# About this Module {-}
+
+```{r, out.width='49%', fig.show='hold', fig.alt="Two images are shown side-by-side.  On the left is a collage of pictures of several different model organisms.  On the right are Logos from different biological databases, including Human Protein Atlas, Protein Data Bank, Genbank, and Online Mendelian Inheritance in Man." fig.cap='Left: Max Westby. Some of the most important genetic model organisms in use today. Clockwise from top left: yeast, fruit fly, arabidopsis, mouse, roundworm, zebrafish. http://cubocube.com/dashboard.php?a=1179&b=1228&c=103 License: [CC ANS 2.5](https://creativecommons.org/licenses/by-nc-sa/2.5/)". Right: Logos from several biological databases'}
+
+knitr::include_graphics("assets/model_org_intro/model_organism_collage.jpeg")
+knitr::include_graphics("assets/database_intro/database_logos.png")
+```
 
 
-## Available course formats
-
-<!-- 
+<!-- ## Available course formats
 This course is available in multiple formats which allows you to take it in the way that best suites your needs. You can take it for certificate which can be for free or fee.
 
 - The material for this course can be viewed without login requirement on this [Bookdown website](LINK HERE). This format might be most appropriate for you if you rely on screen-reader technology.
