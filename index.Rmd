@@ -22,7 +22,6 @@ output:
 ```
 
 ```{r}
-
 # library(cowplot)
 # ggdraw() + 
 #   draw_image("assets/model_org_intro/model_organism_collage.jpeg", width = 0.5) + 
