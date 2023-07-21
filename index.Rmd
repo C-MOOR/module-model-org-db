@@ -27,9 +27,10 @@ library(cowplot)
 ggdraw() + 
   draw_image("assets/model_org_intro/model_organism_collage.jpeg", width = 0.5) + 
   draw_image("assets/database_intro/database_logos.png", width = 0.5, x = 0.5)
+```
 
-knitr::include_graphics("assets/model_org_intro/model_organism_collage.jpeg", "assets/database_intro/database_logos.png")
-
+```{r}
+knitr::include_graphics(c("assets/model_org_intro/model_organism_collage.jpeg", "assets/database_intro/database_logos.png"))
 ```
 
 
