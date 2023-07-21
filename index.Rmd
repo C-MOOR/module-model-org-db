@@ -18,18 +18,18 @@ output:
 # About this Module {-}
 
 ```{r}
-install.packages('cowplot')
+# install.packages('cowplot')
 ```
 
 ```{r}
 
-library(cowplot)
-ggdraw() + 
-  draw_image("assets/model_org_intro/model_organism_collage.jpeg", width = 0.5) + 
-  draw_image("assets/database_intro/database_logos.png", width = 0.5, x = 0.5)
+# library(cowplot)
+# ggdraw() + 
+#   draw_image("assets/model_org_intro/model_organism_collage.jpeg", width = 0.5) + 
+#   draw_image("assets/database_intro/database_logos.png", width = 0.5, x = 0.5)
 ```
 
-```{r}
+```{r, out.width=c('60%', '40%'), fig.show='hold'}
 knitr::include_graphics(c("assets/model_org_intro/model_organism_collage.jpeg", "assets/database_intro/database_logos.png"))
 ```
 
