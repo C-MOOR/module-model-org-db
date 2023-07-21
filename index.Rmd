@@ -17,6 +17,8 @@ output:
 
 # About this Module {-}
 
+This module introduces students to model organisms and biological databases and the roles they play in scientific research.  At a more fundamental level, it illumniates the concepts of genes and homology.  By using databases to explore genes and their homologs, students will gain a deeper appreciation of the commonalities that exist across organisms and the ways in which this can help us conduct scientific research.
+
 ```{r, echo=FALSE, out.width=c('72%', '28%'), fig.show='hold', fig.alt="Two images are shown side-by-side.  On the left is a collage of pictures of several different model organisms.  On the right are Logos from different biological databases, including Human Protein Atlas, Protein Data Bank, Genbank, and Online Mendelian Inheritance in Man.", fig.cap="Left: Max Westby. Some of the most important genetic model organisms in use today. Clockwise from top left: yeast, fruit fly, arabidopsis, mouse, roundworm, zebrafish. http://cubocube.com/dashboard.php?a=1179&b=1228&c=103 License: [CC ANS 2.5](https://creativecommons.org/licenses/by-nc-sa/2.5/). Right: Logos from several biological databases"}
 knitr::include_graphics(c("assets/model_org_intro/model_organism_collage.jpeg", "assets/database_intro/database_logos.png"))
 ```
