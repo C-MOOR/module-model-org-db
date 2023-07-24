@@ -83,7 +83,7 @@ You can then provide additional details; e.g.
 1. Use online databases to look up information about a gene.
 1. Explain how studying homologous genes across species can help further our understanding of those genes.
 
-## Core Competencies {-}
+### Core Competencies {-}
 
 This activity addresses the following core concepts and competencies:
 
@@ -92,7 +92,7 @@ competencies <- tibble::tribble(
   ~source, ~competencies,
   
   "**Vision and Change**",  paste(
-                              "Concepts\n",
+                              # "Concepts\n",
                               # "- **1**: EVOLUTION: The diversity of life evolved over time by processes of mutation, selection, and genetic change",
                               # "- **2**: STRUCTURE AND FUNCTION: Basic units of structure define the function of all living things",
                               "- **3**: INFORMATION FLOW, EXCHANGE, AND STORAGE: The growth and behavior of organisms are activated through the expression of genetic information in context",
@@ -109,7 +109,7 @@ competencies <- tibble::tribble(
                             sep="\n"),
 
      "**Genetics**",         paste(
-                              "Concepts\n",
+                              # "Concepts\n",
                               # "- How is DNA organized?",
                               # "- What are the molecular components and mechanisms necessary to preserve and duplicate an organism’s genome?",
                               # "- What are the mechanisms by which an organism’s genome is passed on to the next generation?",
