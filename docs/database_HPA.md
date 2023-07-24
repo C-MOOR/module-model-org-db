@@ -2,7 +2,7 @@
 
 ![](assets/database_HPA/HPA_logo.png)
 
-#### Learning Goals {-}
+#### Learning Objectives {-}
 
 - Use the Human Protein Atlas to look up proteins by name and find out where they are localized.
 

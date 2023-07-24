@@ -2,7 +2,7 @@
 
 ![](assets/database_FlyBase/FlyBase_logo.png)
 
-#### Learning Goals {-}
+#### Learning Objectives {-}
 
 - Use FlyBase to look up information about genes by name, gene symbol, or FlyBase ID number
 - Use FlyBase to find fruit fly models of human disease
