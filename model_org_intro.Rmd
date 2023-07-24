@@ -5,7 +5,7 @@
 knitr::include_graphics("assets/model_org_intro/model_organism_collage.jpeg")
 ```
 
-#### Learning Goals {-}
+#### Learning Objectives {-}
 
 - Explain what a "model organism" is and why they are useful
 - Define **ortholog** and explain how model organisms can be used to understand human genes.
