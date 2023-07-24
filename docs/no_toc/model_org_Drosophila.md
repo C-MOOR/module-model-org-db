@@ -5,7 +5,7 @@
 <p class="caption">(\#fig:unnamed-chunk-1)Sanjay Acharya (2017) A fruit fly (*Drosophila melanogaster*) feeding off a banana. https://commons.wikimedia.org/wiki/File:Drosophila_melanogaster_Proboscis.jpg License: [CC BY 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en)</p>
 </div>
 
-#### Learning Goals {-}
+#### Learning Objectives {-}
 
 - Provide 3 reasons why fruit flies are useful for scientific research
 - List 3 ways in which fruit flies are similar to humans

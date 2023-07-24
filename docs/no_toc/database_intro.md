@@ -5,7 +5,7 @@
 <p class="caption">(\#fig:unnamed-chunk-1)Logos from several biological databases</p>
 </div>
 
-#### Learning Goals {-}
+#### Learning Objectives {-}
 
 - Explain what a biological database is and why it’s important
 - Name 3 types of information that may be available in biological databases.
