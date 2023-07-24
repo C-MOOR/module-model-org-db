@@ -5,7 +5,7 @@
 <p class="caption">(\#fig:unnamed-chunk-1)Max Westby. Some of the most important genetic model organisms in use today. Clockwise from top left: yeast, fruit fly, arabidopsis, mouse, roundworm, zebrafish. http://cubocube.com/dashboard.php?a=1179&b=1228&c=103 License: [CC ANS 2.5](https://creativecommons.org/licenses/by-nc-sa/2.5/)</p>
 </div>
 
-#### Learning Goals {-}
+#### Learning Objectives {-}
 
 - Explain what a "model organism" is and why they are useful
 - Define **ortholog** and explain how model organisms can be used to understand human genes.

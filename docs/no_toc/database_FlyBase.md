@@ -2,7 +2,7 @@
 
 <img src="assets/database_FlyBase/FlyBase_logo.png" title="FlyBase logo" alt="FlyBase logo" width="147" />
 
-#### Learning Goals {-}
+#### Learning Objectives {-}
 
 - Use FlyBase to look up information about genes by name, gene symbol, or FlyBase ID number
 - Use FlyBase to find fruit fly models of human disease

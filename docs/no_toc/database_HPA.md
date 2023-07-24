@@ -2,7 +2,7 @@
 
 <img src="assets/database_HPA/HPA_logo.png" title="Human Protein Atlas logo" alt="Human Protein Atlas logo" width="271" />
 
-#### Learning Goals {-}
+#### Learning Objectives {-}
 
 - Use the Human Protein Atlas to look up proteins by name and find out where they are localized.
 

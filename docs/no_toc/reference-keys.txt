@@ -10,7 +10,6 @@ fig:unnamed-chunk-9
 fig:unnamed-chunk-10
 fig:unnamed-chunk-11
 fig:unnamed-chunk-12
-available-course-formats
 pre-lab-model-organisms
 lab-lecture-what-is-a-gene
 exercises-biological-databases
