@@ -162,7 +162,14 @@ Core concepts and competencies are taken from the following sources:
   - [Genetics Core Competencies](https://genetics-gsa.org/education/genetics-learning-framework/) by [GSA](https://genetics-gsa.org/)
   - [Bioinformatics core competencies for undergraduate life sciences education](https://doi.org/10.1371/journal.pone.0196878) by [NIBLSE](https://qubeshub.org/community/groups/niblse)
 
+### C-MOOR Content Collection {-}
 
+```{r, echo = FALSE, results='asis'}
+cow::borrow_chapter(
+  doc_path = "about_c-moor.Rmd",
+  repo_name = "C-MOOR/C-MOOR_Template"
+)
+```
 
 <!-- ## Available course formats
 This course is available in multiple formats which allows you to take it in the way that best suites your needs. You can take it for certificate which can be for free or fee.
