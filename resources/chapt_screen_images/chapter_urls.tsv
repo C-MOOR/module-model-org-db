@@ -1,6 +1,5 @@
 url	chapt_title	img_path
-https://www.c-moor.org/module-model-org-db/no_toc/index.html	About this Course	resources/chapt_screen_images/index.png
-https://www.c-moor.org/module-model-org-db/no_toc/available-course-formats.html	0.1 Available course formats	resources/chapt_screen_images/available-course-formats.png
+https://www.c-moor.org/module-model-org-db/no_toc/index.html	About	resources/chapt_screen_images/index.png
 https://www.c-moor.org/module-model-org-db/no_toc/instructor-guide.html	Instructor Guide	resources/chapt_screen_images/instructor-guide.png
 https://www.c-moor.org/module-model-org-db/no_toc/pre-lab-model-organisms.html	1 Pre-lab: Model Organisms	resources/chapt_screen_images/pre-lab-model-organisms.png
 https://www.c-moor.org/module-model-org-db/no_toc/lab-lecture-what-is-a-gene.html	2 Lab Lecture: What is a Gene?	resources/chapt_screen_images/lab-lecture-what-is-a-gene.png
