@@ -1,4 +1,4 @@
-## *Drosophila melanogaster* (fruit fly)
+## *Drosophila melanogaster* (fruit fly) {#model-org-drosophila}
 
 <div class="figure">
 <img src="assets/model_org_Drosophila/fruit_fly.jpg" alt="Picture of a fruit fly"  />
