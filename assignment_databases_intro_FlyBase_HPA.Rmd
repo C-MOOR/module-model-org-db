@@ -1,0 +1,93 @@
+
+```{r, echo=FALSE, fig.alt="Logos from different biological databases, including Human Protein Atlas, Protein Data Bank, Genbank, and Online Mendelian Inheritance in Man", fig.cap = "Logos from several biological databases"}
+
+knitr::include_graphics("assets/database_intro/database_logos.png")
+```
+
+### Purpose {-}
+
+The three activities in this assignment will give you a quick tour of several online databases for biological research and will teach you how to use these databases to gather information about genes.
+
+### Learning Objectives {-}
+
+1. Name two biological databases and briefly describe the types of information they each contain.
+1. Use online databases to look up information about a gene.
+
+### Introduction {-}
+
+### **Activity 1** - Databases {-}
+
+Estimated time: 15 min
+
+#### Instructions
+
+1. [Click here to open the Biological Databases Introduction.](https://www.c-moor.org/module-model-org-db/database-intro.html){target="_blank"}
+1. As you complete the lesson, fill in the table below. This will help you know which database to go back to later on.
+
+#### Questions
+
+Table 1. Databases
+
+| Database            | Description |
+| --------------------|-------------|
+| GenBank             |             |
+| OMIM                |             |
+| Human Protein Atlas |             |
+| PDB                 |             |
+
+### **Activity 2** - FlyBase {-}
+
+Estimated time: 15 min
+
+#### Instructions
+
+1. Work through the FlyBase Tutorial in SciServer.
+1. To move through the activities click "Continue" at the bottom of the screen. When you are done with a topic, click "Next Topic" to move on.
+
+#### Questions
+
+| 2A. What is one question you have about using FlyBase? |
+|:-|
+| <br> |
+
+<br>
+
+| 2B. What is something that surprised you or that you found interesting about using FlyBase? |
+|:-|
+| <br> |
+
+### **Activity 3** - Human Protein Atlas {-}
+
+Estimated time: 15 min
+
+#### Instructions
+
+1. Work through the Human Protein Atlas in SciServer.
+1. To move through the activities click "Continue" at the bottom of the screen. When you are done with a topic, click "Next Topic" to move on.
+
+#### Questions
+
+| 3A. What is one question you have about using HPA? |
+|:-|
+| <br> |
+
+<br>
+
+| 3B. What is something that surprised you or that you found interesting about using HPA? |
+|:-|
+| <br> |
+
+### Footnotes {-}
+
+#### Resources
+
+- [Google Doc](https://docs.google.com/document/d/1M7rtDzyGVUxO2GVBp09bTBu4fMDxocTs)
+
+#### Contributions and Affiliations
+
+- Rosa Alcazar, Ph.D., Clovis Community College
+- Katherine Cox, Ph.D., John Hopkins
+- Stephanie R. Coffman, Ph.D., Clovis Community College
+- Frederick Tan, Ph.D., Carnegie Institution for Science
+
+Last Revised: July 2023

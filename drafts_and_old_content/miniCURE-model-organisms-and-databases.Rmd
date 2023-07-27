@@ -4,86 +4,8 @@
 
 In Lab 8, this information will help you look up information about Drosophila genes.
 
-## Lab Slides {#lab-slides-model-organisms-and-databases}
-
-```{r, echo=FALSE, fig.alt=''}
-ottrpal::include_slide("https://docs.google.com/presentation/d/1kt0lW4D8AWqQm1j6FMo0rRDGM_G3zkLmPy3EZNDg3s0/edit#slide=id.g35f391192_00")
-```
-
-[[slides](https://docs.google.com/presentation/d/1kt0lW4D8AWqQm1j6FMo0rRDGM_G3zkLmPy3EZNDg3s0)]
-
-## Lab Activity: Biological Databases
-
-### Purpose
 
 In this activity, students  will learn to search the same online databases used by scientists to collect information about a set of genes and present them to your group. This will give you an opportunity to engage in inquiry-based learning and apply the concepts in molecular biology and genetics from this course.
-
-### Learning Objectives
-
-1. Use online databases to look up information about a gene.
-
-### Activity 1 - Databases
-
-Estimated time: 15 min
-
-#### Instructions
-
-1. Follow [these directions](https://docs.google.com/document/d/1nQ-wd4hX0Xtd4mfloXcpbbtK_CqDzY874oqmBYql1M8){target="_blank"} to launch your first LearnR tutorial: Biological Databases Tutorial.
-1. To move through the activities click "Continue" at the bottom of the screen. When you are done with a topic, click "Next Topic" to move on.
-1. As you complete the tutorial, fill in the table below. This will help you know which database to go back to later on.
-
-#### Questions
-
-Table 1. Databases
-
-| Database            | Description |
-| --------------------|-------------|
-| GenBank             |             |
-| OMIM                |             |
-| Human Protein Atlas |             |
-| PDB                 |             |
-
-### Activity 2 - FlyBase
-
-Estimated time: 15 min
-
-#### Instructions
-
-1. Work through the FlyBase Tutorial in SciServer.
-1. To move through the activities click "Continue" at the bottom of the screen. When you are done with a topic, click "Next Topic" to move on.
-
-#### Questions
-
-| 2A. What is one question you have about using FlyBase? |
-|:-|
-| <br> |
-
-<br>
-
-| 2B. What is something that surprised you or that you found interesting about using FlyBase? |
-|:-|
-| <br> |
-
-### Activity 3 - Human Protein Atlas
-
-Estimated time: 15 min
-
-#### Instructions
-
-1. Work through the Human Protein Atlas in SciServer.
-1. To move through the activities click "Continue" at the bottom of the screen. When you are done with a topic, click "Next Topic" to move on.
-
-#### Questions
-
-| 3A. What is one question you have about using HPA? |
-|:-|
-| <br> |
-
-<br>
-
-| 3B. What is something that surprised you or that you found interesting about using HPA? |
-|:-|
-| <br> |
 
 ### Activity 4 - Research a Gene!
 
