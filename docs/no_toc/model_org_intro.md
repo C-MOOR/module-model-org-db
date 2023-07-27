@@ -1,4 +1,4 @@
-## Introduction to Model Organisms
+## Introduction to Model Organisms {#model-org-intro}
 
 <div class="figure">
 <img src="assets/model_org_intro/model_organism_collage.jpeg" alt="Collage of pictures of several different model organisms"  />
