@@ -19,16 +19,16 @@ Scientists frequently use a few specific organisms, called **model organisms** f
 
 The fruit fly (*Drosophila melanogaster*) is a popular model organism used to study a wide range of biological questions. The second activity will introduce you to some of the types of research being conducted with fruit flies, give a brief overview of *Drosophila* biology, and show you what it’s like to work with *Drosophila* in the lab.
 
-### Activity 1 - Model Organisms
+### **Activity 1** - Model Organisms {-}
 
 Estimated time: 10 min
 
-#### Instructions
+#### Instructions {-}
 
 1. [Click here to open the Model Organisms Introduction.](https://www.c-moor.org/module-model-org-db/model-org-intro.html){target="_blank"}
 1. As you complete the lesson, answer the questions below.
 
-#### Questions
+#### Questions {-}
 
 | 1A. Explain what a "model organism" is and why they are useful. |
 |:-|
@@ -46,16 +46,16 @@ Estimated time: 10 min
 |:-|
 | <br> |
 
-### Activity 2 - Drosophila melanogaster
+### **Activity 2** - Drosophila melanogaster {-}
 
 Estimated time: 20 min
 
-#### Instructions
+#### Instructions {-}
 
 1. [Click here to open the *Drosophila melanogaster* lesson.](https://www.c-moor.org/module-model-org-db/model-org-drosophila.html){target="_blank"}
 1. As you complete the lesson, answer the questions below.
 
-#### Questions
+#### Questions {-}
 
 | 2A. Provide 3 reasons why fruit flies are useful for scientific research. |
 |:-|
