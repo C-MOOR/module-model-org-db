@@ -1,5 +1,7 @@
+AAAS
 Acetylcholine
 acetylcholinesterase
+Alcazar
 Andreas
 autosomes
 BCHE
@@ -7,6 +9,7 @@ bioinformatics
 Caenorhabditis
 cerevisiae
 CFTR
+Coffman
 coli
 coronavirus
 COVID
@@ -46,6 +49,7 @@ MGD
 multicellular
 musculus
 neurotransmission
+NIBLSE
 norvegicus
 nucleotides
 OMIM
@@ -55,6 +59,7 @@ orthologs
 Orthology
 PDB
 Perveen
+Ph
 phenotypes
 phenylalanine
 Phenylalanine
