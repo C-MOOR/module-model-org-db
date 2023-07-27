@@ -1,4 +1,0 @@
-# Pre-lab: Model Organisms
-
-```{r, child='assignment_model_org_intro_Drosophila.Rmd'}
-```
