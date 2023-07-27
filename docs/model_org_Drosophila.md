@@ -1,4 +1,4 @@
-## *Drosophila melanogaster* (fruit fly)
+## *Drosophila melanogaster* (fruit fly) {#model-org-drosophila}
 
 ![(\#fig:unnamed-chunk-1)Sanjay Acharya (2017) A fruit fly (*Drosophila melanogaster*) feeding off a banana. https://commons.wikimedia.org/wiki/File:Drosophila_melanogaster_Proboscis.jpg License: [CC BY 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en)](assets/model_org_Drosophila/fruit_fly.jpg)
 
