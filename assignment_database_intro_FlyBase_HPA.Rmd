@@ -4,20 +4,28 @@
 knitr::include_graphics("assets/database_intro/database_logos.png")
 ```
 
-### Purpose {-}
+### Overview {-}
+
+#### Purpose {-}
 
 The three activities in this assignment will give you a quick tour of several online databases for biological research and will teach you how to use these databases to gather information about genes.
 
-### Learning Objectives {-}
+#### Learning Objectives {-}
 
 1. Name two biological databases and briefly describe the types of information they each contain.
 1. Use online databases to look up information about a gene.
 
-### Introduction {-}
+#### Introduction {-}
+
+Scientists often use online databases to store and share their research.  These biological databases make vast amounts of scientific research freely available to anyone, as long as you know where to look.  The first activity will introduce you to a few of these databases by teaching you where to find them and what kinds of information they contain.
+
+[FlyBase](https://flybase.org/) is a database for everything there is to know about fruit flies and their genetics.  The second activity will teach you how to find and learn about fruit fly genes on FlyBase, and how to find out which fruit fly genes correspond to which human genes.
+
+The [Human Protein Atlas](https://www.proteinatlas.org/) contains information about human proteins and where they are located in the body.  The third activity will show you how to use the Human Protein Atlas to discover what tissues a protein is expressed in, as well as its subcellular localization (where in a cell the protein is located).  Knowing the location of a protein can help us figure out what it does.
 
 ### **Activity 1** - Databases {-}
 
-Estimated time: 15 min
+Estimated time: 10 min
 
 #### Instructions {-}
 
@@ -41,8 +49,8 @@ Estimated time: 15 min
 
 #### Instructions {-}
 
-1. Work through the FlyBase Tutorial in SciServer.
-1. To move through the activities click "Continue" at the bottom of the screen. When you are done with a topic, click "Next Topic" to move on.
+1. [Click here to open the FlyBase lesson.](https://www.c-moor.org/module-model-org-db/database-flybase.html){target="_blank"}
+1. As you complete the lesson, answer the questions below.
 
 #### Questions {-}
 
@@ -62,8 +70,8 @@ Estimated time: 15 min
 
 #### Instructions {-}
 
-1. Work through the Human Protein Atlas in SciServer.
-1. To move through the activities click "Continue" at the bottom of the screen. When you are done with a topic, click "Next Topic" to move on.
+1. [Click here to open the Human Protein Atlas lesson.](https://www.c-moor.org/module-model-org-db/database-hpa.html){target="_blank"}
+1. As you complete the lesson, answer the questions below.
 
 #### Questions {-}
 

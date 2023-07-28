@@ -1,4 +1,4 @@
-## Human Protein Atlas
+## Human Protein Atlas {#database-hpa}
 
 ```{r, echo=FALSE, fig.alt="Human Protein Atlas logo"}
 knitr::include_graphics("assets/database_HPA/HPA_logo.png")
