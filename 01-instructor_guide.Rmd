@@ -1,14 +1,8 @@
 # Instructor Guide {-}
 
 This module has two key goals.  From a "fundamentals of biology" perspective, this module aims to help students gain an appreciation of genes, homology, and how model organisms can contribute to our understanding of a gene by giving them concrete examples to investigate.  From a "scientific practice" perspective, it aims to show them some of the publicly available scientific databases and give them confidence in exploring them to find information about a gene of interest.
- 
-### Teaching Recommendations {-}
 
-This module is designed to be flexible - it can be completed in a single lab period, or the component pieces can be split apart to be used at different times (e.g. at home vs. in-class, or across multiple class days).  We have primarily used it as a single lab period, but have also used it as a "flipped-classroom" activity in a lecture course, assigning portions as homework and completing the "project" portion in class.
-
-The "Example Lab" portion of this book demonstrates how we typically organize the material for a single lab period of an introductory biology course.
-
-### Components of this module: {-}
+### Module Components: {-}
 
 | Activity | Time |
 | :-- | :- |
@@ -17,3 +11,25 @@ The "Example Lab" portion of this book demonstrates how we typically organize th
 | Database Lessons | 45 minutes |
 | Database Project | 45 minutes |
 | Write-up and/or present | flexible |
+
+### Teaching Recommendations {-}
+
+This module is designed to be flexible - it can be completed in a single lab period, or the component pieces can be split apart to be used at different times (e.g. at home vs. in-class, or across multiple class days).  We have primarily used it as a single lab period, but have also used it as a "flipped-classroom" activity in a lecture course, assigning portions as homework and completing the "project" portion in class.
+
+The "Example Lab" portion of this book demonstrates how we typically organize the material for a single lab period of an introductory biology course.
+
+### How to Use this Book {-}
+
+This book is organized into two parts:
+
+- The **Example Lab** demonstrates how we have used the material as a single lab period of an introductory biology course. The "chapters" of the Example Lab are the instructions that we give to our students, and can be downloaded as .docx files if you want to modify them for your course, or assigned directly if you are happy with them as-is.  These assignments may direct students to work through one or more of the chapters in our Content Collection.
+
+The "Content Collection" contains standalone readings and activities on specific topics, similar to textbook chapters.  In the future we intend to incorporate additional Content chapters covering other model organisms and databases, so that instructors can choose the organisms and databases most relevant to their students.
+
+#### Customizing Assignments {-}
+
+Each of the assignment chapters in the Example Lab includes a link to .docx version of the assignment (as a Google Doc) so that you can easily make your own copy and adapt it to your needs
+
+If you are comfortable with GitHub, you can also fork the repository for this book and modify the Rmarkdown files.
+
+
