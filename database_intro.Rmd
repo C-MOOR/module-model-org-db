@@ -1,4 +1,4 @@
-## Introduction to Biological Databases
+## Introduction to Biological Databases {#database-intro}
 
 ```{r, echo=FALSE, fig.alt="Logos from different biological databases, including Human Protein Atlas, Protein Data Bank, Genbank, and Online Mendelian Inheritance in Man", fig.cap = "Logos from several biological databases"}
 
