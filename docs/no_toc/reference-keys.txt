@@ -15,7 +15,7 @@ lab-slides-model-organisms-and-databases
 exercises-biological-databases
 resources-1
 contributions-and-affiliations-1
-assignment-research-a-gene
+project-research-a-gene
 model-organisms
 model-org-intro
 what-is-a-model-organism
