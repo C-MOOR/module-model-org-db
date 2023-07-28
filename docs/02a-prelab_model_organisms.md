@@ -4,16 +4,18 @@
 
 ![(\#fig:unnamed-chunk-2)Max Westby. Some of the most important genetic model organisms in use today. Clockwise from top left: yeast, fruit fly, arabidopsis, mouse, roundworm, zebrafish. http://cubocube.com/dashboard.php?a=1179&b=1228&c=103 License: [CC ANS 2.5](https://creativecommons.org/licenses/by-nc-sa/2.5/)](assets/model_org_intro/model_organism_collage.jpeg)
 
-### Purpose {-}
+### Overview{-}
+
+#### Purpose {-}
 
 The two activities in this assignment will familiarize you with the concepts of model organisms, with an emphasis on *Drosophila* (fruit flies).
 
-### Learning Objectives {-}
+#### Learning Objectives {-}
 
 1. Explain the importance of model organisms and identify some of their desirable characteristics. 
 1. Describe the usefulness of *Drosophila* as a model system.
 
-### Introduction {-}
+#### Introduction {-}
 
 Scientists frequently use a few specific organisms, called **model organisms** for their experiments. The first activity will give a general overview of model organisms, introduce a few of the most popular model organisms and discuss why these organisms were chosen and what they are useful for.
 

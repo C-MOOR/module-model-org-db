@@ -1,4 +1,4 @@
-## Introduction to Biological Databases
+## Introduction to Biological Databases {#database-intro}
 
 ![(\#fig:unnamed-chunk-1)Logos from several biological databases](assets/database_intro/database_logos.png)
 
