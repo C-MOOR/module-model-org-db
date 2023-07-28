@@ -1,3 +1,19 @@
 # Instructor Guide {-}
 
-Coming soon!
+This module has two key goals.  From a "fundamentals of biology" perspective, this module aims to help students gain an appreciation of genes, homology, and how model organisms can contribute to our understanding of a gene by giving them concrete examples to investigate.  From a "scientific practice" perspective, it aims to show them some of the publicly available scientific databases and give them confidence in exploring them to find information about a gene of interest.
+ 
+### Teaching Recommendations {-}
+
+This module is designed to be flexible - it can be completed in a single lab period, or the component pieces can be split apart to be used at different times (e.g. at home vs. in-class, or across multiple class days).  We have primarily used it as a single lab period, but have also used it as a "flipped-classroom" activity in a lecture course, assigning portions as homework and completing the "project" portion in class.
+
+The "Example Lab" portion of this book demonstrates how we typically organize the material for a single lab period of an introductory biology course.
+
+### Components of this module: {-}
+
+| Activity | Time |
+| :-- | :- |
+| Model Organisms Lessons | 30 minutes |
+| Database Activity Lecture | 15 minutes |
+| Database Lessons | 45 minutes |
+| Database Project | 45 minutes |
+| Write-up and/or present | flexible |
