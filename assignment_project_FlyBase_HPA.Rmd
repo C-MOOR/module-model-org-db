@@ -1,10 +1,3 @@
-# Model Organisms and Databases
-
-## Pre-lab: Model Organisms
-
-In Lab 8, this information will help you look up information about Drosophila genes.
-
-
 In this activity, students  will learn to search the same online databases used by scientists to collect information about a set of genes and present them to your group. This will give you an opportunity to engage in inquiry-based learning and apply the concepts in molecular biology and genetics from this course.
 
 ### Activity 4 - Research a Gene!
@@ -87,5 +80,6 @@ Estimated time: 30 min
 - Rosa Alcazar, Ph.D., Clovis Community College
 - Katherine Cox, Ph.D., John Hopkins
 - Stephanie R. Coffman, Ph.D., Clovis Community College
+- Frederick Tan, Ph.D., Carnegie Institution for Science
 
-Last Revised: September 2021
+Last Revised: July 2023
