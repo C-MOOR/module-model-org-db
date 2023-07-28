@@ -14,7 +14,7 @@ In this project, students  will search the same online databases used by scienti
 1. Use online databases to look up information about a gene.
 1. Present scientific research to an audience of peers.
 
-### Activity 1 - Research a Gene! {-}
+### **Activity 1** - Research a Gene! {-}
 
 Estimated time: 45  min
 
@@ -62,7 +62,7 @@ Table 3. Human Protein Atlas
 | Is the gene tissue specific? Which tissue? | |
 | Where is it localized in cells? | |
 
-### Activity 2 - Present to your Group {-}
+### **Activity 2** - Present to your Group {-}
 
 Estimated time: 15 min
 
@@ -71,7 +71,7 @@ Estimated time: 15 min
 1. Present your gene to your group.
 1. Take turns presenting your genes among your group and decide on one gene that you think is the most interesting.
 
-### Activity 3 - Class Presentation {-}
+### **Activity 3** - Class Presentation {-}
 
 Estimated time: 30 min
 
