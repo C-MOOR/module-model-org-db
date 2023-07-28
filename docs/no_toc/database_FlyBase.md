@@ -1,4 +1,4 @@
-## FlyBase
+## FlyBase {#database-flybase}
 
 <img src="assets/database_FlyBase/FlyBase_logo.png" title="FlyBase logo" alt="FlyBase logo" width="147" />
 
