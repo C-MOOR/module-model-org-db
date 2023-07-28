@@ -51,7 +51,7 @@ Estimated time: 10 min
 |:-|
 | <br> |
 
-### **Activity 2** - Drosophila melanogaster {-}
+### **Activity 2** - *Drosophila melanogaster* {-}
 
 Estimated time: 20 min
 
@@ -94,6 +94,7 @@ Estimated time: 20 min
 
 - Stephanie R. Coffman, Ph.D., Clovis Community College
 - Katherine Cox, Ph.D., Johns Hopkins University
+- Rosa Alcazar, Ph.D., Clovis Community College
 - Frederick Tan, Ph.D., Carnegie Institution for Science
 
 Last Revised: July 2023
