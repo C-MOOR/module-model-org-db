@@ -19,12 +19,12 @@ The three activities in this assignment will give you a quick tour of several on
 
 Estimated time: 15 min
 
-#### Instructions
+#### Instructions {-}
 
 1. [Click here to open the Biological Databases Introduction.](https://www.c-moor.org/module-model-org-db/database-intro.html){target="_blank"}
 1. As you complete the lesson, fill in the table below. This will help you know which database to go back to later on.
 
-#### Questions
+#### Questions {-}
 
 Table 1. Databases
 
@@ -39,12 +39,12 @@ Table 1. Databases
 
 Estimated time: 15 min
 
-#### Instructions
+#### Instructions {-}
 
 1. Work through the FlyBase Tutorial in SciServer.
 1. To move through the activities click "Continue" at the bottom of the screen. When you are done with a topic, click "Next Topic" to move on.
 
-#### Questions
+#### Questions {-}
 
 | 2A. What is one question you have about using FlyBase? |
 |:-|
@@ -60,12 +60,12 @@ Estimated time: 15 min
 
 Estimated time: 15 min
 
-#### Instructions
+#### Instructions {-}
 
 1. Work through the Human Protein Atlas in SciServer.
 1. To move through the activities click "Continue" at the bottom of the screen. When you are done with a topic, click "Next Topic" to move on.
 
-#### Questions
+#### Questions {-}
 
 | 3A. What is one question you have about using HPA? |
 |:-|
