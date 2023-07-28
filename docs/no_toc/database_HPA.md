@@ -1,4 +1,4 @@
-## Human Protein Atlas
+## Human Protein Atlas {#database-hpa}
 
 <img src="assets/database_HPA/HPA_logo.png" title="Human Protein Atlas logo" alt="Human Protein Atlas logo" width="271" />
 

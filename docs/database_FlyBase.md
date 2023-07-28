@@ -1,4 +1,4 @@
-## FlyBase
+## FlyBase {#database-flybase}
 
 ![](assets/database_FlyBase/FlyBase_logo.png)
 

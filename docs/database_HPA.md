@@ -1,4 +1,4 @@
-## Human Protein Atlas
+## Human Protein Atlas {#database-hpa}
 
 ![](assets/database_HPA/HPA_logo.png)
 
