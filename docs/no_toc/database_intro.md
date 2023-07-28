@@ -1,4 +1,4 @@
-## Introduction to Biological Databases
+## Introduction to Biological Databases {#database-intro}
 
 <div class="figure">
 <img src="assets/database_intro/database_logos.png" alt="Logos from different biological databases, including Human Protein Atlas, Protein Data Bank, Genbank, and Online Mendelian Inheritance in Man" width="370" />
