@@ -28,8 +28,8 @@ The "Content Collection" contains standalone readings and activities on specific
 
 #### Customizing Assignments {-}
 
-Each of the assignment chapters in the Example Lab includes a link to .docx version of the assignment (as a Google Doc) so that you can easily make your own copy and adapt it to your needs
+Each of the assignment chapters in the Example Lab includes a link to .docx version of the assignment (in the Footnotes) so that you can easily make your own copy and adapt it to your needs.  
 
-If you are comfortable with GitHub, you can also fork the repository for this book and modify the Rmarkdown files.
+If you are comfortable with GitHub, you can also fork the [repository](https://github.com/C-MOOR/module-model-org-db) for this book and modify the Rmarkdown files.
 
 
