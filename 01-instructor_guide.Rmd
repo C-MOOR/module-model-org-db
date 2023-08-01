@@ -22,14 +22,13 @@ The **Example Lab** portion of this book demonstrates how we typically organize 
 
 This book is organized into two parts:
 
-- The **Example Lab** demonstrates how we have used the material as a single lab period of an introductory biology course. The "chapters" of the Example Lab are the instructions that we give to our students, and can be downloaded as .docx files if you want to modify them for your course, or assigned directly if you are happy with them as-is.  These assignments may direct students to work through one or more of the chapters in our Content Collection.
-
-The **Content Collection** contains standalone readings and activities on specific topics, similar to textbook chapters.  In the future we intend to incorporate additional Content chapters covering other model organisms and databases, so that instructors can choose the organisms and databases most relevant to their students.
+- The **Example Lab** demonstrates how we have used the material as a single lab period of an introductory biology course. The "chapters" of the Example Lab are the instructions that we give to our students, and can be downloaded as `.docx` files if you want to modify them for your course, or can be assigned directly if you are happy with them as-is.  These assignments direct students to work through one or more of the chapters in our Content Collection.
+- The **Content Collection** contains standalone readings and activities on specific topics, similar to textbook chapters.  In the future we intend to incorporate additional Content chapters covering other model organisms and databases, so that instructors can choose the organisms and databases most relevant to their students.
 
 #### Customizing Assignments {-}
 
 Each of the assignment chapters in the Example Lab includes a link to a `.docx` version of the assignment (in the Footnotes) so that you can easily make your own copy and adapt it to your needs.  
 
-If you are comfortable with GitHub, you can also fork the [repository](https://github.com/C-MOOR/module-model-org-db) for this book and modify the Rmarkdown files.
+If you are comfortable with GitHub, you can also fork the [repository](https://github.com/C-MOOR/module-model-org-db) for this book and modify the R Markdown files.
 
 
