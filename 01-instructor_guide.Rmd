@@ -2,7 +2,7 @@
 
 This module has two key goals: From a "fundamentals of biology" perspective, this module aims to help students gain an appreciation of genes, homology, and how model organisms can contribute to our understanding of a gene by giving them concrete examples to investigate.  From a "scientific practice" perspective, it aims to show them some of the publicly available scientific databases and give them confidence in exploring them to find information about a gene of interest.
 
-### Module Components: {-}
+### Module Components {-}
 
 | Activity | Time |
 | :-- | :- |
