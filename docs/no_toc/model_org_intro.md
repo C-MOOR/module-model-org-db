@@ -65,10 +65,10 @@ Generally the more complex and more similar an organism is to a human, the more 
 
 #### Mouse {-}
 
-<figure style="width: 30%; float: right;">
-![Ilmari Karonen (2006) Common house mouse (*Mus musculus*), wild type. https://commons.wikimedia.org/wiki/File:Mouse_white_background.jpg Public Domain](assets/model_org_intro/mouse.jpg){width=100%}
-
-</figure>
+<div class="figure">
+<img src="assets/model_org_intro/mouse.jpg" alt="Photo of a mouse" width="40%" />
+<p class="caption">(\#fig:unnamed-chunk-3)Ilmari Karonen (2006) Common house mouse (*Mus musculus*), wild type. https://commons.wikimedia.org/wiki/File:Mouse_white_background.jpg License: Public Domain</p>
+</div>
 
 ##### Genome {-}
 - ~3 billion bases in length (similar to human)
@@ -84,10 +84,10 @@ Generally the more complex and more similar an organism is to a human, the more 
 
 #### Fruit fly {-}
 
-<figure style="width: 30%; float: right;">
-![Sanjay Acharya (2017) A fruit fly (*Drosophila melanogaster*) feeding off a banana. https://commons.wikimedia.org/wiki/File:Drosophila_melanogaster_Proboscis.jpg License: [CC BY 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en)](assets/model_org_intro/fruit_fly.jpg){width=100%}
-
-</figure>
+<div class="figure">
+<img src="assets/model_org_intro/fruit_fly.jpg" alt="Photo of a fruit fly" width="40%" />
+<p class="caption">(\#fig:unnamed-chunk-4)Sanjay Acharya (2017) A fruit fly (*Drosophila melanogaster*) feeding off a banana. https://commons.wikimedia.org/wiki/File:Drosophila_melanogaster_Proboscis.jpg License: [CC BY 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en)</p>
+</div>
 
 ##### Genome {-}
 - ~140 million bases in length
@@ -103,10 +103,10 @@ Generally the more complex and more similar an organism is to a human, the more 
 
 #### Yeast {-}
 
-<figure style="width: 30%; float: right;">
-![Rainis Venta (2011) Drop-inoculation of laboratory baker´s yeast (*Saccharomyces cerevisiae*) mutants on agar plate. https://en.wikipedia.org/wiki/Saccharomyces_cerevisiae#/media/File:Laboratoorne_pagarip%C3%A4rm_(Saccharomyces_cerevisiae)_agariplaadil..JPG License: [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)](assets/model_org_intro/yeast.jpeg){width=100%}
-
-</figure>
+<div class="figure">
+<img src="assets/model_org_intro/yeast.jpeg" alt="Photo of yeast growing in a petri dish" width="40%" />
+<p class="caption">(\#fig:unnamed-chunk-5)Rainis Venta (2011) Drop-inoculation of laboratory baker´s yeast (*Saccharomyces cerevisiae*) mutants on agar plate. https://en.wikipedia.org/wiki/Saccharomyces_cerevisiae#/media/File:Laboratoorne_pagarip%C3%A4rm_(Saccharomyces_cerevisiae)_agariplaadil..JPG License: [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)</p>
+</div>
 
 ##### Genome {-}
 - ~12 million bases in length
@@ -122,10 +122,10 @@ Generally the more complex and more similar an organism is to a human, the more 
 
 #### *E. coli* {-}
 
-<figure style="width: 30%; float: right;">
-![Madprime (2007) K12 *E. coli* colonies on a plate. https://commons.wikimedia.org/wiki/File:Ecoli_colonies.png License: [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/deed.en)](assets/model_org_intro/ecoli.png){width=100%}
-
-</figure>
+<div class="figure">
+<img src="assets/model_org_intro/ecoli.png" alt="Photo of E. coli growing in a petri dish" width="40%" />
+<p class="caption">(\#fig:unnamed-chunk-6)Madprime (2007) K12 *E. coli* colonies on a plate. https://commons.wikimedia.org/wiki/File:Ecoli_colonies.png License: [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/deed.en)</p>
+</div>
 
 ##### Genome {-}
 - ~5 million bases in length
