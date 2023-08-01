@@ -3,7 +3,7 @@ chapter_name: "Chapter "
 repo: https://github.com/jhudsl/OTTR_Template/
 rmd_files: ["index.Rmd",
             "01-instructor_guide.Rmd",
-            "02-lab_exercises.Rmd",
+            "02-example_lab.Rmd",
             "02a-prelab_model_organisms.Rmd",
             "02b-lab_lecture.Rmd",
             "02c-exercises_databases.Rmd",
