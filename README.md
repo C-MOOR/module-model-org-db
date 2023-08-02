@@ -12,7 +12,7 @@ This content is part of a collection of teaching resources developed by C-MOOR. 
 
 ## Forking
 
-This module was created from [our GitHub template](https://github.com/jhudsl/C-MOOR_Template).  It uses OTTR to render R Markdown content into multiple formats.  If you would like to fork this repository, you can learn more about how OTTR works by visiting [ottrproject.org](https://www.ottrproject.org/)
+This module uses OTTR to render R Markdown content into multiple formats.  If you would like to fork this repository, you can learn more about how OTTR works by visiting [ottrproject.org](https://www.ottrproject.org/)
   
 OTTR helps you:
 
