@@ -1,12 +1,14 @@
-<!--Delete this section below upon using the template-->
+## C-MOOR Module: Model Organisms and Biological Databases
 
-## Open-source Tools for Training Resources - OTTR
+[![Render Bookdown and Coursera](https://github.com/jhudsl/OTTR_Template/actions/workflows/render-all.yml/badge.svg)](https://github.com/jhudsl/OTTR_Template/actions/workflows/render-all.yml)
 
-Go to [ottrproject.org](https://www.ottrproject.org/) to get started! :tada:
+## Forking
 
-The purpose of this course template and guide is to make course publishing maintenance across multiple different platforms _less painful_.
+This course was created from [this GitHub template](https://github.com/jhudsl/C-MOOR_Template).
 
-_This template and guide helps you_:   
+This repository uses OTTR to render R Markdown content into multiple formats.  If you would like to fork this repository, you can learn more about how OTTR works by visiting [ottrproject.org](https://www.ottrproject.org/)
+  
+OTTR helps you:
 
 - Edit and write a course in [RMarkdown files](https://rmarkdown.rstudio.com/) and have it published to multiple different platforms:
   - [Leanpub](https://leanpub.com/bookstore?type=course)
@@ -17,43 +19,6 @@ _This template and guide helps you_:
 - Use [our Docker image](https://hub.docker.com/repository/docker/jhudsl/base_ottr) for consistency across authors as well as to help you [avoid dependency hell](https://en.wikipedia.org/wiki/Dependency_hell).
 
 [See the OTTR pre-print here!](https://arxiv.org/abs/2203.07083)
-
-<img src="https://docs.google.com/presentation/d/18k_QN7l6zqZQXoiRfKWzcYFXNXJJEo6j4daYGoc3UcU/export/png?id=18k_QN7l6zqZQXoiRfKWzcYFXNXJJEo6j4daYGoc3UcU&pageid=gf4fcf6569c_2_29" width="500"/>
-
-## Courses that have been made using this template:
-- [Documentation and Usability](https://jhudatascience.org/Documentation_and_Usability/)
-- [Leadership for Cancer Informatics Research](https://jhudatascience.org/Informatics_Research_Leadership/)
-- [Reproducibility in Cancer Informatics](https://jhudatascience.org/Reproducibility_in_Cancer_Informatics/)
-- [Advanced Reproducibility in Cancer Informatics](https://jhudatascience.org/Adv_Reproducibility_in_Cancer_Informatics/)
-
-## To Get Started
-- Go to the [ottrproject.org](https://www.ottrproject.org/).
-- Check out the [rendered version of the template](https://jhudatascience.org/OTTR_Template/).
-- Please take a look at the [code of conduct](./code_of_conduct.md).
-- If you encounter any problems or have ideas for improvements to this template repository or this getting started guide, please [file an issue here](https://github.com/jhudsl/OTTR_Template/issues/new/choose)! Your feedback is very much appreciated.
-
-<!--Delete everything above this line upon using the template-->
-
-# {Course Name}
-
-[![Render Bookdown and Coursera](https://github.com/jhudsl/OTTR_Template/actions/workflows/render-all.yml/badge.svg)](https://github.com/jhudsl/OTTR_Template/actions/workflows/render-all.yml)
-
-This course was created from [this GitHub template](https://github.com/jhudsl/OTTR_Template).
-
-You can see the rendered course material here: {Link to rendered bookdown and/or to the Leanpub.}
-
-If you would like to contribute to this course material, take a look at the [getting started GitHub wiki pages](https://github.com/jhudsl/OTTR_Template/wiki).
-
-## About this course
-
-This course introduces {info on what this course introduces}
-
-## Learning Objectives
-
-This course will teach learners to:  
-
-- {You can use https://www.bobpikegroup.com/trainer-blog/5-steps-to-writing-clear-and-measurable-learning-objectives to define some learning objectives here}
-- {More learning objectives}
 
 ## Encountering problems?
 
