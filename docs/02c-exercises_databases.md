@@ -89,7 +89,7 @@ Estimated time: 15 min
 
 #### Resources
 
-- [Google Doc](https://docs.google.com/document/d/1M7rtDzyGVUxO2GVBp09bTBu4fMDxocTs)
+- [Google Doc](https://docs.google.com/document/d/1nDpBeI_ATwMm1JnlwxK3WYY7SdvIPNEd/)
 
 #### Contributions and Affiliations
 
