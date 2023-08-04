@@ -26,7 +26,7 @@ Estimated time: 45  min
 |:-|
 | <br> |
 
-2. [Look up your letter here](https://docs.google.com/spreadsheets/d/1GZtHz2GU3B4KMOd9yuKrcQLJJLn7qlnZgPN5c6SNqGg) and write the names of the four genes your group is assigned at the top of each column in the table below.
+2. [Look up your letter here](https://docs.google.com/spreadsheets/d/1sVDwyejmjzwD_CJelmiMo1m6b4MRGSu9BjgjEfA-PWs/) and write the names of the four genes your group is assigned at the top of each column in the table below.
 3. In your group, assign each student one of the four genes to research.
 
 | Individual Assigned Gene |
@@ -87,7 +87,7 @@ Estimated time: 30 min
 
 #### Resources {-}
 
-- [Google Doc](https://docs.google.com/document/d/1M7rtDzyGVUxO2GVBp09bTBu4fMDxocTs)
+- [Google Doc](https://docs.google.com/document/d/1j-6AH4UNIHY7hA3cROaPbn5EI4xjZWKs/)
 
 #### Contributions and Affiliations {-}
 
