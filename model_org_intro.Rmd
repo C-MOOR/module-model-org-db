@@ -1,5 +1,9 @@
 ## Introduction to Model Organisms {#model-org-intro}
 
+:::{.section-metadata}
+*Katherine Cox, Rosa Alcazar, Stephanie Coffman, Frederick Tan*
+:::
+
 ```{r, echo=FALSE, fig.alt="Collage of pictures of several different model organisms", fig.cap = "Max Westby. Some of the most important genetic model organisms in use today. Clockwise from top left: yeast, fruit fly, arabidopsis, mouse, roundworm, zebrafish. http://cubocube.com/dashboard.php?a=1179&b=1228&c=103 License: [CC ANS 2.5](https://creativecommons.org/licenses/by-nc-sa/2.5/)"}
 
 knitr::include_graphics("assets/model_org_intro/model_organism_collage.jpeg")
