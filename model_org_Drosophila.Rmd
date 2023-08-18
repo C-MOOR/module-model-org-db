@@ -1,9 +1,9 @@
 ## *Drosophila melanogaster* (fruit fly) {#model-org-drosophila}
 
 :::{.section-metadata}
-*[Katherine EL Cox](https://katherinecox.github.io/)^1^, Rosa Alcazar^2^, Stephanie Coffman^2^, Frederick Tan^3^*
+[Katherine EL Cox](https://katherinecox.github.io/)^1^, Rosa Alcazar^2^, Stephanie Coffman^2^, Frederick Tan^3^
 
-*^1^Johns Hopkins University, ^2^Clovis Community College, ^3^Carnegie Institution for Science*
+^1^Johns Hopkins University, ^2^Clovis Community College, ^3^Carnegie Institution for Science
 :::
 
 ```{r, echo=FALSE, fig.alt="Picture of a fruit fly", fig.cap = "Sanjay Acharya (2017) A fruit fly (*Drosophila melanogaster*) feeding off a banana. https://commons.wikimedia.org/wiki/File:Drosophila_melanogaster_Proboscis.jpg License: [CC BY 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en)"}
