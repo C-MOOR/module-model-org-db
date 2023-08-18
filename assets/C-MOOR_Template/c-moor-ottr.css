@@ -18,8 +18,8 @@
 
 .section-metadata {
   font-style: italic;
+  margin-top: -3rem;
   margin-bottom: 3rem;
-  margin-top: -3.5rem;
 }
 
 .book .book-body .page-wrapper .page-inner section.normal div.section-metadata p {
