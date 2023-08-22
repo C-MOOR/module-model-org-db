@@ -2,7 +2,7 @@ bookdown::gitbook:
   css: [assets/style.css, assets/C-MOOR_Template/c-moor-ottr.css]
   includes:
     before_body: assets/C-MOOR_Template/big-image-c-moor.html
-    after_body: assets/C-MOOR_Template/footer.html
+    after_body: footer.html
   highlight: tango
   config:
     toc:
