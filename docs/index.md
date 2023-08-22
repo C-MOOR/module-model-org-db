@@ -1,6 +1,6 @@
 ---
 title: "Model Organisms and Biological Databases"
-date: "August 16, 2023"
+date: "August 22, 2023"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib]
@@ -9,10 +9,12 @@ link-citations: yes
 description: "This C-MOOR module introduces students to model organisms and biological databases and the roles they play in scientific research. At a more fundamental level, it illuminates the concepts of genes and homology. By using databases to explore genes and their homologs, students will gain a deeper appreciation of the commonalities that exist across organisms and the ways in which this can help us conduct scientific research."
 favicon: assets/dasl_favicon.ico
 output:
+    bookdown::gitbook:
+      config:
+        edit: https://github.com/C-MOOR/module-model-org-db/edit/main/%s
+      split_by: section
     bookdown::word_document2:
       toc: true
-    bookdown::gitbook:
-      split_by: section
 ---
 
 # About {-}
