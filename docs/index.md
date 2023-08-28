@@ -1,6 +1,6 @@
 ---
 title: "Model Organisms and Biological Databases"
-date: "August 22, 2023"
+date: "August 28, 2023"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib]
@@ -123,3 +123,4 @@ This course is available in multiple formats which allows you to take it in the 
 - This course can be taken on [Coursera for certification here](LINK HERE) (but it is not available for free on Coursera).
 - Our courses are open source, you can find the [source material for this course on GitHub](LINK HERE). 
 -->
+
