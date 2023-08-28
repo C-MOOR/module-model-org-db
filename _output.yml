@@ -1,6 +1,7 @@
 bookdown::gitbook:
   css: [assets/style.css, assets/C-MOOR_Template/c-moor-ottr.css]
   includes:
+    in_header: GA_Script.html
     before_body: assets/C-MOOR_Template/big-image-c-moor.html
     after_body: footer.html
   highlight: tango
