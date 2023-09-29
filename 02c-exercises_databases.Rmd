@@ -1,4 +1,1 @@
 # Exercises: Biological Databases
-
-```{r, child='assignment_database_intro_FlyBase_HPA.Rmd'}
-```

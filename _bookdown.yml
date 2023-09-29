@@ -4,14 +4,22 @@ repo: https://github.com/jhudsl/OTTR_Template/
 rmd_files: ["index.Rmd",
             "01-instructor_guide.Rmd",
             
-            #PART Example Lab
+            ### PART Example Lab ###
             "02-example_lab.Rmd",
-            "02a-prelab_model_organisms.Rmd",
-            "02b-lab_lecture.Rmd",
-            "02c-exercises_databases.Rmd",
-            "02d-project_databases.Rmd",
             
-            #PART Content Collection
+            "02a-prelab_model_organisms.Rmd",
+            "assignment_model_org_intro_Drosophila.Rmd",
+            
+            "02b-lab_lecture.Rmd",
+            
+            "02c-exercises_databases.Rmd",
+            "assignment_database_intro_FlyBase_HPA.Rmd",
+            
+            "02d-project_databases.Rmd",
+            "assignment_project_FlyBase_HPA.Rmd",
+            
+            
+            ### PART Content Collection ###
             "03-content_collection.Rmd",
             
             #H1 Model Organisms
