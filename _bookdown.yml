@@ -7,14 +7,18 @@ rmd_files: ["index.Rmd",
             ### PART Example Lab ###
             "02-example_lab.Rmd",
             
+            #H1 Prelab
             "02a-prelab_model_organisms.Rmd",
             "assignment_model_org_intro_Drosophila.Rmd",
             
+            #H1 Lab Lecture
             "02b-lab_lecture.Rmd",
             
+            #H1 Exercises
             "02c-exercises_databases.Rmd",
             "assignment_database_intro_FlyBase_HPA.Rmd",
             
+            #H1 Project
             "02d-project_databases.Rmd",
             "assignment_project_FlyBase_HPA.Rmd",
             
