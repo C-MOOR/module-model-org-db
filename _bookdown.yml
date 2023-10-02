@@ -1,7 +1,9 @@
 book_filename: "Course_Name"
 chapter_name: "Chapter "
 repo: https://github.com/jhudsl/OTTR_Template/
-rmd_files: ["index.Rmd",
+rmd_files: [
+            ### Front matter
+            "index.Rmd",
             "01-instructor_guide.Rmd",
             
             ### PART Example Lab ###
@@ -39,7 +41,8 @@ rmd_files: ["index.Rmd",
             "database_HPA.Rmd",
             "database_wanted.Rmd",
             
-            #PART Appendix
+            
+            ### PART Appendix ###
             "appendix.Rmd",
             "About.Rmd",
             "References.Rmd"]
