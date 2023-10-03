@@ -1,6 +1,6 @@
 ---
 title: "Model Organisms and Biological Databases"
-date: "August 28, 2023"
+date: "October 03, 2023"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib]
@@ -10,8 +10,6 @@ description: "This C-MOOR module introduces students to model organisms and biol
 favicon: assets/dasl_favicon.ico
 output:
     bookdown::gitbook:
-      config:
-        edit: https://github.com/C-MOOR/module-model-org-db/edit/main/%s
       split_by: section
     bookdown::word_document2:
       toc: true
