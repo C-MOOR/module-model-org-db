@@ -1,23 +1,48 @@
 book_filename: "Course_Name"
 chapter_name: "Chapter "
 repo: https://github.com/jhudsl/OTTR_Template/
-rmd_files: ["index.Rmd",
+rmd_files: [
+            ### Front matter
+            "index.Rmd",
             "01-instructor_guide.Rmd",
+            
+            ### PART Example Lab ###
             "02-example_lab.Rmd",
+            
+            #H1 Prelab
             "02a-prelab_model_organisms.Rmd",
+            "assignment_model_org_intro_Drosophila.Rmd",
+            
+            #H1 Lab Lecture
             "02b-lab_lecture.Rmd",
+            
+            #H1 Exercises
             "02c-exercises_databases.Rmd",
+            "assignment_database_intro_FlyBase_HPA.Rmd",
+            
+            #H1 Project
             "02d-project_databases.Rmd",
+            "assignment_project_FlyBase_HPA.Rmd",
+            
+            
+            ### PART Content Collection ###
             "03-content_collection.Rmd",
+            
+            #H1 Model Organisms
             "03a-model_organisms.Rmd",
             "model_org_intro.Rmd",
             "model_org_Drosophila.Rmd",
             "model_org_wanted.Rmd",
+            
+            #H1 Databases
             "03b-databases.Rmd",
             "database_intro.Rmd",
             "database_FlyBase.Rmd",
             "database_HPA.Rmd",
             "database_wanted.Rmd",
+            
+            
+            ### PART Appendix ###
             "appendix.Rmd",
             "About.Rmd",
             "References.Rmd"]
