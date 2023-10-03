@@ -44,7 +44,7 @@ rmd_files: [
             
             ### PART Appendix ###
             "appendix.Rmd",
-            "appendix_about_authors.Rmd",
+            "About.Rmd",
             "References.Rmd"]
 new_session: yes
 delete_merged_file: true
