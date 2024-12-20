@@ -30,7 +30,7 @@ It’s often much **faster, cheaper, and easier** to conduct experiments in mode
 
 In the following video, you will hear about how researchers are using yeast and fruit flies as model organisms to study Huntington’s disease.
 
-<iframe src="https://www.youtube.com/embed/mqsq7R1Hu4g" width="672" height="400px"></iframe>
+<iframe src="https://www.youtube.com/embed/mqsq7R1Hu4g" width="672" height="400px" data-external="1"></iframe>
 
 ### What makes a good model organism?
 

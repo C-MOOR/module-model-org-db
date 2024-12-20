@@ -1,6 +1,6 @@
 ---
 title: "Model Organisms and Biological Databases"
-date: "October 03, 2023"
+date: "December 20, 2024"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib]

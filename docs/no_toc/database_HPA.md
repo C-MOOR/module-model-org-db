@@ -1,6 +1,6 @@
 ## Human Protein Atlas {#database-hpa}
 
-<img src="assets/database_HPA/HPA_logo.png" title="Human Protein Atlas logo" alt="Human Protein Atlas logo" width="271" />
+<img src="assets/database_HPA/HPA_logo.png" alt="Human Protein Atlas logo" width="271" />
 
 #### Learning Objectives {-}
 
