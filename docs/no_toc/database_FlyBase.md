@@ -1,6 +1,6 @@
 ## FlyBase {#database-flybase}
 
-<img src="assets/database_FlyBase/FlyBase_logo.png" title="FlyBase logo" alt="FlyBase logo" width="147" />
+<img src="assets/database_FlyBase/FlyBase_logo.png" alt="FlyBase logo" width="147" />
 
 #### Learning Objectives {-}
 
