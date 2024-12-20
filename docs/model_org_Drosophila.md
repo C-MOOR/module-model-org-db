@@ -17,7 +17,12 @@ Studying fruit flies can give important insights into basic biological processes
 
 The following video highlights some of the reasons fruit flies make such great model organisms, and discusses an example of how a gene first discovered studied in fruit flies turned out to have an important role in polydactyly (having extra fingers or toes) and cancer.
 
-<iframe src="https://www.youtube.com/embed/C9FSf6nhDSc" width="100%" height="400px"></iframe>
+
+```
+## `google-chrome`, `chromium-browser` and `chrome` were not found. Try setting the `CHROMOTE_CHROME` environment variable to the executable of a Chromium-based browser, such as Google Chrome, Chromium or Brave or adding one of these executables to your PATH.
+```
+
+<iframe src="https://www.youtube.com/embed/C9FSf6nhDSc" width="100%" height="400px" data-external="1"></iframe>
 
 
 ### Meet *Drosophila melanogaster*
@@ -74,7 +79,7 @@ This video shows one of the most common tasks for fly maintenance - transferring
 
 Notice how she taps the vials on the lab bench to shake the flies down to the bottom of the vial before removing the stopper - this helps prevent the flies from escaping as she makes the transfer.
 
-<iframe src="https://www.youtube.com/embed/vYwz--fvV_8" width="100%" height="400px"></iframe>
+<iframe src="https://www.youtube.com/embed/vYwz--fvV_8" width="100%" height="400px" data-external="1"></iframe>
 
 
 #### Dissection {-}
@@ -84,7 +89,7 @@ Dissecting a fruit fly is challenging, because it is so small!  Scientists use s
 
 The following video shows dissection of the reproductive tracts from *Drosophila*.  Similar processes can be used to collect other tissues, such as the gut or brain.  Don’t worry too much about the names for all the different organs mentioned in the video.  Focus on the overall procedure, and think about how this process of dissection is an essential part of many experiments.
 
-<iframe src="https://www.youtube.com/embed/JQ2dY9_2lA0" width="100%" height="400px"></iframe>
+<iframe src="https://www.youtube.com/embed/JQ2dY9_2lA0" width="100%" height="400px" data-external="1"></iframe>
 
 
 ### *Drosophila* disease models

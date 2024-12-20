@@ -24,7 +24,9 @@ Estimated time: 10 min
 
 #### Instructions {-}
 
-1. [Click here to open the Model Organisms Introduction.](https://www.c-moor.org/module-model-org-db/model-org-intro.html){target="_blank"}
+1. Work through the Introduction to Model Organisms tutorial on SciServer.
+  1. If you can’t access the tutorial on SciServer, [click here to read a static copy of the Introduction to Model Organisms tutorial](https://science.c-moor.org/module-model-org-db/model-org-intro.html){target="_blank"}.
+1. To move through the activities click “Continue” at the bottom of the screen. When you are done with a topic, click “Next Topic” to move on.
 1. As you complete the lesson, answer the questions below.
 
 #### Questions {-}
@@ -51,7 +53,9 @@ Estimated time: 20 min
 
 #### Instructions {-}
 
-1. [Click here to open the *Drosophila melanogaster* lesson.](https://www.c-moor.org/module-model-org-db/model-org-drosophila.html){target="_blank"}
+1. Work through the *Drosophila melanogaster* tutorial on SciServer
+  1. If you can’t access the tutorial on SciServer, [click here to read a static copy of the Drosophila melanogaster tutorial](https://science.c-moor.org/module-model-org-db/model-org-drosophila.html){target="_blank"}.
+1. To move through the activities click “Continue” at the bottom of the screen. When you are done with a topic, click “Next Topic” to move on.
 1. As you complete the lesson, answer the questions below.
 
 #### Questions {-}
